@@ -1,0 +1,870 @@
+REMOVE,BBS_NAME,CODES,CN,EN,SN
+,灰雁,"GRGO,ANAN",灰雁,Graylag Goose,Anser anser
+,灰雁(馴化),"GRGO,ANAN",灰雁(馴化),Graylag Goose (Domestic type),Anser anser (Domestic type)
+,鴻雁,"SWGO,ANCY",鴻雁,Swan Goose,Anser cygnoides
+,鴻雁(馴化),"SWGO,ANCY",鴻雁(馴化),Swan Goose (Domestic type),Anser cygnoides (Domestic type)
+,白額雁,"GWFG,ANAL",白額雁,Greater White-fronted Goose,Anser albifrons
+,小白額雁,"LWFG,ANER",小白額雁,Lesser White-fronted Goose,Anser erythropus
+X,白額雁/小白額雁,"GWFG,LWFG,ANER,ANAL",白額雁/小白額雁,Greater/Lesser White-fronted Goose,Anser albifrons/erythropus
+,寒林豆雁,"TABG,TBGO,ANFA",寒林豆雁,Taiga Bean-Goose,Anser fabalis
+,凍原豆雁,"TUBG,TBGO,ANSE",凍原豆雁,Tundra Bean-Goose,Anser serrirostris
+,寒林/凍原豆雁,"TABG,TUBG,TBGO,ANSE,ANFA",寒林/凍原豆雁,Taiga/Tundra Bean-Goose,Anser fabalis/serrirostris
+,家鵝(馴化),DGSP,家鵝(馴化),Domestic goose sp. (Domestic type),Anser sp. (Domestic type)
+,雁屬(XX雁),,雁屬,Anser sp.,Anser sp.
+X,雁類(XX雁),UNGO,雁類,goose sp.,Anser/Branta sp.
+,黑天鵝,"BLSW,CYAT",黑天鵝,Black Swan,Cygnus atratus
+,小天鵝,"TUSW,BESW,CYCO",小天鵝,Tundra Swan,Cygnus columbianus
+,黃嘴天鵝,"WHOS,WHSW,CYCY",黃嘴天鵝,Whooper Swan,Cygnus cygnus
+X,小/黃嘴天鵝,"BESW,TUSW,WHOS,WHSW,CYCO,CYCY",小/黃嘴天鵝,Tundra/Whooper Swan,Cygnus columbianus/cygnus
+,天鵝屬(XX天鵝),,天鵝屬,swan sp.,Cygnus sp.
+,瀆鳧,"RUSH,TAFE",瀆鳧,Ruddy Shelduck,Tadorna ferruginea
+,花鳧,"COMS,COSH,TATA",花鳧,Common Shelduck,Tadorna tadorna
+,疣鼻棲鴨(薑母鴨)(馴化),"MUDU,CAMO",疣鼻棲鴨(薑母鴨)(馴化),Muscovy Duck (Domestic type),Cairina moschata (Domestic type)
+,棉鴨,"COPG,CPGO,NECO",棉鴨,Cotton Pygmy-Goose,Nettapus coromandelianus
+,鴛鴦,"MADU,AIGA",鴛鴦,Mandarin Duck,Aix galericulata
+,巴鴨,"BATE,SIFO",巴鴨,Baikal Teal,Sibirionetta formosa
+,白眉鴨,"GARG,SPQU",白眉鴨,Garganey,Spatula querquedula
+,琵嘴鴨,"NSHO,KOMO,NOSH,SPCL",琵嘴鴨,Northern Shoveler,Spatula clypeata
+,赤膀鴨,"GADW,MAST",赤膀鴨,Gadwall,Mareca strepera
+,羅文鴨,"FADU,MAFA",羅文鴨,Falcated Duck,Mareca falcata
+,赤頸鴨,"EUWI,MAPE",赤頸鴨,Eurasian Wigeon,Mareca penelope
+,葡萄胸鴨,"AMWI,MAAM",葡萄胸鴨,American Wigeon,Mareca americana
+,花嘴鴨,"ESBD,ANZO",花嘴鴨,Eastern Spot-billed Duck,Anas zonorhyncha
+,綠頭鴨,"MALL,ANPL",綠頭鴨,Mallard,Anas platyrhynchos
+,綠頭鴨(馴化),"MALL,ANPL",綠頭鴨(馴化),Mallard (Domestic type),Anas platyrhynchos (Domestic type)
+,尖尾鴨,"NOPI,KOMA,ANAC",尖尾鴨,Northern Pintail,Anas acuta
+,小水鴨,"GWTE,EUTE,EGWT,EWTE,ANCR",小水鴨,Green-winged Teal,Anas crecca
+X,白眉鴨/小水鴨,"GWTE,EUTE,EWTE,GARG,EGWT,ANCR,SPQU",白眉鴨/小水鴨,Garganey/Green-winged Teal,Spatula querquedula/Anas crecca
+,鴨屬(XX鴨),,鴨屬,Anas sp.,Anas sp.
+,紅頭潛鴨,"COMP,COPO,AYFE",紅頭潛鴨,Common Pochard,Aythya ferina
+,白眼潛鴨,"FEDU,AYNY",白眼潛鴨,Ferruginous Duck,Aythya nyroca
+,青頭潛鴨,"BAPO,AYBA",青頭潛鴨,Baer's Pochard,Aythya baeri
+X,白眼/青頭潛鴨,"FEDU,BAPO,AYBA,AYNY",白眼/青頭潛鴨,Ferruginous Duck/Baer's Pochard,Aythya nyroca/baeri
+,鳳頭潛鴨,"TUDU,AYFU",鳳頭潛鴨,Tufted Duck,Aythya fuligula
+,斑背潛鴨,"GRSC,AYMA",斑背潛鴨,Greater Scaup,Aythya marila
+,潛鴨屬(XX潛鴨),,潛鴨屬,Aythya sp.,Aythya sp.
+,白秋沙,"SMEW,MEAL",白秋沙,Smew,Mergellus albellus
+,川秋沙,"COME,GOOS,MEME",川秋沙,Common Merganser,Mergus merganser
+,紅胸秋沙,"RBME,MESE",紅胸秋沙,Red-breasted Merganser,Mergus serrator
+X,川秋沙/紅胸秋沙,"GOOS,RBME,COME,MEME,MESE",川秋沙/紅胸秋沙,Common/Red-breasted Merganser,Mergus merganser/serrator
+,唐秋沙,"SSME,MESQ",唐秋沙,Scaly-sided Merganser,Mergus squamatus
+,秋沙類(XX秋沙),,秋沙類,merganser sp.,Mergellus/Lophodytes/Mergus sp.
+X,鴨類(鴨亞科)(XX鴨),,鴨類(鴨亞科),duck sp.,Anatinae sp.
+,雁鴨類(雁鴨科)(XX雁鴨),UNDU,雁鴨類(雁鴨科),waterfowl sp.,Anatidae sp.
+,普通珠雞(馴化),"HEGU,NUME",普通珠雞(馴化),Helmeted Guineafowl (Domestic type),Numida meleagris (Domestic type)
+,台灣山鷓鴣,"TAPA,ARCR",台灣山鷓鴣,Taiwan Partridge,Arborophila crudigularis
+,藍孔雀,"INPE,PACR",藍孔雀,Indian Peafowl,Pavo cristatus
+X,藍孔雀(馴化),"INPE,PACR",藍孔雀(馴化),Indian Peafowl (Domestic type),Pavo cristatus (Domestic type)
+,小鵪鶉,"KIQU,BBQU,SYCH",小鵪鶉,Blue-breasted Quail,Synoicus chinensis
+,鵪鶉,"JAQU,COJA",鵪鶉,Japanese Quail,Coturnix japonica
+,台灣竹雞,"TABP,TBPA,BASO",台灣竹雞,Taiwan Bamboo-Partridge,Bambusicola sonorivox
+,臺灣竹雞,"TABP,TBPA,BASO",台灣竹雞,Taiwan Bamboo-Partridge,Bambusicola sonorivox
+,黑長尾雉,"MIPH,SYMI",黑長尾雉,Mikado Pheasant,Syrmaticus mikado
+,帝雉,"MIPH,SYMI",黑長尾雉,Mikado Pheasant,Syrmaticus mikado
+,環頸雉,"RNEP,RNPH,COPH,PHCO",環頸雉,Ring-necked Pheasant,Phasianus colchicus
+,藍腹鷴,"SWPH,LOSW",藍腹鷴,Swinhoe's Pheasant,Lophura swinhoii
+,雉類(雉亞科),,雉類(雉亞科),pheasant sp.,Phasianinae sp.
+,火雞(馴化),"WITU,MEGA",火雞(馴化),Wild Turkey (Domestic type),Meleagris gallopavo (Domestic type)
+,大紅鸛,"GRFL,PHRO",大紅鸛,Greater Flamingo,Phoenicopterus roseus
+,小鸊鷉,"LIGR,TARU",小鸊鷉,Little Grebe,Tachybaptus ruficollis
+,冠鸊鷉,"GCGR,POCR",冠鸊鷉,Great Crested Grebe,Podiceps cristatus
+,黑頸鸊鷉,"EAGR,BNGR,PONI",黑頸鸊鷉,Eared Grebe,Podiceps nigricollis
+,鸊鷉屬(XX鸊鷉),,鸊鷉屬,Podiceps sp.,Podiceps sp.
+,鸊鷈科(XX鸊鷉),,鸊鷈科,grebe sp.,Podicipedidae sp.
+,野鴿(野化),"ROPI,ROPI,FEPI,MANŪ,RODO,COLI",野鴿(野化),Rock Pigeon (Feral Pigeon),Columba livia (Feral Pigeon)
+,灰林鴿,"ASWP,AWPI,COPU",灰林鴿,Ashy Wood-Pigeon,Columba pulchricollis
+,黑林鴿,"JWPI,JAWP,COJA",黑林鴿,Japanese Wood-Pigeon,Columba janthina
+,鴿屬(XX鴿),,鴿屬,Columba sp.,Columba sp.
+,金背鳩,"ORTD,OTDO,RTDO,STOR",金背鳩,Oriental Turtle-Dove,Streptopelia orientalis
+,灰斑鳩,"EUCD,CODO,ECDO,STDE",灰斑鳩,Eurasian Collared-Dove,Streptopelia decaocto
+,紅鳩,"RCDO,RECD,RTDO,STTR",紅鳩,Red Collared-Dove,Streptopelia tranquebarica
+,珠頸斑鳩,"SPDO,STCH",珠頸斑鳩,Spotted Dove,Streptopelia chinensis
+,斑鳩屬(XX鳩),,斑鳩屬,Streptopelia sp.,Streptopelia sp.
+,斑尾鵑鳩,"BACD,BCDO,MAUN",斑尾鵑鳩,Barred Cuckoo-Dove,Macropygia unchall
+,長尾鳩,"PHCD,PCDO,MATE",長尾鳩,Philippine Cuckoo-Dove,Macropygia tenuirostris
+,翠翼鳩,"AEDO,CEDO,CHIN",翠翼鳩,Asian Emerald Dove,Chalcophaps indica
+,斑馬鳩,"ZEBD,ZEDO,GEST",斑馬鳩,Zebra Dove,Geopelia striata
+,綠鳩,"WBPI,WBGP,TRSI",綠鳩,White-bellied Green-Pigeon,Treron sieboldii
+,紅頭綠鳩,"WGPI,WHGP,TRFO",紅頭綠鳩,Whistling Green-Pigeon,Treron formosae
+,綠鳩屬(XX綠鳩),,綠鳩屬,green-pigeon sp.,Treron sp.
+,小綠鳩,"BCFD,PTLE",小綠鳩,Black-chinned Fruit-Dove,Ptilinopus leclancheri
+,鳩鴿科(XX鳩鴿),,鳩鴿科,pigeon/dove sp.,Columbidae sp.
+,褐翅鴉鵑,"GRCO,CESI",褐翅鴉鵑,Greater Coucal,Centropus sinensis
+,番鵑,"LECO,CEBE",番鵑,Lesser Coucal,Centropus bengalensis
+,鴉鵑屬,,鴉鵑屬,coucal sp.,Centropus sp.
+,冠郭公,"CWCU,CLCO",冠郭公,Chestnut-winged Cuckoo,Clamator coromandus
+,斑翅鳳頭鵑,"PICU,JACU,CLJA",斑翅鳳頭鵑,Pied Cuckoo,Clamator jacobinus
+,噪鵑,"ASKO,EUSC",噪鵑,Asian Koel,Eudynamys scolopaceus
+,八聲杜鵑,"PLCU,CAME",八聲杜鵑,Plaintive Cuckoo,Cacomantis merulinus
+,方尾烏鵑,"STDC,SULU",方尾烏鵑,Square-tailed Drongo-Cuckoo,Surniculus lugubris
+,鷹鵑,"LHCU,LAHC,HISP",鷹鵑,Large Hawk-Cuckoo,Hierococcyx sparverioides
+,北方鷹鵑,"NHCU,NOHC,RUHC,RHCU,HIHY",北方鷹鵑,Northern Hawk-Cuckoo,Hierococcyx hyperythrus
+,棕腹鷹鵑,"HOHC,HHCU,HINI",棕腹鷹鵑,Hodgson's Hawk-Cuckoo,Hierococcyx nisicolor
+,鷹鵑屬,,鷹鵑屬,hawk-cuckoo sp.,Hierococcyx sp.
+,小杜鵑,"LECU,CUPO",小杜鵑,Lesser Cuckoo,Cuculus poliocephalus
+,四聲杜鵑,"INCU,CUMI",四聲杜鵑,Indian Cuckoo,Cuculus micropterus
+,大杜鵑,"COCU,CUCA",大杜鵑,Common Cuckoo,Cuculus canorus
+,北方中杜鵑,"ORCU,CUOP",北方中杜鵑,Oriental Cuckoo,Cuculus optatus
+,大杜鵑/北方中杜鵑,"ORCU,COCU,CUOP,CUCA",大杜鵑/北方中杜鵑,Common/Oriental Cuckoo,Cuculus canorus/optatus
+,杜鵑屬(XX杜鵑),,杜鵑屬,Cuculus sp.,Cuculus sp.
+,杜鵑科,,杜鵑科,cuckoo sp. (Cuculidae sp.),Cuculidae sp.
+,普通夜鷹,"GRNI,CAJO",普通夜鷹,Gray Nightjar,Caprimulgus jotaka
+,南亞夜鷹,"SANI,CAAF",南亞夜鷹,Savanna Nightjar,Caprimulgus affinis
+,夜鷹屬(XX夜鷹),,夜鷹屬,Caprimulgus sp.,Caprimulgus sp.
+,白喉針尾雨燕,"WTNE,HICA",白喉針尾雨燕,White-throated Needletail,Hirundapus caudacutus
+,灰喉針尾雨燕,"SBNE,HICO",灰喉針尾雨燕,Silver-backed Needletail,Hirundapus cochinchinensis
+,針尾雨燕屬(XX針尾雨燕),,針尾雨燕屬,Hirundapus sp.,Hirundapus sp.
+,短嘴金絲燕,"HISW,AEBR",短嘴金絲燕,Himalayan Swiftlet,Aerodramus brevirostris
+,傑曼氏金絲燕,"GESW,AEGE",傑曼氏金絲燕,Germain's Swiftlet,Aerodramus germani
+,叉尾雨燕,"FTSW,PASW,APPA",叉尾雨燕,Pacific Swift,Apus pacificus
+,小雨燕,"HOSW,APNI",小雨燕,House Swift,Apus nipalensis
+,雨燕屬(XX雨燕),,雨燕屬,Apus sp.,Apus sp.
+,雨燕科(XX雨燕),,雨燕科,swift sp.,Apodidae sp.
+,西方秧雞,"WEWR,WARA,RAAQ",西方秧雞,Water Rail,Rallus aquaticus
+,東亞秧雞,"BCRA,RAIN",東亞秧雞,Brown-cheeked Rail,Rallus indicus
+,灰胸秧雞,"SBRA,LEST",灰胸秧雞,Slaty-breasted Rail,Lewinia striata
+,斑胸秧雞,"SPCR,POPO",斑胸秧雞,Spotted Crake,Porzana porzana
+,紅冠水雞,"COMO,EUMO,GACH",紅冠水雞,Eurasian Moorhen,Gallinula chloropus
+,白冠雞,"EUCO,FUAT",白冠雞,Eurasian Coot,Fulica atra
+,灰頭紫水雞,"GHSW,POPO",灰頭紫水雞,Gray-headed Swamphen,Porphyrio poliocephalus
+,董雞,"WATE,GACI",董雞,Watercock,Gallicrex cinerea
+,白腹秧雞,"WBWA,AMPH",白腹秧雞,White-breasted Waterhen,Amaurornis phoenicurus
+,白眉秧雞,"WBCR,AMCI",白眉秧雞,White-browed Crake,Amaurornis cinerea
+,紅腳秧雞,"RLCR,RAFA",紅腳秧雞,Red-legged Crake,Rallina fasciata
+,灰腳秧雞,"SLCR,RAEU",灰腳秧雞,Slaty-legged Crake,Rallina eurizonoides
+,秧雞屬,,秧雞屬,Rallina sp.,Rallina sp.
+,緋秧雞,"RBCR,ZAFU",緋秧雞,Ruddy-breasted Crake,Zapornia fusca
+,紅腳苦惡鳥,"BRCR,ZAAK",紅腳苦惡鳥,Brown Crake,Zapornia akool
+,小秧雞,"BACR,MACR,ZAPU",小秧雞,Baillon's Crake,Zapornia pusilla
+,秧雞科(XX秧雞),,秧雞科,rail/crake sp.,Rallidae sp. (rail/crake sp.)
+,簑羽鶴,"DECR,ANVI",簑羽鶴,Demoiselle Crane,Anthropoides virgo
+,白鶴,"SICR,LELE",白鶴,Siberian Crane,Leucogeranus leucogeranus
+,沙丘鶴,"SACR,ANCA",沙丘鶴,Sandhill Crane,Antigone canadensis
+,白枕鶴,"WNCR,ANVI",白枕鶴,White-naped Crane,Antigone vipio
+,灰鶴,"CCRA,COCR,GRGR",灰鶴,Common Crane,Grus grus
+,白頭鶴,"HOCR,GRMO",白頭鶴,Hooded Crane,Grus monacha
+,丹頂鶴,"RCCR,GRJA",丹頂鶴,Red-crowned Crane,Grus japonensis
+,鶴科(XX鶴),,鶴科,crane sp.,Gruidae sp.
+,高蹺鴴,"BWST,EBWS,HIHI",高蹺鴴,Black-winged Stilt,Himantopus himantopus
+,反嘴鴴,"PIAV,REAV",反嘴鴴,Pied Avocet,Recurvirostra avosetta
+,蠣鴴,"EUOY,HAOS",蠣鴴,Eurasian Oystercatcher,Haematopus ostralegus
+,灰斑鴴,"BBPL,GRPL,PLSQ",灰斑鴴,Black-bellied Plover,Pluvialis squatarola
+,美洲金斑鴴,"AMGP,AGPL,PLDO",美洲金斑鴴,American Golden-Plover,Pluvialis dominica
+,太平洋金斑鴴,"PAGP,KŌLE,PGPL,PLFU",太平洋金斑鴴,Pacific Golden-Plover,Pluvialis fulva
+,小辮鴴,"NOLA,VAVA",小辮鴴,Northern Lapwing,Vanellus vanellus
+,跳鴴,"GHLA,VACI",跳鴴,Gray-headed Lapwing,Vanellus cinereus
+,蒙古鴴,"LSAP,LSPL,LESD,LSDO,LESP,CHMO",蒙古鴴,Lesser Sand-Plover,Charadrius mongolus
+,鐵嘴鴴,"GSAP,GSPL,GRSP,GRSD,GSDO,CHLE",鐵嘴鴴,Greater Sand-Plover,Charadrius leschenaultii
+,蒙古/鐵嘴鴴,"LSPL,LSDO,LESP,LSAP,GSDO,GRSP,GSPL,LESD,GSAP,GRSD,CHMO,CHLE",蒙古/鐵嘴鴴,Lesser/Greater Sand-Plover,Charadrius mongolus/leschenaultii
+,東方環頸鴴,"KEPL,CHAL",東方環頸鴴,Kentish Plover,Charadrius alexandrinus
+,環頸鴴,"CRPL,RIPL,CHHI",環頸鴴,Common Ringed Plover,Charadrius hiaticula
+,劍鴴,"LBPL,CHPL",劍鴴,Long-billed Plover,Charadrius placidus
+,小環頸鴴,"LRPL,CHDU",小環頸鴴,Little Ringed Plover,Charadrius dubius
+,東方紅胸鴴,"ORPL,CHVE",東方紅胸鴴,Oriental Plover,Charadrius veredus
+,鴴科(XX鴴),,鴴科,plover sp.,Charadriidae sp.
+,彩鷸,"GPSN,GRPS,ROBE",彩鷸,Greater Painted-Snipe,Rostratula benghalensis
+,水雉,"PTJA,HYCH",水雉,Pheasant-tailed Jacana,Hydrophasianus chirurgus
+,中杓鷸,"WHIM,NUPH",中杓鷸,Whimbrel,Numenius phaeopus
+,小杓鷸,"LICU,LIWH,NUMI",小杓鷸,Little Curlew,Numenius minutus
+,黦鷸,"FECU,EACU,NUMA",黦鷸,Far Eastern Curlew,Numenius madagascariensis
+,大杓鷸,"EUCU,NUAR",大杓鷸,Eurasian Curlew,Numenius arquata
+X,中/大杓鷸,"WHIM,EUCU,NUAR,NUPH",中/大杓鷸,Whimbrel/Eurasian Curlew,Numenius phaeopus/arquata
+X,黦鷸/大杓鷸,"FECU,EUCU,EACU,NUAR,NUMA",黦鷸/大杓鷸,Far Eastern/Eurasian Curlew,Numenius madagascariensis/arquata
+,杓鷸屬(XX杓鷸),,杓鷸屬,curlew sp.,Numenius sp.
+,斑尾鷸,"BTGO,LILA",斑尾鷸,Bar-tailed Godwit,Limosa lapponica
+,黑尾鷸,"BTGD,BTGO,LILI",黑尾鷸,Black-tailed Godwit,Limosa limosa
+,塍鷸屬,,塍鷸屬,godwit sp.,Limosa sp.
+,翻石鷸,"RUTU,ARIN",翻石鷸,Ruddy Turnstone,Arenaria interpres
+,大濱鷸,"GRKN,CATE",大濱鷸,Great Knot,Calidris tenuirostris
+,紅腹濱鷸,"REKN,CACA",紅腹濱鷸,Red Knot,Calidris canutus
+,流蘇鷸,"RUFF,CAPU",流蘇鷸,Ruff,Calidris pugnax
+,寬嘴鷸,"BBIS,BBSA,CAFA",寬嘴鷸,Broad-billed Sandpiper,Calidris falcinellus
+,尖尾濱鷸,"SPTS,STSA,CAAC",尖尾濱鷸,Sharp-tailed Sandpiper,Calidris acuminata
+,高蹺濱鷸,"STSA,CAHI",高蹺濱鷸,Stilt Sandpiper,Calidris himantopus
+,彎嘴濱鷸,"CUSA,CAFE",彎嘴濱鷸,Curlew Sandpiper,Calidris ferruginea
+,丹氏濱鷸,"TEST,CATE",丹氏濱鷸,Temminck's Stint,Calidris temminckii
+,長趾濱鷸,"LTST,CASU",長趾濱鷸,Long-toed Stint,Calidris subminuta
+,琵嘴鷸,"SBSA,CAPY",琵嘴鷸,Spoon-billed Sandpiper,Calidris pygmaea
+,紅胸濱鷸,"RNST,CARU",紅胸濱鷸,Red-necked Stint,Calidris ruficollis
+,三趾濱鷸,"SAND,HUNA,CAAL",三趾濱鷸,Sanderling,Calidris alba
+,黑腹濱鷸,"DUNL,CAAL",黑腹濱鷸,Dunlin,Calidris alpina
+X,彎嘴/黑腹濱鷸,"CUSA,DUNL,CAFE,CAAL",彎嘴/黑腹濱鷸,Curlew Sandpiper/Dunlin,Calidris ferruginea/alpina
+,小濱鷸,"LIST,CAMI",小濱鷸,Little Stint,Calidris minuta
+X,紅胸/小濱鷸,"LIST,RNST,CAMI,CARU",紅胸/小濱鷸,Red-necked/Little Stint,Calidris ruficollis/minuta
+,黃胸鷸,"BBSA,CASU",黃胸鷸,Buff-breasted Sandpiper,Calidris subruficollis
+,美洲尖尾濱鷸,"PESA,CAME",美洲尖尾濱鷸,Pectoral Sandpiper,Calidris melanotos
+,濱鷸屬(XX濱鷸),,濱鷸屬,Calidris sp.,Calidris sp.
+,半蹼鷸,"ASDO,LISE",半蹼鷸,Asian Dowitcher,Limnodromus semipalmatus
+,長嘴半蹼鷸,"LBDO,LISC",長嘴半蹼鷸,Long-billed Dowitcher,Limnodromus scolopaceus
+,小鷸,"JASN,LYMI",小鷸,Jack Snipe,Lymnocryptes minimus
+,山鷸,"EUWO,SCRU",山鷸,Eurasian Woodcock,Scolopax rusticola
+,孤田鷸,"SOSN,GASO",孤田鷸,Solitary Snipe,Gallinago solitaria
+,大地鷸,"LASN,GAHA",大地鷸,Latham's Snipe,Gallinago hardwickii
+,田鷸,"COSN,GAGA",田鷸,Common Snipe,Gallinago gallinago
+,針尾鷸,"PTSN,PISN,GAST",針尾鷸,Pin-tailed Snipe,Gallinago stenura
+X,田/針尾鷸,"COSN,PISN,PTSN,GAGA,GAST",田/針尾鷸,Common/Pin-tailed Snipe,Gallinago gallinago/stenura
+,中地鷸,"SWSN,GAME",中地鷸,Swinhoe's Snipe,Gallinago megala
+X,針尾鷸/中地鷸,"SWSN,PISN,PTSN,GAST,GAME",針尾鷸/中地鷸,Pin-tailed/Swinhoe's Snipe,Gallinago stenura/megala
+,田鷸屬(XX田鷸),,田鷸屬,snipe sp.,Gallinago sp.
+,反嘴鷸,"TESA,XECI",反嘴鷸,Terek Sandpiper,Xenus cinereus
+,紅領瓣足鷸,"RNPH,PHLO",紅領瓣足鷸,Red-necked Phalarope,Phalaropus lobatus
+,灰瓣足鷸,"REPH,GRPH,PHFU",灰瓣足鷸,Red Phalarope,Phalaropus fulicarius
+X,紅領/灰瓣足鷸,"REPH,RNPH,GRPH,PHFU,PHLO",紅領/灰瓣足鷸,Red-necked/Red Phalarope,Phalaropus lobatus/fulicarius
+,瓣足鷸屬(XX瓣足鷸),,瓣足鷸屬,phalarope sp.,Phalaropus sp.
+,磯鷸,"COSA,ACHY",磯鷸,Common Sandpiper,Actitis hypoleucos
+,白腰草鷸,"GRSA,TROC",白腰草鷸,Green Sandpiper,Tringa ochropus
+,黃足鷸,"GTTA,TRBR",黃足鷸,Gray-tailed Tattler,Tringa brevipes
+,美洲黃足鷸,"WATA,TRIN",美洲黃足鷸,Wandering Tattler,Tringa incana
+,鶴鷸,"SPRE,TRER",鶴鷸,Spotted Redshank,Tringa erythropus
+,青足鷸,"COMG,COGR,TRNE",青足鷸,Common Greenshank,Tringa nebularia
+,諾氏鷸,"NOGR,TRGU",諾氏鷸,Nordmann's Greenshank,Tringa guttifer
+X,青足鷸/諾氏鷸,"COGR,NOGR,COMG,TRNE,TRGU",青足鷸/諾氏鷸,Common/Nordmann's Greenshank,Tringa nebularia/guttifer
+,小青足鷸,"MASA,TRST",小青足鷸,Marsh Sandpiper,Tringa stagnatilis
+,鷹斑鷸,"WOSA,TRGL",鷹斑鷸,Wood Sandpiper,Tringa glareola
+,赤足鷸,"CREH,CORE,TRTO",赤足鷸,Common Redshank,Tringa totanus
+,鷸屬(XX鷸),,鷸屬,Tringa sp.,Tringa sp.
+,鷸科(XX鷸),,鷸科,Scolopacidae sp.,Scolopacidae sp.
+,林三趾鶉,"COBU,SMBU,TUSY",林三趾鶉,Small Buttonquail,Turnix sylvaticus
+,黃腳三趾鶉,"YLBU,TUTA",黃腳三趾鶉,Yellow-legged Buttonquail,Turnix tanki
+,棕三趾鶉,"BABU,TUSU",棕三趾鶉,Barred Buttonquail,Turnix suscitator
+,三趾鶉屬(XX三趾鶉),,三趾鶉屬,buttonquail sp.,Turnix sp.
+,燕鴴,"ORPR,GLMA",燕鴴,Oriental Pratincole,Glareola maldivarum
+,鴴形目(XX鷸鴴),,鴴形目,shorebird sp.,Charadriiformes sp.
+,中賊鷗,"POJA,POSK,STPO",中賊鷗,Pomarine Jaeger,Stercorarius pomarinus
+,短尾賊鷗,"PAJA,ARJA,ARSK,STPA",短尾賊鷗,Parasitic Jaeger,Stercorarius parasiticus
+,長尾賊鷗,"LTJA,LTSK,STLO",長尾賊鷗,Long-tailed Jaeger,Stercorarius longicaudus
+,賊鷗類(XX賊鷗),,賊鷗類,jaeger/skua sp.,Stercorarius sp.
+,小型海雀類,,小型海雀類,murrelet sp.,Brachyramphus/Synthliboramphus sp.
+,三趾鷗,"BLKI,RITR",三趾鷗,Black-legged Kittiwake,Rissa tridactyla
+,黑嘴鷗,"SAGU,SASA",黑嘴鷗,Saunders's Gull,Saundersilarus saundersi
+,細嘴鷗,"SBGU,CHGE",細嘴鷗,Slender-billed Gull,Chroicocephalus genei
+,紅嘴鷗,"BHGU,CBHG,CHRI",紅嘴鷗,Black-headed Gull,Chroicocephalus ridibundus
+,棕頭鷗,"BHGU,CHBR",棕頭鷗,Brown-headed Gull,Chroicocephalus brunnicephalus
+,遺鷗,"REGU,ICRE",遺鷗,Relict Gull,Ichthyaetus relictus
+,漁鷗,"PAGU,GBHG,ICIC",漁鷗,Pallas's Gull,Ichthyaetus ichthyaetus
+,黑尾鷗,"BTGU,LACR",黑尾鷗,Black-tailed Gull,Larus crassirostris
+,海鷗,"MEGU,COGU,LACA",海鷗,Mew Gull,Larus canus
+,銀鷗,"HERG,AHHG,HEGU,LAAR",銀鷗,Herring Gull,Larus argentatus
+,小黑背鷗,"LBBG,LAFU",小黑背鷗,Lesser Black-backed Gull,Larus fuscus
+X,銀鷗/小黑背鷗,"LBBG,AHHG,HEGU,HERG,LAAR,LAFU",銀鷗/小黑背鷗,Herring/Lesser Black-backed Gull,Larus argentatus/fuscus
+,灰背鷗,"SBGU,LASC",灰背鷗,Slaty-backed Gull,Larus schistisagus
+,大鷗(白翅),,大鷗(白翅),white-winged gull sp.,Larus sp. (white-winged gull sp.)
+,大鷗類,UNLG,大鷗類,Larus sp.,Larus sp.
+,鷗屬(XX鷗),,鷗屬,gull sp.,Larinae sp.
+,玄燕鷗,"BRNO,NOKŌ,CONO,ANST",玄燕鷗,Brown Noddy,Anous stolidus
+,黑玄燕鷗,"BLNO,NOIO,ANMI",黑玄燕鷗,Black Noddy,Anous minutus
+,烏領燕鷗,"SOTE,ONFU",烏領燕鷗,Sooty Tern,Onychoprion fuscatus
+,白眉燕鷗,"BRTE,ONAN",白眉燕鷗,Bridled Tern,Onychoprion anaethetus
+,白腰燕鷗,"ALTE,ONAL",白腰燕鷗,Aleutian Tern,Onychoprion aleuticus
+,小燕鷗,"LITE,STAL",小燕鷗,Little Tern,Sternula albifrons
+,鷗嘴燕鷗,"GBTE,GENI",鷗嘴燕鷗,Gull-billed Tern,Gelochelidon nilotica
+,裏海燕鷗,"CATE,HYCA",裏海燕鷗,Caspian Tern,Hydroprogne caspia
+,黑浮鷗,"BLTE,CHNI",黑浮鷗,Black Tern,Chlidonias niger
+,白翅黑燕鷗,"WWTE,WWBT,CHLE",白翅黑燕鷗,White-winged Tern,Chlidonias leucopterus
+,黑腹燕鷗,"WHST,WHTE,CHHY",黑腹燕鷗,Whiskered Tern,Chlidonias hybrida
+,浮鷗屬(XX浮鷗),,浮鷗屬,Chlidonias sp.,Chlidonias sp.
+,紅燕鷗,"ROST,ROTE,STDO",紅燕鷗,Roseate Tern,Sterna dougallii
+,蒼燕鷗,"BNTE,STSU",蒼燕鷗,Black-naped Tern,Sterna sumatrana
+,燕鷗,"COTE,STHI",燕鷗,Common Tern,Sterna hirundo
+,燕鷗屬(XX燕鷗),,燕鷗屬,Sterna sp.,Sterna sp.
+,鳳頭燕鷗,"GCTE,SWTE,CRTE,THBE",鳳頭燕鷗,Great Crested Tern,Thalasseus bergii
+,小鳳頭燕鷗,"LCTE,THBE",小鳳頭燕鷗,Lesser Crested Tern,Thalasseus bengalensis
+,黑嘴端鳳頭燕鷗,"CCTE,THBE",黑嘴端鳳頭燕鷗,Chinese Crested Tern,Thalasseus bernsteini
+,鳳頭燕鷗屬(XX鳳頭燕鷗),,鳳頭燕鷗屬,Thalasseus sp.,Thalasseus sp.
+,大型燕鷗類,,大型燕鷗類,large tern sp.,Hydroprogne/Thalasseus sp.
+,燕鷗亞科,,燕鷗亞科,tern sp.,Sterninae sp.
+,鷗或燕鷗類(鷗科),,鷗或燕鷗類(鷗科),gull/tern sp.,Laridae sp.
+,黑叉尾海燕,"SSTP,SWSP,SSPE,OCMO",黑叉尾海燕,Swinhoe's Storm-Petrel,Oceanodroma monorhis
+,穴鳥,"BUPE,BUBU",穴鳥,Bulwer's Petrel,Bulweria bulwerii
+,大水薙鳥,"STRS,STSH,CALE",大水薙鳥,Streaked Shearwater,Calonectris leucomelas
+,肉足水薙鳥,"FFSH,ARCA",肉足水薙鳥,Flesh-footed Shearwater,Ardenna carneipes
+,長尾水薙鳥,"WTSH,ARPA",長尾水薙鳥,Wedge-tailed Shearwater,Ardenna pacifica
+,灰水薙鳥,"SOSH,ARGR",灰水薙鳥,Sooty Shearwater,Ardenna grisea
+,短尾水薙鳥,"STTS,STSH,ARTE",短尾水薙鳥,Short-tailed Shearwater,Ardenna tenuirostris
+,黑白水薙鳥類,,黑白水薙鳥類,black-and-white shearwater sp.,Puffinus sp. (black-and-white shearwater sp.)
+,水薙鳥類(XX水薙鳥),,水薙鳥類,shearwater sp.,Procellariidae sp. (shearwater sp.)
+,鸌科,,鸌科,Procellariid sp.,Procellariidae sp.
+,黑鸛,"BLST,CINI",黑鸛,Black Stork,Ciconia nigra
+,白鸛,"WHST,CICI",白鸛,White Stork,Ciconia ciconia
+,東方白鸛,"ORST,CIBO",東方白鸛,Oriental Stork,Ciconia boyciana
+,白斑軍艦鳥,"LEFR,FRAR",白斑軍艦鳥,Lesser Frigatebird,Fregata ariel
+,軍艦鳥,"GREF,GRFR,FRMI",軍艦鳥,Great Frigatebird,Fregata minor
+,軍艦鳥科(XX軍艦鳥),,軍艦鳥科,frigatebird sp.,Fregata sp.
+,藍臉鰹鳥,"MABO,SUDA",藍臉鰹鳥,Masked Booby,Sula dactylatra
+,白腹鰹鳥,"BRBO,SULE",白腹鰹鳥,Brown Booby,Sula leucogaster
+,紅腳鰹鳥,"RFBO,SUSU",紅腳鰹鳥,Red-footed Booby,Sula sula
+,鰹鳥類,,鰹鳥類,booby sp.,Sula sp.
+,海鸕鷀,"PECO,PHPE",海鸕鷀,Pelagic Cormorant,Phalacrocorax pelagicus
+,鸕鷀,"GRCO,BLSH,GBCO,WBCO,PHCA",鸕鷀,Great Cormorant,Phalacrocorax carbo
+,丹氏鸕鷀,"JACO,PHCA",丹氏鸕鷀,Japanese Cormorant,Phalacrocorax capillatus
+,鸕鷀類(XX鸕鷀),,鸕鷀類,cormorant sp.,Phalacrocoracidae sp.
+,卷羽鵜鶘,"DAPE,PECR",卷羽鵜鶘,Dalmatian Pelican,Pelecanus crispus
+,大麻鷺,"EUBI,GRBI,BOST",大麻鷺,Great Bittern,Botaurus stellaris
+,黃小鷺,"YEBI,IXSI",黃小鷺,Yellow Bittern,Ixobrychus sinensis
+,秋小鷺,"VSBI,SCBI,IXEU",秋小鷺,Schrenck's Bittern,Ixobrychus eurhythmus
+,栗小鷺,"CIBI,IXCI",栗小鷺,Cinnamon Bittern,Ixobrychus cinnamomeus
+,黃頸黑鷺,"BLBI,IXFL",黃頸黑鷺,Black Bittern,Ixobrychus flavicollis
+,葦鷺屬,,葦鷺屬,small bittern sp.,Ixobrychus sp.
+,蒼鷺,"GRAH,GRHE,ARCI",蒼鷺,Gray Heron,Ardea cinerea
+,紫鷺,"PUHE,ARPU",紫鷺,Purple Heron,Ardea purpurea
+X,蒼/紫鷺,"GRHE,GRAH,PUHE,ARPU,ARCI",蒼/紫鷺,Gray/Purple Heron,Ardea cinerea/purpurea
+,大白鷺,"GREG,WHHE,GWEG,ARAL",大白鷺,Great Egret,Ardea alba
+,中白鷺,"INEG,YBEG,ARIN",中白鷺,Intermediate Egret,Ardea intermedia
+,大/中白鷺,"YBEG,GWEG,GREG,INEG,WHHE,ARIN,ARAL",大/中白鷺,Great/Intermediate Egret,Ardea alba/intermedia
+,白臉鷺,"WFHE,EGNO",白臉鷺,White-faced Heron,Egretta novaehollandiae
+,唐白鷺,"CHEG,EGEU",唐白鷺,Chinese Egret,Egretta eulophotes
+,小白鷺,"LIEG,EGGA",小白鷺,Little Egret,Egretta garzetta
+,岩鷺,"PRHE,PARH,REHE,EREG,EGSA",岩鷺,Pacific Reef-Heron,Egretta sacra
+,白頸黑鷺,"PIHE,EGPI",白頸黑鷺,Pied Heron,Egretta picata
+,黃頭鷺,"CAEG,WCEG,BUIB",黃頭鷺,Cattle Egret,Bubulcus ibis
+,白鷺類(XX白鷺),,白鷺類,white egret sp.,Ardea/Egretta/Bubulcus sp.
+,池鷺,"CHPH,CPHE,ARBA",池鷺,Chinese Pond-Heron,Ardeola bacchus
+,爪哇池鷺,"JPHE,JAPH,ARSP",爪哇池鷺,Javan Pond-Heron,Ardeola speciosa
+,池鷺屬,,池鷺屬,pond-heron sp.,Ardeola sp.
+,綠簑鷺,"STRH,STHE,GBHE,BUST",綠簑鷺,Striated Heron,Butorides striata
+,夜鷺,"BCNH,NYNY",夜鷺,Black-crowned Night-Heron,Nycticorax nycticorax
+,棕夜鷺,"NNHE,NANH,RUNH,RNHE,NYCA",棕夜鷺,Rufous Night-Heron,Nycticorax caledonicus
+,麻鷺,"JNHE,JANH,GOGO",麻鷺,Japanese Night-Heron,Gorsachius goisagi
+,黑冠麻鷺,"MANH,MNHE,GOME",黑冠麻鷺,Malayan Night-Heron,Gorsachius melanolophus
+X,麻鷺/黑冠麻鷺,"MNHE,JNHE,JANH,MANH,GOME,GOGO",麻鷺/黑冠麻鷺,Japanese/Malayan Night-Heron,Gorsachius goisagi/melanolophus
+,鷺科(XX鷺),,鷺科,heron sp.,Ardeidae sp.
+,彩䴉,"GLIB,PLFA",彩䴉,Glossy Ibis,Plegadis falcinellus
+,埃及聖䴉,"ASIB,SAIB,THAE",埃及聖䴉,African Sacred Ibis,Threskiornis aethiopicus
+X,埃及/馬島聖䴉,"ASIB,SAIB,MSIB,THBE,THAE",埃及/馬島聖䴉,African/Madagascar Sacred Ibis,Threskiornis aethiopicus/bernieri
+,黑頭白䴉,"BHIB,THME",黑頭白䴉,Black-headed Ibis,Threskiornis melanocephalus
+,䴉科(XX䴉),,䴉科,ibis sp.,Threskiornithidae sp. (ibis sp.)
+,白琵鷺,"EURS,EUSP,PLLE",白琵鷺,Eurasian Spoonbill,Platalea leucorodia
+,黑面琵鷺,"BFSP,PLMI",黑面琵鷺,Black-faced Spoonbill,Platalea minor
+,琵鷺屬(XX琵鷺),,琵鷺屬,spoonbill sp.,Platalea sp.
+,魚鷹,"OSPR,WEOS,PAHA",魚鷹,Osprey,Pandion haliaetus
+,黑翅鳶,"BWKI,ABSK,ELCA",黑翅鳶,Black-winged Kite,Elanus caeruleus
+,東方蜂鷹,"OHBU,ORHB,CRHB,CHBU,PEPT",東方蜂鷹,Oriental Honey-buzzard,Pernis ptilorhynchus
+,黑冠鵑隼,"BLBA,AVLE",黑冠鵑隼,Black Baza,Aviceda leuphotes
+,禿鷲,"BLVU,CIVU,AEMO",禿鷲,Cinereous Vulture,Aegypius monachus
+,大冠鷲,"CRSE,CSEA,SPCH",大冠鷲,Crested Serpent-Eagle,Spilornis cheela
+,熊鷹,"MHEA,MOHE,NINI",熊鷹,Mountain Hawk-Eagle,Nisaetus nipalensis
+,林鵰,"BLEA,ICMA",林鵰,Black Eagle,Ictinaetus malaiensis
+,花鵰,"GSEA,CLCL",花鵰,Greater Spotted Eagle,Clanga clanga
+,靴雕,"BOEA,HIPE",靴雕,Booted Eagle,Hieraaetus pennatus
+,白肩鵰,"EIEA,IMEA,AQHE",白肩鵰,Imperial Eagle,Aquila heliaca
+,白腹鵰,"BOEA,AQFA",白腹鵰,Bonelli's Eagle,Aquila fasciata
+,鵰屬(XX鵰),,鵰屬,Aquila sp.,Aquila sp.
+X,花鵰屬/鵰屬,,花鵰屬/鵰屬,Clanga/Aquila sp.,Clanga/Aquila sp.
+,灰面鵟鷹,"GFBU,BUIN",灰面鵟鷹,Gray-faced Buzzard,Butastur indicus
+,東方澤鵟,"EMHA,EAMH,CISP",東方澤鵟,Eastern Marsh-Harrier,Circus spilonotus
+X,東方/巴布亞澤鵟,"EMHA,PAMH,PMHA,EAMH,PAHA,CISP",東方/巴布亞澤鵟,Eastern/Papuan Marsh-Harrier,Circus spilonotus/spilothorax
+,灰澤鵟,"HEHA,CICY",灰澤鵟,Hen Harrier,Circus cyaneus
+,花澤鵟,"PIHA,CIME",花澤鵟,Pied Harrier,Circus melanoleucos
+,澤鵟屬(XX澤鵟),,澤鵟屬,harrier sp.,Circus sp.
+,鳳頭蒼鷹,"CRGO,ACTR",鳳頭蒼鷹,Crested Goshawk,Accipiter trivirgatus
+,赤腹鷹,"CHIS,CHSP,ACSO",赤腹鷹,Chinese Sparrowhawk,Accipiter soloensis
+,日本松雀鷹,"JASP,ACGU",日本松雀鷹,Japanese Sparrowhawk,Accipiter gularis
+,松雀鷹,"BESR,ACVI",松雀鷹,Besra,Accipiter virgatus
+,日本松雀鷹/松雀鷹,"BESR,JASP,ACGU,ACVI",日本松雀鷹/松雀鷹,Japanese Sparrowhawk/Besra,Accipiter gularis/virgatus
+,鳳頭蒼鷹/松雀鷹,"CRGO,BESR,ACTR,ACVI",鳳頭蒼鷹/松雀鷹,Crested Goshawk/Besra,Accipiter trivirgatus/virgatus
+,北雀鷹,"EUSP,ACNI",北雀鷹,Eurasian Sparrowhawk,Accipiter nisus
+,蒼鷹,"NOGO,ACGE",蒼鷹,Northern Goshawk,Accipiter gentilis
+,雀鷹屬(XX雀鷹),UAHA,雀鷹屬,Accipiter sp.,Accipiter sp.
+,黑鳶,"BLAK,BBKI,BLKI,MIMI",黑鳶,Black Kite,Milvus migrans
+,栗鳶,"BRKI,HAIN",栗鳶,Brahminy Kite,Haliastur indus
+,白尾海鵰,"WTEA,HAAL",白尾海鵰,White-tailed Eagle,Haliaeetus albicilla
+,白腹海鵰,"WBSE,HALE",白腹海鵰,White-bellied Sea-Eagle,Haliaeetus leucogaster
+,毛足鵟,"RLHA,RLBU,BULA",毛足鵟,Rough-legged Hawk,Buteo lagopus
+,歐亞鵟,"COBU,STBU,BUBU",歐亞鵟,Common Buzzard,Buteo buteo
+,東方鵟,"EABU,BUJA",東方鵟,Eastern Buzzard,Buteo japonicus
+,大鵟,"UPBU,BUHE",大鵟,Upland Buzzard,Buteo hemilasius
+,鵟屬(XX鵟),,鵟屬,Buteo sp.,Buteo sp.
+X,鵟屬/鵰類,,鵟屬/鵰類,Buteo/eagle sp.,Buteo/eagle sp.
+,鷹科(鷹類)(XX鷹),UNHA,鷹科(鷹類),hawk sp.,Accipitridae sp. (hawk sp.)
+,鷹科(鵰類)(XX鷹),,鷹科(鵰類),eagle sp.,Accipitridae sp. (eagle sp.)
+,草鴞,"AGOW,AUGO,EGOW,TYLO",草鴞,Australasian Grass-Owl,Tyto longimembris
+,黃嘴角鴞,"MSOW,MOSO,OTSP",黃嘴角鴞,Mountain Scops-Owl,Otus spilocephalus
+,領角鴞,"COSO,CSOW,OTLE",領角鴞,Collared Scops-Owl,Otus lettia
+,蘭嶼角鴞,"RYSO,RSOW,OTEL",蘭嶼角鴞,Ryukyu Scops-Owl,Otus elegans
+,東方角鴞,"ORSO,OSOW,OTSU",東方角鴞,Oriental Scops-Owl,Otus sunia
+,角鴞屬(XX角鴞),,角鴞屬,scops-owl sp.,Otus sp.
+,鵰鴞,"EEOW,EUEO,BUBU",鵰鴞,Eurasian Eagle-Owl,Bubo bubo
+,黃魚鴞,"TFOW,TAFO,KEFL",黃魚鴞,Tawny Fish-Owl,Ketupa flavipes
+,鵂鶹,"COOW,GLBR",鵂鶹,Collared Owlet,Glaucidium brodiei
+,褐林鴞,"BWOW,BRWO,STLE",褐林鴞,Brown Wood-Owl,Strix leptogrammica
+,東方灰林鴞,"HIOW,STNI",東方灰林鴞,Himalayan Owl,Strix nivicolum
+,長耳鴞,"LEOW,ASOT",長耳鴞,Long-eared Owl,Asio otus
+,短耳鴞,"SEOW,PUEO,ASFL",短耳鴞,Short-eared Owl,Asio flammeus
+X,長/短耳鴞,"PUEO,LEOW,SEOW,ASOT,ASFL",長/短耳鴞,Long-eared/Short-eared Owl,Asio otus/flammeus
+,褐鷹鴞,"NOBB,NOBO,NIJA",褐鷹鴞,Northern Boobook,Ninox japonica
+,鴟鴞類(XX貓頭鷹),UNOW,鴟鴞類,owl sp.,Strigiformes sp.
+,戴勝,"EHOO,HOOP,EUHO,UPEP",戴勝,Eurasian Hoopoe,Upupa epops
+,翠鳥,"COKI,ALAT",翠鳥,Common Kingfisher,Alcedo atthis
+,赤翡翠,"RUKI,HACO",赤翡翠,Ruddy Kingfisher,Halcyon coromanda
+,蒼翡翠,"SMKI,WTKI,HASM",蒼翡翠,White-throated Kingfisher,Halcyon smyrnensis
+,黑頭翡翠,"BCKI,HAPI",黑頭翡翠,Black-capped Kingfisher,Halcyon pileata
+,白領翡翠,"COKI,TOCH",白領翡翠,Collared Kingfisher,Todiramphus chloris
+,斑翡翠,"PIKI,CERU",斑翡翠,Pied Kingfisher,Ceryle rudis
+,藍喉蜂虎,"IBTB,BTBE,MEVI",藍喉蜂虎,Blue-throated Bee-eater,Merops viridis
+,藍頰蜂虎,"BCBE,MEPE",藍頰蜂虎,Blue-cheeked Bee-eater,Merops persicus
+,栗喉蜂虎,"BTBE,MEPH",栗喉蜂虎,Blue-tailed Bee-eater,Merops philippinus
+,彩虹蜂虎,"RABE,RBEA,MEOR",彩虹蜂虎,Rainbow Bee-eater,Merops ornatus
+,佛法僧,"ORDO,DOLL,EUOR",佛法僧,Dollarbird,Eurystomus orientalis
+,五色鳥,"TABA,PSNU",五色鳥,Taiwan Barbet,Psilopogon nuchalis
+,台灣擬啄木,"TABA,PSNU",五色鳥,Taiwan Barbet,Psilopogon nuchalis
+,地啄木,"EUWR,JYTO",地啄木,Eurasian Wryneck,Jynx torquilla
+,小啄木,"GCWO,GCPW,YUCA",小啄木,Gray-capped Woodpecker,Yungipicus canicapillus
+,大赤啄木,"WBWO,DELE",大赤啄木,White-backed Woodpecker,Dendrocopos leucotos
+,綠啄木,"GHWO,PICA",綠啄木,Gray-headed Woodpecker,Picus canus
+X,綠啄木屬,,綠啄木屬,Picus sp.,Picus sp.
+,啄木鳥科(XX啄木),UNWO,啄木鳥科,woodpecker sp.,Picidae sp.
+,紅隼,"EUKE,COKE,FATI",紅隼,Eurasian Kestrel,Falco tinnunculus
+,紅腳隼,"AMFA,FAAM",紅腳隼,Amur Falcon,Falco amurensis
+,灰背隼,"MERL,FACO",灰背隼,Merlin,Falco columbarius
+,燕隼,"EHOB,EUHO,FASU",燕隼,Eurasian Hobby,Falco subbuteo
+,遊隼,"PEFA,FAPE",遊隼,Peregrine Falcon,Falco peregrinus
+,大型隼(XX隼),,大型隼,large falcon sp.,Falco sp. (large falcon sp.)
+,小型隼(XX隼),,小型隼,small falcon sp.,Falco sp. (small falcon sp.)
+,隼屬(XX隼),,隼屬,falcon sp.,Falco sp.
+,日行性猛禽類(XX猛禽),,日行性猛禽類,diurnal raptor sp.,Accipitriformes/Falconiformes sp.
+,戈芬氏鳳頭鸚鵡,"TACO,CAGO",戈芬氏鳳頭鸚鵡,Tanimbar Corella,Cacatua goffiniana
+,葵花鳳頭鸚鵡,"SCCO,CAGA",葵花鳳頭鸚鵡,Sulphur-crested Cockatoo,Cacatua galerita
+,白鳳頭鸚鵡,"WHCO,CAAL",白鳳頭鸚鵡,White Cockatoo,Cacatua alba
+,鳳頭鸚鵡屬(XX鳳頭鸚鵡),,鳳頭鸚鵡屬,corella/cockatoo sp.,Cacatua sp.
+,雞尾鸚鵡(馴化),"COCK,NYHO",雞尾鸚鵡(馴化),Cockatiel (Domestic type),Nymphicus hollandicus (Domestic type)
+,亞歷山大鸚鵡,"ALPA,PSEU",亞歷山大鸚鵡,Alexandrine Parakeet,Psittacula eupatria
+,紅領綠鸚鵡,"RRPA,RNPA,PSKR",紅領綠鸚鵡,Rose-ringed Parakeet,Psittacula krameri
+,虎皮鸚鵡(馴化),"BUDG,MEUN",虎皮鸚鵡(馴化),Budgerigar (Domestic type),Melopsittacus undulatus (Domestic type)
+,紅色吸蜜鸚鵡,"RELO,EOBO",紅色吸蜜鸚鵡,Red Lory,Eos bornea
+,紅領吸蜜鸚鵡,"RALO,RCLO,TRRU",紅領吸蜜鸚鵡,Red-collared Lorikeet,Trichoglossus rubritorquis
+,彩虹吸蜜鸚鵡,"RALO,TRMO",彩虹吸蜜鸚鵡,Rainbow Lorikeet,Trichoglossus moluccanus
+,彩虹吸蜜鸚鵡複合群,,彩虹吸蜜鸚鵡複合群,rainbow lorikeet sp.,Trichoglossus sp. (rainbow lorikeet complex)
+,費氏愛情鳥,"FILO,AGFI",費氏愛情鳥,Fischer's Lovebird,Agapornis fischeri
+,灰鸚鵡,"GRPA,PSER",灰鸚鵡,Gray Parrot,Psittacus erithacus
+,和尚鸚鵡,"MOPA,MYMO",和尚鸚鵡,Monk Parakeet,Myiopsitta monachus
+,小型鸚鵡類(XX鸚鵡),,小型鸚鵡類,parakeet sp.,Psittaciformes sp. (parakeet sp.)
+,大型鸚鵡類(XX鸚鵡),,大型鸚鵡類,parrot sp.,Psittaciformes sp. (parrot sp.)
+,藍翅八色鳥,"BWPI,PIMO",藍翅八色鳥,Blue-winged Pitta,Pitta moluccensis
+,八色鳥,"FAPI,PINY",八色鳥,Fairy Pitta,Pitta nympha
+,綠胸八色鳥,"HOPI,PISO",綠胸八色鳥,Hooded Pitta,Pitta sordida
+,灰喉山椒鳥,"GCMI,PESO",灰喉山椒鳥,Gray-chinned Minivet,Pericrocotus solaris
+,赤紅山椒鳥,"SCMI,PESP",赤紅山椒鳥,Scarlet Minivet,Pericrocotus speciosus
+,琉球山椒鳥,"RYMI,PETE",琉球山椒鳥,Ryukyu Minivet,Pericrocotus tegimae
+,灰山椒鳥,"ASMI,PEDI",灰山椒鳥,Ashy Minivet,Pericrocotus divaricatus
+X,琉球/灰山椒鳥,"ASMI,RYMI,PETE,PEDI",琉球/灰山椒鳥,Ryukyu/Ashy Minivet,Pericrocotus tegimae/divaricatus
+,小灰山椒鳥,"BRMI,SWMI,PECA",小灰山椒鳥,Brown-rumped Minivet,Pericrocotus cantonensis
+X,灰/小灰山椒鳥,"ASMI,BRMI,SWMI,PECA,PEDI",灰/小灰山椒鳥,Ashy/Brown-rumped Minivet,Pericrocotus divaricatus/cantonensis
+,山椒鳥屬(XX山椒鳥),,山椒鳥屬,minivet sp.,Pericrocotus sp.
+,花翅山椒鳥,"LACU,COMA",花翅山椒鳥,Large Cuckooshrike,Coracina macei
+,黑翅山椒鳥,"BWCU,LAME",黑翅山椒鳥,Black-winged Cuckooshrike,Lalage melaschistos
+,綠畫眉,"WBER,ERZA",綠畫眉,White-bellied Erpornis,Erpornis zantholeuca
+,黃鸝,"BNOR,ORCH",黃鸝,Black-naped Oriole,Oriolus chinensis
+,朱鸝,"MAOR,ORTR",朱鸝,Maroon Oriole,Oriolus traillii
+,大卷尾,"BLDR,DIMA",大卷尾,Black Drongo,Dicrurus macrocercus
+,灰卷尾,"ASDR,DILE",灰卷尾,Ashy Drongo,Dicrurus leucophaeus
+X,大卷尾/灰卷尾,"ASDR,BLDR,DIMA,DILE",大卷尾/灰卷尾,Black/Ashy Drongo,Dicrurus macrocercus/leucophaeus
+,鴉嘴卷尾,"CBDR,DIAN",鴉嘴卷尾,Crow-billed Drongo,Dicrurus annectens
+,小卷尾,"BRDR,DIAE",小卷尾,Bronzed Drongo,Dicrurus aeneus
+,髮冠卷尾,"HCDR,DIHO",髮冠卷尾,Hair-crested Drongo,Dicrurus hottentottus
+,卷尾屬(XX卷尾),,卷尾屬,drongo sp.,Dicrurus sp.
+,黑枕藍鶲,"BNMO,HYAZ",黑枕藍鶲,Black-naped Monarch,Hypothymis azurea
+,紫綬帶,"JPFL,JAPF,TEAT",紫綬帶,Japanese Paradise-Flycatcher,Terpsiphone atrocaudata
+,阿穆爾綬帶,"AMPF,APFL,TEIN",阿穆爾綬帶,Amur Paradise-Flycatcher,Terpsiphone incei
+X,日本/阿穆爾綬帶,"APFL,AMPF,JPFL,JAPF,TEIN,TEAT",日本/阿穆爾綬帶,Japanese/Amur Paradise-Flycatcher,Terpsiphone atrocaudata/incei
+,虎紋伯勞,"TISH,LATI",虎紋伯勞,Tiger Shrike,Lanius tigrinus
+,紅頭伯勞,"BHSH,LABU",紅頭伯勞,Bull-headed Shrike,Lanius bucephalus
+,紅背伯勞,"RBSH,LACO",紅背伯勞,Red-backed Shrike,Lanius collurio
+,紅尾伯勞,"BROS,BRSH,LACR",紅尾伯勞,Brown Shrike,Lanius cristatus
+,紅尾伯勞(日本),"BRSH,BROS,LACR",紅尾伯勞(日本),Brown Shrike (Japanese),Lanius cristatus superciliosus
+,紅尾伯勞(灰頭),"BRSH,BROS,LACR",紅尾伯勞(灰頭),Brown Shrike (Philippine),Lanius cristatus lucionensis
+,栗背伯勞,"BUSH,LACO",栗背伯勞,Burmese Shrike,Lanius collurioides
+,棕背伯勞,"LTSH,LASC",棕背伯勞,Long-tailed Shrike,Lanius schach
+,楔尾伯勞,"CGSH,LASP",楔尾伯勞,Chinese Gray Shrike,Lanius sphenocercus
+,伯勞屬(XX伯勞),,伯勞屬,shrike sp.,Lanius sp.
+,松鴉,"EUJA,GAGL",松鴉,Eurasian Jay,Garrulus glandarius
+,灰喜鵲,"AWMA,CYCY",灰喜鵲,Azure-winged Magpie,Cyanopica cyanus
+,台灣藍鵲,"TBMA,TABM,URCA",台灣藍鵲,Taiwan Blue-Magpie,Urocissa caerulea
+,紅嘴藍鵲,"RBBM,URER",紅嘴藍鵲,Red-billed Blue-Magpie,Urocissa erythroryncha
+,樹鵲,"GRTR,DEFO",樹鵲,Gray Treepie,Dendrocitta formosae
+,喜鵲,"ORMA,PISE",喜鵲,Oriental Magpie,Pica serica
+,星鴉,"SPNU,EUNU,NUCA",星鴉,Eurasian Nutcracker,Nucifraga caryocatactes
+,東方寒鴉,"DAJA,CODA",東方寒鴉,Daurian Jackdaw,Corvus dauuricus
+,家烏鴉,"HOCR,COSP",家烏鴉,House Crow,Corvus splendens
+,禿鼻鴉,"ROOK,COFR",禿鼻鴉,Rook,Corvus frugilegus
+,小嘴烏鴉,"CACR,COCO",小嘴烏鴉,Carrion Crow,Corvus corone
+,巨嘴鴉,"LBJJ,LBCR,COMA",巨嘴鴉,Large-billed Crow,Corvus macrorhynchos
+,玉頸鴉,"COCR,COPE",玉頸鴉,Collared Crow,Corvus pectoralis
+,鴉屬(XX鴉),,鴉屬(烏鴉/渡鴉),crow/raven sp.,Corvus sp.
+,方尾鶲,"GHCF,CUCE",方尾鶲,Gray-headed Canary-Flycatcher,Culicicapa ceylonensis
+,煤山雀,"COTI,PEAT",煤山雀,Coal Tit,Periparus ater
+,黃腹山雀,"YBTI,PEVE",黃腹山雀,Yellow-bellied Tit,Periparus venustulus
+,赤腹山雀,"CBTI,SICA",赤腹山雀,Chestnut-bellied Tit,Sittiparus castaneoventris
+,雜色山雀,"VATI,SIVA",雜色山雀,Varied Tit,Sittiparus varius
+,山雀類(XX山雀),UPCH,山雀類,chickadee sp.,Poecile sp.
+,青背山雀,"GBTI,PAMO",青背山雀,Green-backed Tit,Parus monticolus
+,白頰山雀,"JATI,PAMI",白頰山雀,Japanese Tit,Parus minor
+,黃山雀,"YETI,TYTI,MAHO",黃山雀,Taiwan Yellow Tit,Machlolophus holsti
+,攀雀,"CPTI,CHPT,RECO",攀雀,Chinese Penduline-Tit,Remiz consobrinus
+,大短趾百靈,"GSTL,CABR",大短趾百靈,Greater Short-toed Lark,Calandrella brachydactyla
+,賽氏短趾百靈,"MSTL,ESTL,SSTL,CADU",賽氏短趾百靈,Sykes's Short-toed Lark,Calandrella dukhunensis
+X,大/賽氏短趾百零,"MSTL,GSTL,SSTL,ESTL,CADU,CABR",大/賽氏短趾百零,Greater/Sykes's Short-toed Lark,Calandrella brachydactyla/dukhunensis
+,百靈屬(XX百靈),,百靈屬,Calandrella sp.,Calandrella sp.
+,亞洲短趾百靈,"ASTL,ALCH",亞洲短趾百靈,Asian Short-toed Lark,Alaudala cheleensis
+X,大/亞洲/小短趾百靈,,大/亞洲/小短趾百靈,Greater/Asian/Lesser Short-toed Lark,Calandrella brachydactyla/Alaudala cheleensis/rufescens
+X,大/小短趾百零,"LSTL,GSTL,ALRU,CABR",大/小短趾百零,Greater/Lesser Short-toed Lark,Calandrella brachydactyla/Alaudala rufescens
+X,亞洲/小短趾百靈,"ASTL,LSTL,ALRU,ALCH",亞洲/小短趾百靈,Asian/Lesser Short-toed Lark,Alaudala cheleensis/rufescens
+,短趾百靈類,,短趾百靈類,Calandrella/Alaudala sp.,Calandrella/Alaudala sp.
+,歐亞雲雀,"EUSK,SKYL,ALAR",歐亞雲雀,Eurasian Skylark,Alauda arvensis
+,小雲雀,"ORSK,ALGU",小雲雀,Oriental Skylark,Alauda gulgula
+,歐亞/小雲雀,"EUSK,SKYL,ORSK,ALAR,ALGU",歐亞/小雲雀,Eurasian/Oriental Skylark,Alauda arvensis/gulgula
+,百靈科(XX百靈),,百靈科,lark sp.,Alaudidae sp.
+,斑紋鷦鶯,"STPR,PRCR",斑紋鷦鶯,Striated Prinia,Prinia crinigera
+,灰頭鷦鶯,"YBPR,PRFL",灰頭鷦鶯,Yellow-bellied Prinia,Prinia flaviventris
+,褐頭鷦鶯,"PLPR,PRIN",褐頭鷦鶯,Plain Prinia,Prinia inornata
+,鷦鶯屬(XX鷦鶯),,鷦鶯屬,prinia sp.,Prinia sp.
+,棕扇尾鶯,"ZICI,CIJU",棕扇尾鶯,Zitting Cisticola,Cisticola juncidis
+,黃頭扇尾鶯,"GHCI,CIEX",黃頭扇尾鶯,Golden-headed Cisticola,Cisticola exilis
+,扇尾鶯屬(XX扇尾鶯),,扇尾鶯屬,cisticola sp.,Cisticola sp.
+,厚嘴葦鶯,"TBWA,ARAE",厚嘴葦鶯,Thick-billed Warbler,Arundinax aedon
+,靴籬鶯,"BOWA,IDCA",靴籬鶯,Booted Warbler,Iduna caligata
+,雙眉葦鶯,"BBRW,ACBI",雙眉葦鶯,Black-browed Reed Warbler,Acrocephalus bistrigiceps
+,細紋葦鶯,"SRWA,ACSO",細紋葦鶯,Streaked Reed Warbler,Acrocephalus sorghophilus
+,稻田葦鶯,"PAWA,ACAG",稻田葦鶯,Paddyfield Warbler,Acrocephalus agricola
+,鈍翅葦鶯,"BWWA,ACCO",鈍翅葦鶯,Blunt-winged Warbler,Acrocephalus concinens
+,遠東葦鶯,"MRWA,ACTA",遠東葦鶯,Manchurian Reed Warbler,Acrocephalus tangorum
+,布氏葦鶯,"BREW,BRWA,ACDU",布氏葦鶯,Blyth's Reed Warbler,Acrocephalus dumetorum
+,東方大葦鶯,"ORWA,ACOR",東方大葦鶯,Oriental Reed Warbler,Acrocephalus orientalis
+,葦鶯屬(XX葦鶯),,葦鶯屬,Acrocephalus sp.,Acrocephalus sp.
+,蒼眉蝗鶯,"GRGW,GGWA,LOFA",蒼眉蝗鶯,Gray's Grasshopper-Warbler,Locustella fasciolata
+,庫頁島蝗鶯,"SAGW,SGWA,LOAM",庫頁島蝗鶯,Sakhalin Grasshopper-Warbler,Locustella amnicola
+X,蒼眉/庫頁島蝗鶯,"SGWA,SAGW,GRGW,GGWA,LOAM,LOFA",蒼眉/庫頁島蝗鶯,Gray's/Sakhalin Grasshopper-Warbler,Locustella fasciolata/amnicola
+,小蝗鶯,"PGWA,PAGW,LOCE",小蝗鶯,Pallas's Grasshopper-Warbler,Locustella certhiola
+,北蝗鶯,"MIGW,MGWA,LOOC",北蝗鶯,Middendorff's Grasshopper-Warbler,Locustella ochotensis
+,史氏蝗鶯,"SGWA,PGWA,PLGW,LOPL",史氏蝗鶯,Pleske's Grasshopper-Warbler,Locustella pleskei
+X,北蝗鶯/史氏蝗鶯,"SGWA,MIGW,MGWA,PLGW,PGWA,LOPL,LOOC",北蝗鶯/史氏蝗鶯,Middendorff's/Pleske's Grasshopper-Warbler,Locustella ochotensis/pleskei
+,矛斑蝗鶯,"LANW,LAWA,LOLA",矛斑蝗鶯,Lanceolated Warbler,Locustella lanceolata
+,台灣叢樹鶯,"TBWA,LOAL",台灣叢樹鶯,Taiwan Bush Warbler,Locustella alishanensis
+,赤褐蝗鶯,"RBWA,LOMA",赤褐蝗鶯,Russet Bush Warbler,Locustella mandelli
+,蝗鶯屬(XX蝗鶯),,蝗鶯屬,Locustella sp.,Locustella sp.
+,台灣鷦眉,"TACU,PNFO",台灣鷦眉,Taiwan Cupwing,Pnoepyga formosana
+,鱗胸鷦鷯,"TACU,PNFO",台灣鷦眉,Taiwan Cupwing,Pnoepyga formosana
+,棕沙燕,"GTMA,APMA,RICH",棕沙燕,Gray-throated Martin,Riparia chinensis
+,灰沙燕,"BANS,SAMA,BASW,CSMA,RIRI",灰沙燕,Bank Swallow,Riparia riparia
+X,棕沙燕/灰沙燕,"GTMA,BANS,CSMA,SAMA,BASW,APMA,RIRI,RICH",棕沙燕/灰沙燕,Gray-throated Martin/Bank Swallow,Riparia chinensis/riparia
+,沙燕屬,,沙燕屬,Riparia sp.,Riparia sp.
+,家燕,"BARS,BASW,HIRU",家燕,Barn Swallow,Hirundo rustica
+,洋燕,"PASW,HITA",洋燕,Pacific Swallow,Hirundo tahitica
+,家/洋燕,"PASW,BASW,BARS,HIRU,HITA",家/洋燕,Barn/Pacific Swallow,Hirundo rustica/tahitica
+,金腰燕,"RRAS,RRSW,CEDA",金腰燕,Red-rumped Swallow,Cecropis daurica
+,赤腰燕,"STSW,CEST",赤腰燕,Striated Swallow,Cecropis striolata
+,金腰/赤腰燕,"RRAS,RRSW,STSW,CEST,CEDA",金腰/赤腰燕,Red-rumped/Striated Swallow,Cecropis daurica/striolata
+,白腹毛腳燕,"COHM,CHMA,DEUR",白腹毛腳燕,Common House-Martin,Delichon urbicum
+,東方毛腳燕,"ASHM,AHMA,DEDA",東方毛腳燕,Asian House-Martin,Delichon dasypus
+X,白腹/東方毛腳燕(XX毛腳燕),"ASHM,AHMA,COHM,CHMA,DEUR,DEDA",白腹/東方毛腳燕,Common/Asian House-Martin,Delichon urbicum/dasypus
+,燕科(XX燕),UNSW,燕科,swallow sp.,Hirundinidae sp.
+,白環鸚嘴鵯,"COFI,SPSE",白環鸚嘴鵯,Collared Finchbill,Spizixos semitorques
+,烏頭翁,"STBU,PYTA",烏頭翁,Styan's Bulbul,Pycnonotus taivanus
+,紅耳鵯,"RWBU,PYJO",紅耳鵯,Red-whiskered Bulbul,Pycnonotus jocosus
+,白頭翁,"LVBU,PYSI",白頭翁,Light-vented Bulbul,Pycnonotus sinensis
+,雜頭翁,"LVBU,STBU,PYSI,PYTA",雜頭翁,Styan's x Light-vented Bulbul (hybrid),Pycnonotus taivanus x sinensis
+,烏頭/白頭翁,"STBU,LVBU,PYSI,PYTA",烏頭/白頭翁,Styan's/Light-vented Bulbul,Pycnonotus taivanus/sinensis
+,白喉紅臀鵯,"SHBU,PYAU",白喉紅臀鵯,Sooty-headed Bulbul,Pycnonotus aurigaster
+,鵯屬,,鵯屬,Pycnonotus sp.,Pycnonotus sp.
+,紅嘴黑鵯,"HBBU,BLBU,HYLE",紅嘴黑鵯,Black Bulbul,Hypsipetes leucocephalus
+X,紅嘴黑鵯(白頭),"HBBU,BLBU,HYLE",紅嘴黑鵯(白頭),Black Bulbul (leucocephalus Group),Hypsipetes leucocephalus [leucocephalus Group]
+,棕耳鵯,"BEBU,HYAM",棕耳鵯,Brown-eared Bulbul,Hypsipetes amaurotis
+,栗背短腳鵯,"CHBU,HECA",栗背短腳鵯,Chestnut Bulbul,Hemixos castanonotus
+,林柳鶯,"WOWA,PHSI",林柳鶯,Wood Warbler,Phylloscopus sibilatrix
+,黃眉柳鶯,"YBWA,PHIN",黃眉柳鶯,Yellow-browed Warbler,Phylloscopus inornatus
+,淡眉柳鶯,"HUWA,HLWA,PHHU",淡眉柳鶯,Hume's Warbler,Phylloscopus humei
+X,黃眉/淡眉柳鶯,"HUWA,YBWA,HLWA,PHIN,PHHU",黃眉/淡眉柳鶯,Yellow-browed/Hume's Warbler,Phylloscopus inornatus/humei
+,雲南柳鶯,"CLWA,PHYU",雲南柳鶯,Chinese Leaf Warbler,Phylloscopus yunnanensis
+,黃腰柳鶯,"PLEW,PAWA,PLWA,PHPR",黃腰柳鶯,Pallas's Leaf Warbler,Phylloscopus proregulus
+,巨嘴柳鶯,"RAWA,PHSC",巨嘴柳鶯,Radde's Warbler,Phylloscopus schwarzi
+,棕眉柳鶯,"YSWA,PHAR",棕眉柳鶯,Yellow-streaked Warbler,Phylloscopus armandii
+,黃腹柳鶯,"TLWA,PHAF",黃腹柳鶯,Tickell's Leaf Warbler,Phylloscopus affinis
+,褐色柳鶯,"DUWA,PHFU",褐色柳鶯,Dusky Warbler,Phylloscopus fuscatus
+X,巨嘴/褐色柳鶯,"RAWA,DUWA,PHSC,PHFU",巨嘴/褐色柳鶯,Radde's/Dusky Warbler,Phylloscopus schwarzi/fuscatus
+,棕腹柳鶯,"BTWA,PHSU",棕腹柳鶯,Buff-throated Warbler,Phylloscopus subaffinis
+,歐亞柳鶯,"WILW,WIWA,PHTR",歐亞柳鶯,Willow Warbler,Phylloscopus trochilus
+,東方嘰咋柳鶯,"MOCH,PHSI",東方嘰咋柳鶯,Mountain Chiffchaff,Phylloscopus sindianus
+,嘰喳柳鶯,"CCHI,COCH,PHCO",嘰喳柳鶯,Common Chiffchaff,Phylloscopus collybita
+X,歐亞/嘰喳柳鶯,"WIWA,WILW,COCH,CCHI,PHCO,PHTR",歐亞/嘰喳柳鶯,Willow Warbler/Common Chiffchaff,Phylloscopus trochilus/collybita
+,冠羽柳鶯,"ECWA,PHCO",冠羽柳鶯,Eastern Crowned Warbler,Phylloscopus coronatus
+,飯島柳鶯,"ILWA,PHIJ",飯島柳鶯,Ijima's Leaf Warbler,Phylloscopus ijimae
+,白眶鶲鶯,"WSWA,PHIN",白眶鶲鶯,White-spectacled Warbler,Phylloscopus intermedius
+,比氏鶲鶯,"BIWA,PHVA",比氏鶲鶯,Bianchi's Warbler,Phylloscopus valentini
+,淡尾鶲鶯,"ALWA,PHSO",淡尾鶲鶯,Alström's Warbler,Phylloscopus soror
+X,金眶鶲鶯複合群,,金眶鶲鶯複合群,Phylloscopus sp. (Golden-spectacled Warbler complex),Phylloscopus sp. (burkii complex)
+,暗綠柳鶯,"GRWA,PHTR",暗綠柳鶯,Greenish Warbler,Phylloscopus trochiloides
+,雙斑綠柳鶯,"TBWA,PHPL",雙斑綠柳鶯,Two-barred Warbler,Phylloscopus plumbeitarsus
+X,暗綠/雙斑綠柳鶯,"GRWA,TBWA,PHPL,PHTR",暗綠/雙斑綠柳鶯,Greenish/Two-barred Warbler,Phylloscopus trochiloides/plumbeitarsus
+,淡腳柳鶯,"PLLW,PHTE",淡腳柳鶯,Pale-legged Leaf Warbler,Phylloscopus tenellipes
+,庫頁島柳鶯,"SLWA,PHBO",庫頁島柳鶯,Sakhalin Leaf Warbler,Phylloscopus borealoides
+X,淡腳/庫頁島柳鶯,"SLWA,PLLW,PHTE,PHBO",淡腳/庫頁島柳鶯,Pale-legged/Sakhalin Leaf Warbler,Phylloscopus tenellipes/borealoides
+,日本柳鶯,"JLWA,PHXA",日本柳鶯,Japanese Leaf Warbler,Phylloscopus xanthodryas
+,極北柳鶯,"ARWA,PHBO",極北柳鶯,Arctic Warbler,Phylloscopus borealis
+X,日本/極北柳鶯,"ARWA,JLWA,PHBO,PHXA",日本/極北柳鶯,Japanese Leaf/Arctic Warbler,Phylloscopus xanthodryas/borealis
+,勘察加柳鶯,"KLWA,PHEX",勘察加柳鶯,Kamchatka Leaf Warbler,Phylloscopus examinandus
+,極北/勘察加柳鶯,"AKLW,KLWA,ARWA,PHBO,PHEX",極北/勘察加柳鶯,Arctic/Kamchatka Leaf Warbler,Phylloscopus borealis/examinandus
+,日本/極北/勘察加柳鶯,,日本/極北/勘察加柳鶯,Japanese Leaf/Arctic/Kamchatka Leaf Warbler,Phylloscopus xanthodryas/borealis/examinandus
+,栗頭鶲鶯,"CCWA,PHCA",栗頭鶲鶯,Chestnut-crowned Warbler,Phylloscopus castaniceps
+,黑眉柳鶯,"SBWA,PHRI",黑眉柳鶯,Sulphur-breasted Warbler,Phylloscopus ricketti
+,克氏冠紋柳鶯,"CLWA,PHCL",克氏冠紋柳鶯,Claudia's Leaf Warbler,Phylloscopus claudiae
+,哈氏冠紋柳鶯,"HLWA,PHGO",哈氏冠紋柳鶯,Hartert's Leaf Warbler,Phylloscopus goodsoni
+X,克氏/哈氏/布氏冠紋柳鶯,,克氏/哈氏/布氏冠紋柳鶯,Blyth's/Claudia's/Hartert's Leaf Warbler,Phylloscopus reguloides/claudiae/goodsoni
+,柳鶯屬(XX柳鶯),,柳鶯屬,Phylloscopus sp.,Phylloscopus sp.
+,短尾鶯,"ASST,URSQ",短尾鶯,Asian Stubtail,Urosphena squameiceps
+,棕面鶯,"RFWA,ABAL",棕面鶯,Rufous-faced Warbler,Abroscopus albogularis
+,日本樹鶯,"JABW,JBWA,HODI",日本樹鶯,Japanese Bush Warbler,Horornis diphone
+,遠東樹鶯,"MBWA,HOCA",遠東樹鶯,Manchurian Bush Warbler,Horornis canturians
+,日本/遠東樹鶯(短翅樹鶯),"JBWA,JABW,MBWA,HOCA,HODI",日本/遠東樹鶯,Japanese/Manchurian Bush Warbler,Horornis diphone/canturians
+,小鶯,"BFBW,HOFO",小鶯,Brownish-flanked Bush Warbler,Horornis fortipes
+,深山鶯,"YBBW,HOAC",深山鶯,Yellowish-bellied Bush Warbler,Horornis acanthizoides
+X,小鶯/深山鶯,"BFBW,YBBW,HOAC,HOFO",小鶯/深山鶯,Brownish-flanked/Yellowish-bellied Bush Warbler,Horornis fortipes/acanthizoides
+,樹鶯屬(XX樹鶯),,樹鶯屬,bush warbler sp.,Horornis sp.
+,紅頭山雀,"BTTI,BTBU,AECO",紅頭山雀,Black-throated Tit,Aegithalos concinnus
+,漠地林鶯,"ADWA,SYNA",漠地林鶯,Asian Desert Warbler,Sylvia nana
+,白喉林鶯,"LEWH,SYCU",白喉林鶯,Lesser Whitethroat,Sylvia curruca
+,林鶯屬(XX林鶯),,林鶯屬,Sylvia sp.,Sylvia sp.
+,褐頭花翼,"TAFU,FUFO",褐頭花翼,Taiwan Fulvetta,Fulvetta formosana
+,粉紅鸚嘴,"VTPA,SIWE",粉紅鸚嘴,Vinous-throated Parrotbill,Sinosuthora webbiana
+,黃羽鸚嘴,"GOPA,SUVE",黃羽鸚嘴,Golden Parrotbill,Suthora verreauxi
+,栗耳鳳鶥,"INYU,YUTO",栗耳鳳鶥,Indochinese Yuhina,Yuhina torqueola
+,冠羽畫眉,"TAYU,YUBR",冠羽畫眉,Taiwan Yuhina,Yuhina brunneiceps
+,紅脇繡眼,"CFWE,ZOER",紅脇繡眼,Chestnut-flanked White-eye,Zosterops erythropleurus
+,日菲繡眼,"WAWE,WWEY,ZOJA",日菲繡眼,Warbling White-eye,Zosterops japonicus
+,斯氏繡眼,"SWWE,SWEY,ZOSI",斯氏繡眼,Swinhoe's White-eye,Zosterops simplex
+,綠繡眼,"SWWE,SWEY,ZOSI",斯氏繡眼,Swinhoe's White-eye,Zosterops simplex
+,低地繡眼,"LWEY,LOWE,ZOME",低地繡眼,Lowland White-eye,Zosterops meyeni
+,繡眼屬(XX繡眼),,繡眼屬,Zosterops sp.,Zosterops sp.
+,繡眼科(XX繡眼),,繡眼科,white-eye sp.,Zosteropidae sp.
+,山紅頭,"RCBA,CYRU",山紅頭,Rufous-capped Babbler,Cyanoderma ruficeps
+,小彎嘴,"TSBA,TASB,POMU",小彎嘴,Taiwan Scimitar-Babbler,Pomatorhinus musicus
+,大彎嘴,"BNSB,MEER",大彎嘴,Black-necklaced Scimitar-Babbler,Megapomatorhinus erythrocnemis
+,頭烏線,"DUFU,SCBR",頭烏線,Dusky Fulvetta,Schoeniparus brunneus
+,繡眼畫眉,"MOFU,GCFU,ALMO",繡眼畫眉,Morrison's Fulvetta,Alcippe morrisonia
+,黑臉噪鶥,"MALA,GAPE",黑臉噪鶥,Masked Laughingthrush,Garrulax perspicillatus
+,大陸畫眉,"HWAM,CHHW,GACA",大陸畫眉,Chinese Hwamei,Garrulax canorus
+,台灣畫眉,"TAHW,GATA",台灣畫眉,Taiwan Hwamei,Garrulax taewanus
+,台灣/大陸畫眉,"HWAM,TAHW,CHHW,GACA,GATA",台灣/大陸畫眉,Chinese/Taiwan Hwamei,Garrulax canorus/taewanus
+,噪眉屬(XX噪眉),,噪眉屬,Garrulax sp.,Garrulax sp.
+,台灣白喉噪眉,"RCLA,IARU",台灣白喉噪眉,Rufous-crowned Laughingthrush,Ianthocincla ruficeps
+,黑喉噪眉,"BTLA,IACH",黑喉噪眉,Black-throated Laughingthrush,Ianthocincla chinensis
+,棕噪眉,"RULA,IAPO",棕噪眉,Rusty Laughingthrush,Ianthocincla poecilorhyncha
+,竹鳥,"RULA,IAPO",棕噪眉,Rusty Laughingthrush,Ianthocincla poecilorhyncha
+,白頰噪眉,"WBLA,IASA",白頰噪眉,White-browed Laughingthrush,Ianthocincla sannio
+,藍噪眉屬,,藍噪眉屬,Ianthocincla sp.,Ianthocincla sp.
+,台灣噪眉,"WWLA,TRMO",台灣噪眉,White-whiskered Laughingthrush,Trochalopteron morrisonianum
+,金翼白眉,"WWLA,TRMO",台灣噪眉,White-whiskered Laughingthrush,Trochalopteron morrisonianum
+,噪眉類,,噪眉類,laughingthrush sp.,Garrulax/Ianthocincla/Trochalopteron/Montecincla sp.
+,白耳畫眉,"WESI,HEAU",白耳畫眉,White-eared Sibia,Heterophasia auricularis
+,紅嘴相思鳥,"RBLE,LELU",紅嘴相思鳥,Red-billed Leiothrix,Leiothrix lutea
+,黃胸藪眉,"STLI,LIST",黃胸藪眉,Steere's Liocichla,Liocichla steerii
+,藪鳥,"STLI,LIST",黃胸藪眉,Steere's Liocichla,Liocichla steerii
+,紋翼畫眉,"TABA,ACMO",紋翼畫眉,Taiwan Barwing,Actinodura morrisoniana
+,戴菊鳥,"GOLD,RERE",戴菊鳥,Goldcrest,Regulus regulus
+,火冠戴菊鳥,"FLAM,REGO",火冠戴菊鳥,Flamecrest,Regulus goodfellowi
+,茶腹鳾,"EUNU,SIEU",茶腹鳾,Eurasian Nuthatch,Sitta europaea
+,鷦鷯,"EUWR,TRTR",鷦鷯,Eurasian Wren,Troglodytes troglodytes
+,河烏,"BRDI,CIPA",河烏,Brown Dipper,Cinclus pallasii
+,亞洲輝椋鳥,"AGST,APPA",輝椋鳥,Asian Glossy Starling,Aplonis panayensis
+,九官鳥,"CHIM,CHMY,GRRE",九官鳥,Common Hill Myna,Gracula religiosa
+,歐洲椋鳥,"EUST,COST,STVU",歐洲椋鳥,European Starling,Sturnus vulgaris
+,粉紅椋鳥,"RCST,ROST,PARO",粉紅椋鳥,Rosy Starling,Pastor roseus
+,北椋鳥,"DAST,PBST,AGST",北椋鳥,Daurian Starling,Agropsar sturninus
+,小椋鳥,"CCST,AGPH",小椋鳥,Chestnut-cheeked Starling,Agropsar philippensis
+X,北/小椋鳥,"DAST,PBST,CCST,AGPH,AGST",北/小椋鳥,Daurian/Chestnut-cheeked Starling,Agropsar sturninus/philippensis
+,黑領椋鳥,"BCST,GRNI",黑領椋鳥,Black-collared Starling,Gracupica nigricollis
+,灰背椋鳥,"WSST,STSI",灰背椋鳥,White-shouldered Starling,Sturnia sinensis
+,灰頭椋鳥,"CTST,STMA",灰頭椋鳥,Chestnut-tailed Starling,Sturnia malabarica
+,栗尾椋鳥,"CTST,STMA",灰頭椋鳥,Chestnut-tailed Starling,Sturnia malabarica
+,絲光椋鳥,"RBST,SPSE",絲光椋鳥,Red-billed Starling,Spodiopsar sericeus
+,灰椋鳥,"WCST,SPCI",灰椋鳥,White-cheeked Starling,Spodiopsar cineraceus
+,家八哥,"COMY,PIHA,ACTR",家八哥,Common Myna,Acridotheres tristis
+,葡萄胸椋鳥,"VBST,ACBU",葡萄胸椋鳥,Vinous-breasted Starling,Acridotheres burmannicus
+,林八哥,"JUMY,ACFU",林八哥,Jungle Myna,Acridotheres fuscus
+,白尾八哥,"JAMY,ACJA",白尾八哥,Javan Myna,Acridotheres javanicus
+,大八哥(叢八哥),"GRMY,ACGR",大八哥(叢八哥),Great Myna,Acridotheres grandis
+,八哥(冠八哥),"CRMY,ACCR",八哥(冠八哥),Crested Myna,Acridotheres cristatellus
+,八哥屬(XX八哥),,八哥屬,Acridotheres sp.,Acridotheres sp.
+,椋鳥科(XX椋鳥),,椋鳥科,myna/starling sp.,Sturnidae sp.
+,白氏地鶇,"WHTH,ZOAU",白氏地鶇,White's Thrush,Zoothera aurea
+,虎斑地鶇,"SCTH,ZODA",虎斑地鶇,Scaly Thrush,Zoothera dauma
+,虎斑地鶇(小虎鶇),"SCTH,ZODA",虎斑地鶇(指名亞種/小虎鶇),Scaly Thrush (Scaly),Zoothera dauma dauma
+,白氏/虎斑地鶇(虎鶇),"WHTH,SCTH,ZODA,ZOAU",白氏/虎斑地鶇,White's/Scaly Thrush,Zoothera aurea/dauma
+,白眉地鶇,"SITH,GESI",白眉地鶇,Siberian Thrush,Geokichla sibirica
+,橙頭地鶇,"OHTH,GECI",橙頭地鶇,Orange-headed Thrush,Geokichla citrina
+,寶興歌鶇,"CHTH,OTMU",寶興歌鶇,Chinese Thrush,Otocichla mupinensis
+,中國黑鶇,"CHBL,TUMA",中國黑鶇,Chinese Blackbird,Turdus mandarinus
+,白頭鶇,"ISTH,TATH,TUNI",白頭鶇,Taiwan Thrush,Turdus niveiceps
+,烏灰鶇,"JATH,TUCA",烏灰鶇,Japanese Thrush,Turdus cardis
+,灰背鶇,"GBTH,TUHO",灰背鶇,Gray-backed Thrush,Turdus hortulorum
+,白眉鶇,"EYTH,TUOB",白眉鶇,Eyebrowed Thrush,Turdus obscurus
+,赤腹鶇,"BHTH,TUCH",赤腹鶇,Brown-headed Thrush,Turdus chrysolaus
+,白腹鶇,"PATH,TUPA",白腹鶇,Pale Thrush,Turdus pallidus
+,黑頸鶇,"BTTH,TUAT",黑頸鶇,Black-throated Thrush,Turdus atrogularis
+,赤頸鶇,"RTTH,TURU",赤頸鶇,Red-throated Thrush,Turdus ruficollis
+,斑點鶇,"DUTH,TUEU",斑點鶇,Dusky Thrush,Turdus eunomus
+,紅尾鶇,"NATH,TUNA",紅尾鶇,Naumann's Thrush,Turdus naumanni
+X,斑點/紅尾鶇,"DUTH,NATH,TUEU,TUNA",斑點/紅尾鶇,Dusky/Naumann's Thrush,Turdus eunomus/naumanni
+,鶇屬(XX鶇),,鶇屬,Turdus sp.,Turdus sp.
+,鶇科(XX鶇),,鶇科,thrush sp.,Turdidae sp.
+,灰斑鶲,"GSFL,MUGR",灰斑鶲,Gray-streaked Flycatcher,Muscicapa griseisticta
+,烏鶲,"DSFL,MUSI",烏鶲,Dark-sided Flycatcher,Muscicapa sibirica
+X,灰斑鶲/烏鶲,"DSFL,GSFL,MUSI,MUGR",灰斑鶲/烏鶲,Gray-streaked/Dark-sided Flycatcher,Muscicapa griseisticta/sibirica
+,紅尾鶲,"FEFL,MUFE",紅尾鶲,Ferruginous Flycatcher,Muscicapa ferruginea
+,寬嘴鶲,"ABFL,MUDA",寬嘴鶲,Asian Brown Flycatcher,Muscicapa dauurica
+,褐胸鶲,"BBFL,MUMU",褐胸鶲,Brown-breasted Flycatcher,Muscicapa muttui
+,斑鶲,"SPFL,MUST",斑鶲,Spotted Flycatcher,Muscicapa striata
+,鶲屬(XX鶲),,鶲屬,Muscicapa sp.,Muscicapa sp.
+,鵲鴝,"ORMR,OMRO,COSA",鵲鴝,Oriental Magpie-Robin,Copsychus saularis
+,白腰鵲鴝,"WRSH,WRCS,COMA",白腰鵲鴝,White-rumped Shama,Copsychus malabaricus
+,海南藍仙鶲,"HBFL,CYHA",海南藍仙鶲,Hainan Blue Flycatcher,Cyornis hainanus
+,白喉林鶲,"BCJF,CYBR",白喉林鶲,Brown-chested Jungle-Flycatcher,Cyornis brunneatus
+,棕腹大仙鶲,"FUNI,NIDA",棕腹大仙鶲,Fujian Niltava,Niltava davidi
+,棕腹仙鶲,"RBNI,NISU",棕腹仙鶲,Rufous-bellied Niltava,Niltava sundara
+,黃腹琉璃,"VINI,NIVI",黃腹琉璃,Vivid Niltava,Niltava vivida
+,仙鶲屬,,仙鶲屬,niltava sp.,Niltava sp.
+,白腹琉璃,"BAWF,CYCY",白腹琉璃,Blue-and-white Flycatcher,Cyanoptila cyanomelana
+,琉璃藍鶲,"ZAFL,CYCU",琉璃藍鶲,Zappey's Flycatcher,Cyanoptila cumatilis
+X,白腹琉璃/琉璃藍鶲,"BAWF,ZAFL,CYCU,CYCY",白腹琉璃/琉璃藍鶲,Blue-and-white/Zappey's Flycatcher,Cyanoptila cyanomelana/cumatilis
+,銅藍鶲,"VEFL,EUTH",銅藍鶲,Verditer Flycatcher,Eumyias thalassinus
+,白喉短翅鶇,"LESH,BRLE",白喉短翅鶇,Lesser Shortwing,Brachypteryx leucophris
+,小翼鶇,"WBSH,TASH,BRGO",小翼鶇,Taiwan Shortwing,Brachypteryx goodfellowi
+,紅尾歌鴝,"RTRO,LASI",紅尾歌鴝,Rufous-tailed Robin,Larvivora sibilans
+,日本歌鴝,"JARO,LAAK",日本歌鴝,Japanese Robin,Larvivora akahige
+,琉球歌鴝,"RYRO,LAKO",琉球歌鴝,Ryukyu Robin,Larvivora komadori
+,藍歌鴝,"SBRO,LACY",藍歌鴝,Siberian Blue Robin,Larvivora cyane
+,藍喉鴝,"BLUE,LUSV",藍喉鴝,Bluethroat,Luscinia svecica
+,台灣紫嘯鶇,"TWTH,TAWT,MYIN",台灣紫嘯鶇,Taiwan Whistling-Thrush,Myophonus insularis
+,白斑紫嘯鶇,"BLWT,BWTH,MYCA",白斑紫嘯鶇,Blue Whistling-Thrush,Myophonus caeruleus
+X,白斑紫嘯鶇(黑嘴),"BLWT,BWTH,MYCA",白斑紫嘯鶇(黑嘴),Blue Whistling-Thrush (Black-billed),Myophonus caeruleus caeruleus
+,紫嘯鶇屬,,紫嘯鶇屬,whistling-thrush sp.,Myophonus sp.
+,小剪尾,"LIFO,ENSC",小剪尾,Little Forktail,Enicurus scouleri
+,野鴝,"SIRU,CACA",野鴝,Siberian Rubythroat,Calliope calliope
+,白尾鴝,"WTRO,MYLE",白尾鴝,White-tailed Robin,Myiomela leucura
+,藍尾鴝,"RFBL,TACY",藍尾鴝,Red-flanked Bluetail,Tarsiger cyanurus
+,白眉林鴝,"WBBR,TAIN",白眉林鴝,White-browed Bush-Robin,Tarsiger indicus
+,栗背林鴝,"COBR,CBRO,TAJO",栗背林鴝,Collared Bush-Robin,Tarsiger johnstoniae
+,白眉/栗背林鴝,"WBBR,CBRO,COBR,TAJO,TAIN",白眉/栗背林鴝,White-browed/Collared Bush-Robin,Tarsiger indicus/johnstoniae
+,白眉鶲,"KOFL,YRFL,FIZA",白眉鶲,Yellow-rumped Flycatcher,Ficedula zanthopygia
+,綠背姬鶲,"GBFL,FIEL",綠背姬鶲,Green-backed Flycatcher,Ficedula elisae
+,黃眉黃鶲,"NAFL,FINA",黃眉黃鶲,Narcissus Flycatcher,Ficedula narcissina
+X,白眉鶲/綠背姬鶲/黃眉黃鶲,,白眉鶲/綠背姬鶲/黃眉黃鶲,Yellow-rumped/Green-backed/Narcissus Flycatcher,Ficedula zanthopygia/elisae/narcissina
+,白眉黃鶲,"MUFL,FIMU",白眉黃鶲,Mugimaki Flycatcher,Ficedula mugimaki
+,銹胸藍姬鶲,"SBFL,FIER",銹胸藍姬鶲,Slaty-backed Flycatcher,Ficedula erithacus
+,黃胸青鶲,"SBFL,FIHY",黃胸青鶲,Snowy-browed Flycatcher,Ficedula hyperythra
+,橙胸姬鶲,"RGFL,FIST",橙胸姬鶲,Rufous-gorgeted Flycatcher,Ficedula strophiata
+,紅喉鶲,"TAFL,FIAL",紅喉鶲,Taiga Flycatcher,Ficedula albicilla
+,紅胸鶲,"RBFL,FIPA",紅胸鶲,Red-breasted Flycatcher,Ficedula parva
+,紅喉/紅胸鶲,"RBFL,TAFL,FIPA,FIAL",紅喉/紅胸鶲,Taiga/Red-breasted Flycatcher,Ficedula albicilla/parva
+,姬鶲屬,,姬鶲屬,Ficedula sp.,Ficedula sp.
+,藍額紅尾鴝,"BFRE,PHFR",藍額紅尾鴝,Blue-fronted Redstart,Phoenicurus frontalis
+,鉛色水鶇,"PLRE,PWRE,PHFU",鉛色水鶇,Plumbeous Redstart,Phoenicurus fuliginosus
+,白頂溪鴝,"WCRE,PHLE",白頂溪鴝,White-capped Redstart,Phoenicurus leucocephalus
+,赭紅尾鴝,"BLRE,PHOC",赭紅尾鴝,Black Redstart,Phoenicurus ochruros
+,黃尾鴝,"DARE,PHAU",黃尾鴝,Daurian Redstart,Phoenicurus auroreus
+,白喉磯鶇,"WTRT,MOGU",白喉磯鶇,White-throated Rock-Thrush,Monticola gularis
+,藍磯鶇,"BLRT,BRTH,MOSO",藍磯鶇,Blue Rock-Thrush,Monticola solitarius
+,藍磯鶇(藍腹),"BLRT,BRTH,MOSO",藍磯鶇(藍腹),Blue Rock-Thrush (pandoo),Monticola solitarius pandoo
+X,藍磯鶇(栗腹),"BLRT,BRTH,MOSO",藍磯鶇(栗腹),Blue Rock-Thrush (philippensis),Monticola solitarius philippensis
+,黑喉鴝,"SIST,SAMA",黑喉鴝,Siberian Stonechat,Saxicola maurus
+,白斑黑石䳭,"PIBU,PBCH,PIST,SACA",白斑黑石䳭,Pied Bushchat,Saxicola caprata
+,灰叢鴝,"GBCH,GRBU,SAFE",灰叢鴝,Gray Bushchat,Saxicola ferreus
+,穗䳭,"NOWH,OEOE",穗䳭,Northern Wheatear,Oenanthe oenanthe
+,沙䳭,"ISWH,OEIS",沙䳭,Isabelline Wheatear,Oenanthe isabellina
+,漠䳭,"DEWH,OEDE",漠䳭,Desert Wheatear,Oenanthe deserti
+,白頂䳭,"PIWH,OEPL",白頂䳭,Pied Wheatear,Oenanthe pleschanka
+,䳭屬,,䳭屬,wheatear sp.,Oenanthe sp.
+,鶲科,,鶲科,Muscicapid sp.,Muscicapidae sp.
+,黃連雀,"BOWA,BOGA",黃連雀,Bohemian Waxwing,Bombycilla garrulus
+,朱連雀,"JAWA,BOJA",朱連雀,Japanese Waxwing,Bombycilla japonica
+,綠啄花,"PLFL,DIMI",綠啄花,Plain Flowerpecker,Dicaeum minullum
+,紅胸啄花,"FBFL,DIIG",紅胸啄花,Fire-breasted Flowerpecker,Dicaeum ignipectus
+,啄花屬(XX啄花),,啄花屬,Dicaeum sp.,Dicaeum sp.
+,黃腹花蜜鳥,"OBSU,CIJU",黃腹花蜜鳥,Olive-backed Sunbird,Cinnyris jugularis
+,藍喉太陽鳥,"MGSU,GOSU,AEGO",藍喉太陽鳥,Mrs. Gould's Sunbird,Aethopyga gouldiae
+,叉尾太陽鳥,"FTSU,AECH",叉尾太陽鳥,Fork-tailed Sunbird,Aethopyga christinae
+,黑頭織雀,"VIWE,PLCU",黑頭織雀,Village Weaver,Ploceus cucullatus
+,橙頰梅花雀,"OCHW,OCWA,ESME",橙頰梅花雀,Orange-cheeked Waxbill,Estrilda melpoda
+,橫斑梅花雀,"COMW,COWA,ESAS",橫斑梅花雀,Common Waxbill,Estrilda astrild
+,紅梅花雀,"REAV,AMAM",紅梅花雀,Red Avadavat,Amandava amandava
+,白喉文鳥,"INSI,EUMA",白喉文鳥,Indian Silverbill,Euodice malabarica
+,白腰文鳥,"WRMU,LOST",白腰文鳥,White-rumped Munia,Lonchura striata
+,斑文鳥,"SBMU,LOPU",斑文鳥,Scaly-breasted Munia,Lonchura punctulata
+,黑頭文鳥,"CHMU,LOAT",黑頭文鳥,Chestnut Munia,Lonchura atricapilla
+,白頭文鳥,"WHMU,LOMA",白頭文鳥,White-headed Munia,Lonchura maja
+,爪哇雀,"JASP,LOOR",爪哇雀,Java Sparrow,Lonchura oryzivora
+,文鳥屬(XX文鳥),,文鳥屬,Lonchura sp.,Lonchura sp.
+,針尾維達雀,"PTWH,VIMA",針尾維達雀,Pin-tailed Whydah,Vidua macroura
+,岩鷚,"ALAC,PRCO",岩鷚,Alpine Accentor,Prunella collaris
+,家麻雀,"HOSP,PADO",家麻雀,House Sparrow,Passer domesticus
+,山麻雀,"RUSP,PACI",山麻雀,Russet Sparrow,Passer cinnamomeus
+,麻雀,"ETSP,PAMO",麻雀,Eurasian Tree Sparrow,Passer montanus
+,麻雀屬,,麻雀屬,Passer sp.,Passer sp.
+,山鶺鴒,"FOWA,DEIN",山鶺鴒,Forest Wagtail,Dendronanthus indicus
+,灰鶺鴒,"GRAW,GRWA,MOCI",灰鶺鴒,Gray Wagtail,Motacilla cinerea
+,西方黃鶺鴒,"WYWA,MOFL",西方黃鶺鴒,Western Yellow Wagtail,Motacilla flava
+X,西方黃鶺鴒(灰頭),"WYWA,MOFL",西方黃鶺鴒(灰頭),Western Yellow Wagtail (thunbergi),Motacilla flava thunbergi
+,東方黃鶺鴒,"EYWA,MOTS",東方黃鶺鴒,Eastern Yellow Wagtail,Motacilla tschutschensis
+X,東方黃鶺鴒(白眉),"EYWA,MOTS",東方黃鶺鴒(白眉),Eastern Yellow Wagtail (Eastern),Motacilla tschutschensis tschutschensis/plexa
+X,東方黃鶺鴒(黃眉),"EYWA,MOTS",東方黃鶺鴒(黃眉),Eastern Yellow Wagtail (Green-headed),Motacilla tschutschensis taivana
+X,東方黃鶺鴒(藍頭),"EYWA,MOTS",東方黃鶺鴒(藍頭),Eastern Yellow Wagtail (Manchurian),Motacilla tschutschensis macronyx
+,黃頭鶺鴒,"CIWA,MOCI",黃頭鶺鴒,Citrine Wagtail,Motacilla citreola
+,日本鶺鴒,"JAWA,MOGR",日本鶺鴒,Japanese Wagtail,Motacilla grandis
+,白鶺鴒,"WHWA,PWWA,MOAL",白鶺鴒,White Wagtail,Motacilla alba
+X,白鶺鴒(灰背眼紋),"PWWA,WHWA,MOAL",白鶺鴒(灰背眼紋),White Wagtail (ocularis),Motacilla alba ocularis
+X,白鶺鴒(黑背眼紋),"PWWA,WHWA,MOAL",白鶺鴒(黑背眼紋),White Wagtail (Black-backed),Motacilla alba lugens
+,白鶺鴒(白面),"PWWA,WHWA,MOAL",白鶺鴒(白面),White Wagtail (Chinese),Motacilla alba leucopsis
+,鶺鴒屬(XX鶺鴒),,鶺鴒屬,wagtail sp.,Motacilla sp.
+,大花鷚,"RIPI,ANRI",大花鷚,Richard's Pipit,Anthus richardi
+,田鷚,"PAPI,ANRU",田鷚,Paddyfield Pipit,Anthus rufulus
+,布萊氏鷚,"BLPI,ANGO",布萊氏鷚,Blyth's Pipit,Anthus godlewskii
+,草地鷚,"MEPI,ANPR",草地鷚,Meadow Pipit,Anthus pratensis
+,林鷚,"TRPI,ANTR",林鷚,Tree Pipit,Anthus trivialis
+,樹鷚,"OBPI,ANHO",樹鷚,Olive-backed Pipit,Anthus hodgsoni
+X,林/樹鷚,"OBPI,TRPI,ANTR,ANHO",林/樹鷚,Tree/Olive-backed Pipit,Anthus trivialis/hodgsoni
+,白背鷚,"PEPI,ANGU",白背鷚,Pechora Pipit,Anthus gustavi
+,赤喉鷚,"RTPI,ANCE",赤喉鷚,Red-throated Pipit,Anthus cervinus
+,水鷚,"WAPI,ANSP",水鷚,Water Pipit,Anthus spinoletta
+,黃腹鷚,"AMPI,BBPI,ANRU",黃腹鷚,American Pipit,Anthus rubescens
+,鷚屬(XX鷚),,鷚屬,pipit sp.,Anthus sp.
+,花雀,"BRAM,FRMO",花雀,Brambling,Fringilla montifringilla
+,臘嘴雀,"HAWF,COCO",臘嘴雀,Hawfinch,Coccothraustes coccothraustes
+,小桑鳲,"YBGR,CHGR,EOMI",小桑鳲,Yellow-billed Grosbeak,Eophona migratoria
+,桑鳲,"JAGR,EOPE",桑鳲,Japanese Grosbeak,Eophona personata
+,普通朱雀,"CORO,CAER",普通朱雀,Common Rosefinch,Carpodacus erythrinus
+,台灣朱雀,"TARO,CAFO",台灣朱雀,Taiwan Rosefinch,Carpodacus formosanus
+,褐鷽,"BRBU,PYNI",褐鷽,Brown Bullfinch,Pyrrhula nipalensis
+,灰鷽,"GHBU,PYER",灰鷽,Gray-headed Bullfinch,Pyrrhula erythaca
+X,褐鷽/灰鷽,"BRBU,GHBU,PYNI,PYER",褐鷽/灰鷽,Brown/Gray-headed Bullfinch,Pyrrhula nipalensis/erythaca
+,金翅雀,"ORGR,GCGR,CHSI",金翅雀,Oriental Greenfinch,Chloris sinica
+,黃額絲雀,"YFCA,CRMO",黃額絲雀,Yellow-fronted Canary,Crithagra mozambica
+,普通朱頂雀,"CORE,ACFL",普通朱頂雀,Common Redpoll,Acanthis flammea
+,黃雀,"EUSI,SPSP",黃雀,Eurasian Siskin,Spinus spinus
+,雀科,,雀科,finch sp.,Fringillidae sp.
+,鐵爪鵐,"LALO,LABU,CALA",鐵爪鵐,Lapland Longspur,Calcarius lapponicus
+,冠鵐,"CRBU,EMLA",冠鵐,Crested Bunting,Emberiza lathami
+,黑頭鵐,"BHBU,EMME",黑頭鵐,Black-headed Bunting,Emberiza melanocephala
+,褐頭鵐,"RHBU,EMBR",褐頭鵐,Red-headed Bunting,Emberiza bruniceps
+X,黑頭/褐頭鵐,"BHBU,RHBU,EMBR,EMME",黑頭/褐頭鵐,Black-headed/Red-headed Bunting,Emberiza melanocephala/bruniceps
+,赤胸鵐,"CEBU,EMFU",赤胸鵐,Chestnut-eared Bunting,Emberiza fucata
+,草鵐,"MEBU,EMCI",草鵐,Meadow Bunting,Emberiza cioides
+,白頭鵐,"PIBU,EMLE",白頭鵐,Pine Bunting,Emberiza leucocephalos
+,黃喉鵐,"YTBU,EMEL",黃喉鵐,Yellow-throated Bunting,Emberiza elegans
+,紅頸葦鵐,"JRBU,ORBU,EMYE",紅頸葦鵐,Ochre-rumped Bunting,Emberiza yessoensis
+,葦鵐,"PALB,PRBU,PABU,EMPA",葦鵐,Pallas's Bunting,Emberiza pallasi
+,蘆鵐,"REBU,CRBU,EMSC",蘆鵐,Reed Bunting,Emberiza schoeniclus
+,金鵐,"YBSB,YBBU,EMAU",金鵐,Yellow-breasted Bunting,Emberiza aureola
+,小鵐,"LIBU,EMPU",小鵐,Little Bunting,Emberiza pusilla
+,田鵐,"RUBU,EMRU",田鵐,Rustic Bunting,Emberiza rustica
+,野鵐,"YEBU,EMSU",野鵐,Yellow Bunting,Emberiza sulphurata
+,黑臉鵐,"BFBU,EMSP",黑臉鵐,Black-faced Bunting,Emberiza spodocephala
+,銹鵐,"CHBU,EMRU",銹鵐,Chestnut Bunting,Emberiza rutila
+,黃眉鵐,"YBWB,YBBU,EMCH",黃眉鵐,Yellow-browed Bunting,Emberiza chrysophrys
+,白眉鵐,"TRBU,EMTR",白眉鵐,Tristram's Bunting,Emberiza tristrami
+,灰鵐,"GRBU,EMVA",灰鵐,Gray Bunting,Emberiza variabilis
+,鵐屬(XX鵐),,鵐屬,Emberiza sp.,Emberiza sp.
+,紅冠唐納雀,"RCCA,PACO",紅冠唐納雀,Red-crested Cardinal,Paroaria coronata
+,雀形目,,雀形目,passerine sp.,Passeriformes sp.
+,鳥類,UNBI,鳥類,bird sp.,Aves sp.
+,台灣獼猴,MK,,,
+,臺灣獼猴,MK,,,
+,小型鴴類,,小型鴴類,small plover sp.,Charadrius sp.
+,其他,"ETC,OTHER",其他,,

@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`About.vue find button 1`] = `
+<div data-app="true" class="v-application v-application--is-ltr theme--light" id="app">
+  <div class="v-application--wrap">
+    <header class="v-sheet theme--dark v-toolbar v-toolbar--dense v-app-bar v-app-bar--fixed blue-grey" style="height: 48px; margin-top: 0px; transform: translateY(0px); left: 0px; right: 0px;">
+      <div class="v-toolbar__content" style="height: 48px;"><a href="#/" aria-current="page" class="v-app-bar__nav-icon v-btn--active v-btn v-btn--icon v-btn--round v-btn--router theme--dark v-size--default" to="/"><span class="v-btn__content"><span aria-hidden="true" class="v-icon notranslate theme--dark"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" role="img" aria-hidden="true" class="v-icon__svg"><path d="M10,20V14H14V20H19V12H22L12,3L2,12H5V20H10Z"></path></svg></span></span></a>
+        <div class="v-toolbar__title">關於程式</div>
+      </div>
+    </header>
+    <main class="v-main" style="padding: 48px 0px 0px 0px;">
+      <div class="v-main__wrap">
+        <div class="mx-auto v-card v-card--flat v-sheet theme--light">
+          <div class="v-card__text">
+            <div role="alert" class="v-alert v-sheet theme--light elevation-2 v-alert--border v-alert--border-top">
+              <div class="v-alert__wrapper"><i aria-hidden="true" class="v-icon notranslate v-alert__icon mdi mdi-check-circle theme--light success--text"></i>
+                <div class="v-alert__content"> 編譯時間 : 2021-03-25 15:25:41</div>
+                <div class="v-alert__border v-alert__border--top success v-alert__border--has-color"></div>
+              </div>
+            </div>
+            <div role="alert" class="v-alert v-sheet theme--light elevation-2 v-alert--border v-alert--border-top">
+              <div class="v-alert__wrapper"><i aria-hidden="true" class="v-icon notranslate v-alert__icon mdi mdi-alert theme--light error--text"></i>
+                <div class="v-alert__content"><button type="button" class="v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default red"><span class="v-btn__content">初始化資料庫</span></button></div>
+                <div class="v-alert__border v-alert__border--top error v-alert__border--has-color"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </div>
+</div>
+`;
