@@ -8,9 +8,9 @@ import moment from 'moment-timezone'
 
 import './registerServiceWorker'
 
-import VueGtag from 'vue-gtag'
+//import VueGtag from 'vue-gtag'
 
-Vue.use(VueGtag, { config: { id: 'G-WYQ54X9H9D' } }, router)
+//Vue.use(VueGtag, { config: { id: 'G-WYQ54X9H9D' } }, router)
 Vue.use(VueMoment, { moment })
 Vue.config.productionTip = false
 new Vue({

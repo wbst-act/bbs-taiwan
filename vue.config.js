@@ -1,4 +1,5 @@
 module.exports = {
+  publicPath: process.env.NODE_ENV === 'production' ? '/bbs-taiwan/' : '/',
   transpileDependencies: ['vuetify'],
   parallel: require('os').cpus().length > 1,
   chainWebpack: config => {

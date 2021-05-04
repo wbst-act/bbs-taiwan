@@ -33,6 +33,7 @@ v-app
               v-text-field(label="任意字查詢", dense, v-model='search_words' @input="search_birds" clearable)
 </template>
 <script>
+import { mapState } from 'vuex'
 import { mdiHome, mdiDotsVertical, mdiVolumeHigh, mdiMagnify } from '@mdi/js'
 export default {
   name: 'Sname',
@@ -56,13 +57,16 @@ export default {
           name: item[0]
         }))
       ]
-    }
+    },
+    ...mapState(['static_data_path'])
   },
   async mounted() {
-    this.ebird_family = await fetch('/data/ebird_family.json').then(r =>
-      r.json()
-    )
-    this.allbirds = await fetch('/data/ebird_bird.json').then(r => r.json())
+    this.ebird_family = await fetch(
+      this.static_data_path + 'ebird_family.json'
+    ).then(r => r.json())
+    this.allbirds = await fetch(
+      this.static_data_path + 'ebird_bird.json'
+    ).then(r => r.json())
     this.birds = Object.assign({}, this.allbirds)
   },
   created() {

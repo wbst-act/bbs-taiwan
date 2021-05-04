@@ -8,6 +8,8 @@ let modules = VueIdb.modules
 
 export default new Vuex.Store({
   state: {
+    static_data_path:
+      (process.env.NODE_ENV === 'production' ? '/bbs-taiwan/' : '/') + 'data/',
     hydrated: false,
     wind: {
       0: '靜, 樹葉草莖不動',

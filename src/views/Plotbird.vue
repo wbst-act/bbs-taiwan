@@ -28,7 +28,7 @@ import {
   mdiEye,
   mdiVolumeHigh
 } from '@mdi/js'
-import { mapGetters } from 'vuex'
+import { mapGetters, mapState } from 'vuex'
 
 export default {
   name: 'PlotBird',
@@ -50,12 +50,17 @@ export default {
   computed: {
     ...mapGetters({
       plot: 'getPlotSelected'
-    })
+    }),
+    ...mapState(['static_data_path'])
   },
   async created() {
     this.plotid = this.$route.params.plotid
-    this.allbirds = await fetch('/data/ebird_bird.json').then(r => r.json())
-    const res = await fetch('/data/plot_bird.json').then(r => r.json())
+    this.allbirds = await fetch(
+      this.static_data_path + 'ebird_bird.json'
+    ).then(r => r.json())
+    const res = await fetch(this.static_data_path + 'plot_bird.json').then(r =>
+      r.json()
+    )
     const datalist = res[this.plotid] ? res[this.plotid] : []
     this.birds = Object.fromEntries(
       Object.entries(this.allbirds).filter(item => datalist.includes(item[1].i))

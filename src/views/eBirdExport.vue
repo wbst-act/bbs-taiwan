@@ -41,6 +41,7 @@ v-app
 <script>
 import { mdiHome, mdiDotsVertical, mdiVolumeHigh, mdiMagnify } from '@mdi/js'
 import XLSX from 'xlsx'
+import { mapState } from 'vuex'
 export default {
   name: 'eBirdExport',
   data: () => ({
@@ -49,9 +50,16 @@ export default {
     lang: '中文',
     birds: {}
   }),
+  computed: {
+    ...mapState(['static_data_path'])
+  },
   async mounted() {
-    this.plots = await fetch('/data/bbs_plot.json').then(r => r.json())
-    this.birds = await fetch('/data/bbs_bird_2021.json').then(r => r.json())
+    this.plots = await fetch(this.static_data_path + 'bbs_plot.json').then(r =>
+      r.json()
+    )
+    this.birds = await fetch(
+      this.static_data_path + 'bbs_bird_2021.json'
+    ).then(r => r.json())
   },
   methods: {
     changefile(file) {

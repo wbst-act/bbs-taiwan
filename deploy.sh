@@ -3,10 +3,10 @@
 set -e
 # 打包
 yarn build
-# 移動至到打包後的dist目錄 
+# 移動至到打包後的dist目錄
 cd dist
 git init
 git add -A
 git commit -m 'deploy'
-git push -f git@github.com:wbst-act/2021.git master:gh-pages
+git push -f git@github.com:wbst-act/bbs-taiwan.git master:gh-pages
 cd -

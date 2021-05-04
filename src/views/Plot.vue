@@ -90,7 +90,7 @@ export default {
       plot_dtl: 'getPlot_dtl',
       plot_select: 'getPlotSelected'
     }),
-    ...mapState(['plottype', 'watertype']),
+    ...mapState(['plottype', 'watertype', 'static_data_path']),
     bbs_plots() {
       return Object.entries(this.bbs_taiwan_plots).map(item => ({
         id: item[0],
@@ -100,9 +100,10 @@ export default {
   },
   async mounted() {
     this.$store.dispatch('plotSetFilter', {})
-    this.bbs_taiwan_plots = await fetch('/data/bbs_plot.json').then(r =>
-      r.json()
-    )
+    console.log('static:', this.static_data_path)
+    this.bbs_taiwan_plots = await fetch(
+      this.static_data_path + 'bbs_plot.json'
+    ).then(r => r.json())
   },
   methods: {
     ...mapActions(['plotSelect', 'plot_dtlSetFilter']),
