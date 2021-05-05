@@ -1,0 +1,7586 @@
+{
+  "灰雁": {
+    "cn": "灰雁",
+    "sn": "Anser anser",
+    "en": "Graylag Goose",
+    "es": [
+      "GRGO",
+      "ANAN"
+    ]
+  },
+  "灰雁(馴化)": {
+    "cn": "灰雁(馴化)",
+    "sn": "Anser anser (Domestic type)",
+    "en": "Graylag Goose (Domestic type)",
+    "es": [
+      "GRGO",
+      "ANAN"
+    ]
+  },
+  "鴻雁": {
+    "cn": "鴻雁",
+    "sn": "Anser cygnoides",
+    "en": "Swan Goose",
+    "es": [
+      "SWGO",
+      "ANCY"
+    ]
+  },
+  "鴻雁(馴化)": {
+    "cn": "鴻雁(馴化)",
+    "sn": "Anser cygnoides (Domestic type)",
+    "en": "Swan Goose (Domestic type)",
+    "es": [
+      "SWGO",
+      "ANCY"
+    ]
+  },
+  "白額雁": {
+    "cn": "白額雁",
+    "sn": "Anser albifrons",
+    "en": "Greater White-fronted Goose",
+    "es": [
+      "GWFG",
+      "ANAL"
+    ]
+  },
+  "小白額雁": {
+    "cn": "小白額雁",
+    "sn": "Anser erythropus",
+    "en": "Lesser White-fronted Goose",
+    "es": [
+      "LWFG",
+      "ANER"
+    ]
+  },
+  "白額雁/小白額雁": {
+    "cn": "白額雁/小白額雁",
+    "sn": "Anser albifrons/erythropus",
+    "en": "Greater/Lesser White-fronted Goose",
+    "es": []
+  },
+  "寒林豆雁": {
+    "cn": "寒林豆雁",
+    "sn": "Anser fabalis",
+    "en": "Taiga Bean-Goose",
+    "es": [
+      "TABG",
+      "TBGO",
+      "ANFA"
+    ]
+  },
+  "凍原豆雁": {
+    "cn": "凍原豆雁",
+    "sn": "Anser serrirostris",
+    "en": "Tundra Bean-Goose",
+    "es": [
+      "TUBG",
+      "TBGO",
+      "ANSE"
+    ]
+  },
+  "寒林/凍原豆雁": {
+    "cn": "寒林/凍原豆雁",
+    "sn": "Anser fabalis/serrirostris",
+    "en": "Taiga/Tundra Bean-Goose",
+    "es": [
+      "TABG",
+      "TUBG",
+      "TBGO",
+      "ANSE",
+      "ANFA"
+    ]
+  },
+  "家鵝(馴化)": {
+    "cn": "家鵝(馴化)",
+    "sn": "Anser sp. (Domestic type)",
+    "en": "Domestic goose sp. (Domestic type)",
+    "es": [
+      "DGSP"
+    ]
+  },
+  "雁屬(XX雁)": {
+    "cn": "雁屬",
+    "sn": "Anser sp.",
+    "en": "Anser sp.",
+    "es": []
+  },
+  "雁類(XX雁)": {
+    "cn": "雁類",
+    "sn": "Anser/Branta sp.",
+    "en": "goose sp.",
+    "es": []
+  },
+  "黑天鵝": {
+    "cn": "黑天鵝",
+    "sn": "Cygnus atratus",
+    "en": "Black Swan",
+    "es": [
+      "BLSW",
+      "CYAT"
+    ]
+  },
+  "小天鵝": {
+    "cn": "小天鵝",
+    "sn": "Cygnus columbianus",
+    "en": "Tundra Swan",
+    "es": [
+      "TUSW",
+      "BESW",
+      "CYCO"
+    ]
+  },
+  "黃嘴天鵝": {
+    "cn": "黃嘴天鵝",
+    "sn": "Cygnus cygnus",
+    "en": "Whooper Swan",
+    "es": [
+      "WHOS",
+      "WHSW",
+      "CYCY"
+    ]
+  },
+  "小/黃嘴天鵝": {
+    "cn": "小/黃嘴天鵝",
+    "sn": "Cygnus columbianus/cygnus",
+    "en": "Tundra/Whooper Swan",
+    "es": []
+  },
+  "天鵝屬(XX天鵝)": {
+    "cn": "天鵝屬",
+    "sn": "Cygnus sp.",
+    "en": "swan sp.",
+    "es": []
+  },
+  "瀆鳧": {
+    "cn": "瀆鳧",
+    "sn": "Tadorna ferruginea",
+    "en": "Ruddy Shelduck",
+    "es": [
+      "RUSH",
+      "TAFE"
+    ]
+  },
+  "花鳧": {
+    "cn": "花鳧",
+    "sn": "Tadorna tadorna",
+    "en": "Common Shelduck",
+    "es": [
+      "COMS",
+      "COSH",
+      "TATA"
+    ]
+  },
+  "疣鼻棲鴨(薑母鴨)(馴化)": {
+    "cn": "疣鼻棲鴨(薑母鴨)(馴化)",
+    "sn": "Cairina moschata (Domestic type)",
+    "en": "Muscovy Duck (Domestic type)",
+    "es": [
+      "MUDU",
+      "CAMO"
+    ]
+  },
+  "棉鴨": {
+    "cn": "棉鴨",
+    "sn": "Nettapus coromandelianus",
+    "en": "Cotton Pygmy-Goose",
+    "es": [
+      "COPG",
+      "CPGO",
+      "NECO"
+    ]
+  },
+  "鴛鴦": {
+    "cn": "鴛鴦",
+    "sn": "Aix galericulata",
+    "en": "Mandarin Duck",
+    "es": [
+      "MADU",
+      "AIGA"
+    ]
+  },
+  "巴鴨": {
+    "cn": "巴鴨",
+    "sn": "Sibirionetta formosa",
+    "en": "Baikal Teal",
+    "es": [
+      "BATE",
+      "SIFO"
+    ]
+  },
+  "白眉鴨": {
+    "cn": "白眉鴨",
+    "sn": "Spatula querquedula",
+    "en": "Garganey",
+    "es": [
+      "GARG",
+      "SPQU"
+    ]
+  },
+  "琵嘴鴨": {
+    "cn": "琵嘴鴨",
+    "sn": "Spatula clypeata",
+    "en": "Northern Shoveler",
+    "es": [
+      "NSHO",
+      "KOMO",
+      "NOSH",
+      "SPCL"
+    ]
+  },
+  "赤膀鴨": {
+    "cn": "赤膀鴨",
+    "sn": "Mareca strepera",
+    "en": "Gadwall",
+    "es": [
+      "GADW",
+      "MAST"
+    ]
+  },
+  "羅文鴨": {
+    "cn": "羅文鴨",
+    "sn": "Mareca falcata",
+    "en": "Falcated Duck",
+    "es": [
+      "FADU",
+      "MAFA"
+    ]
+  },
+  "赤頸鴨": {
+    "cn": "赤頸鴨",
+    "sn": "Mareca penelope",
+    "en": "Eurasian Wigeon",
+    "es": [
+      "EUWI",
+      "MAPE"
+    ]
+  },
+  "葡萄胸鴨": {
+    "cn": "葡萄胸鴨",
+    "sn": "Mareca americana",
+    "en": "American Wigeon",
+    "es": [
+      "AMWI",
+      "MAAM"
+    ]
+  },
+  "花嘴鴨": {
+    "cn": "花嘴鴨",
+    "sn": "Anas zonorhyncha",
+    "en": "Eastern Spot-billed Duck",
+    "es": [
+      "ESBD",
+      "ANZO"
+    ]
+  },
+  "綠頭鴨": {
+    "cn": "綠頭鴨",
+    "sn": "Anas platyrhynchos",
+    "en": "Mallard",
+    "es": [
+      "MALL",
+      "ANPL"
+    ]
+  },
+  "綠頭鴨(馴化)": {
+    "cn": "綠頭鴨(馴化)",
+    "sn": "Anas platyrhynchos (Domestic type)",
+    "en": "Mallard (Domestic type)",
+    "es": [
+      "MALL",
+      "ANPL"
+    ]
+  },
+  "尖尾鴨": {
+    "cn": "尖尾鴨",
+    "sn": "Anas acuta",
+    "en": "Northern Pintail",
+    "es": [
+      "NOPI",
+      "KOMA",
+      "ANAC"
+    ]
+  },
+  "小水鴨": {
+    "cn": "小水鴨",
+    "sn": "Anas crecca",
+    "en": "Green-winged Teal",
+    "es": [
+      "GWTE",
+      "EUTE",
+      "EGWT",
+      "EWTE",
+      "ANCR"
+    ]
+  },
+  "白眉鴨/小水鴨": {
+    "cn": "白眉鴨/小水鴨",
+    "sn": "Spatula querquedula/Anas crecca",
+    "en": "Garganey/Green-winged Teal",
+    "es": []
+  },
+  "鴨屬(XX鴨)": {
+    "cn": "鴨屬",
+    "sn": "Anas sp.",
+    "en": "Anas sp.",
+    "es": []
+  },
+  "紅頭潛鴨": {
+    "cn": "紅頭潛鴨",
+    "sn": "Aythya ferina",
+    "en": "Common Pochard",
+    "es": [
+      "COMP",
+      "COPO",
+      "AYFE"
+    ]
+  },
+  "白眼潛鴨": {
+    "cn": "白眼潛鴨",
+    "sn": "Aythya nyroca",
+    "en": "Ferruginous Duck",
+    "es": [
+      "FEDU",
+      "AYNY"
+    ]
+  },
+  "青頭潛鴨": {
+    "cn": "青頭潛鴨",
+    "sn": "Aythya baeri",
+    "en": "Baer's Pochard",
+    "es": [
+      "BAPO",
+      "AYBA"
+    ]
+  },
+  "白眼/青頭潛鴨": {
+    "cn": "白眼/青頭潛鴨",
+    "sn": "Aythya nyroca/baeri",
+    "en": "Ferruginous Duck/Baer's Pochard",
+    "es": []
+  },
+  "鳳頭潛鴨": {
+    "cn": "鳳頭潛鴨",
+    "sn": "Aythya fuligula",
+    "en": "Tufted Duck",
+    "es": [
+      "TUDU",
+      "AYFU"
+    ]
+  },
+  "斑背潛鴨": {
+    "cn": "斑背潛鴨",
+    "sn": "Aythya marila",
+    "en": "Greater Scaup",
+    "es": [
+      "GRSC",
+      "AYMA"
+    ]
+  },
+  "潛鴨屬(XX潛鴨)": {
+    "cn": "潛鴨屬",
+    "sn": "Aythya sp.",
+    "en": "Aythya sp.",
+    "es": []
+  },
+  "白秋沙": {
+    "cn": "白秋沙",
+    "sn": "Mergellus albellus",
+    "en": "Smew",
+    "es": [
+      "SMEW",
+      "MEAL"
+    ]
+  },
+  "川秋沙": {
+    "cn": "川秋沙",
+    "sn": "Mergus merganser",
+    "en": "Common Merganser",
+    "es": [
+      "COME",
+      "GOOS",
+      "MEME"
+    ]
+  },
+  "紅胸秋沙": {
+    "cn": "紅胸秋沙",
+    "sn": "Mergus serrator",
+    "en": "Red-breasted Merganser",
+    "es": [
+      "RBME",
+      "MESE"
+    ]
+  },
+  "川秋沙/紅胸秋沙": {
+    "cn": "川秋沙/紅胸秋沙",
+    "sn": "Mergus merganser/serrator",
+    "en": "Common/Red-breasted Merganser",
+    "es": []
+  },
+  "唐秋沙": {
+    "cn": "唐秋沙",
+    "sn": "Mergus squamatus",
+    "en": "Scaly-sided Merganser",
+    "es": [
+      "SSME",
+      "MESQ"
+    ]
+  },
+  "秋沙類(XX秋沙)": {
+    "cn": "秋沙類",
+    "sn": "Mergellus/Lophodytes/Mergus sp.",
+    "en": "merganser sp.",
+    "es": []
+  },
+  "鴨類(鴨亞科)(XX鴨)": {
+    "cn": "鴨類(鴨亞科)",
+    "sn": "Anatinae sp.",
+    "en": "duck sp.",
+    "es": []
+  },
+  "雁鴨類(雁鴨科)(XX雁鴨)": {
+    "cn": "雁鴨類(雁鴨科)",
+    "sn": "Anatidae sp.",
+    "en": "waterfowl sp.",
+    "es": [
+      "UNDU"
+    ]
+  },
+  "普通珠雞(馴化)": {
+    "cn": "普通珠雞(馴化)",
+    "sn": "Numida meleagris (Domestic type)",
+    "en": "Helmeted Guineafowl (Domestic type)",
+    "es": [
+      "HEGU",
+      "NUME"
+    ]
+  },
+  "台灣山鷓鴣": {
+    "cn": "台灣山鷓鴣",
+    "sn": "Arborophila crudigularis",
+    "en": "Taiwan Partridge",
+    "es": [
+      "TAPA",
+      "ARCR"
+    ]
+  },
+  "藍孔雀": {
+    "cn": "藍孔雀",
+    "sn": "Pavo cristatus",
+    "en": "Indian Peafowl",
+    "es": [
+      "INPE",
+      "PACR"
+    ]
+  },
+  "藍孔雀(馴化)": {
+    "cn": "藍孔雀(馴化)",
+    "sn": "Pavo cristatus (Domestic type)",
+    "en": "Indian Peafowl (Domestic type)",
+    "es": []
+  },
+  "小鵪鶉": {
+    "cn": "小鵪鶉",
+    "sn": "Synoicus chinensis",
+    "en": "Blue-breasted Quail",
+    "es": [
+      "KIQU",
+      "BBQU",
+      "SYCH"
+    ]
+  },
+  "鵪鶉": {
+    "cn": "鵪鶉",
+    "sn": "Coturnix japonica",
+    "en": "Japanese Quail",
+    "es": [
+      "JAQU",
+      "COJA"
+    ]
+  },
+  "台灣竹雞": {
+    "cn": "台灣竹雞",
+    "sn": "Bambusicola sonorivox",
+    "en": "Taiwan Bamboo-Partridge",
+    "es": [
+      "TABP",
+      "TBPA",
+      "BASO"
+    ]
+  },
+  "臺灣竹雞": {
+    "cn": "台灣竹雞",
+    "sn": "Bambusicola sonorivox",
+    "en": "Taiwan Bamboo-Partridge",
+    "es": [
+      "TABP",
+      "TBPA",
+      "BASO"
+    ]
+  },
+  "黑長尾雉": {
+    "cn": "黑長尾雉",
+    "sn": "Syrmaticus mikado",
+    "en": "Mikado Pheasant",
+    "es": [
+      "MIPH",
+      "SYMI"
+    ]
+  },
+  "帝雉": {
+    "cn": "黑長尾雉",
+    "sn": "Syrmaticus mikado",
+    "en": "Mikado Pheasant",
+    "es": [
+      "MIPH",
+      "SYMI"
+    ]
+  },
+  "環頸雉": {
+    "cn": "環頸雉",
+    "sn": "Phasianus colchicus",
+    "en": "Ring-necked Pheasant",
+    "es": [
+      "RNEP",
+      "RNPH",
+      "COPH",
+      "PHCO"
+    ]
+  },
+  "藍腹鷴": {
+    "cn": "藍腹鷴",
+    "sn": "Lophura swinhoii",
+    "en": "Swinhoe's Pheasant",
+    "es": [
+      "SWPH",
+      "LOSW"
+    ]
+  },
+  "雉類(雉亞科)": {
+    "cn": "雉類(雉亞科)",
+    "sn": "Phasianinae sp.",
+    "en": "pheasant sp.",
+    "es": []
+  },
+  "火雞(馴化)": {
+    "cn": "火雞(馴化)",
+    "sn": "Meleagris gallopavo (Domestic type)",
+    "en": "Wild Turkey (Domestic type)",
+    "es": [
+      "WITU",
+      "MEGA"
+    ]
+  },
+  "大紅鸛": {
+    "cn": "大紅鸛",
+    "sn": "Phoenicopterus roseus",
+    "en": "Greater Flamingo",
+    "es": [
+      "GRFL",
+      "PHRO"
+    ]
+  },
+  "小鸊鷉": {
+    "cn": "小鸊鷉",
+    "sn": "Tachybaptus ruficollis",
+    "en": "Little Grebe",
+    "es": [
+      "LIGR",
+      "TARU"
+    ]
+  },
+  "冠鸊鷉": {
+    "cn": "冠鸊鷉",
+    "sn": "Podiceps cristatus",
+    "en": "Great Crested Grebe",
+    "es": [
+      "GCGR",
+      "POCR"
+    ]
+  },
+  "黑頸鸊鷉": {
+    "cn": "黑頸鸊鷉",
+    "sn": "Podiceps nigricollis",
+    "en": "Eared Grebe",
+    "es": [
+      "EAGR",
+      "BNGR",
+      "PONI"
+    ]
+  },
+  "鸊鷉屬(XX鸊鷉)": {
+    "cn": "鸊鷉屬",
+    "sn": "Podiceps sp.",
+    "en": "Podiceps sp.",
+    "es": []
+  },
+  "鸊鷈科(XX鸊鷉)": {
+    "cn": "鸊鷈科",
+    "sn": "Podicipedidae sp.",
+    "en": "grebe sp.",
+    "es": []
+  },
+  "野鴿(野化)": {
+    "cn": "野鴿(野化)",
+    "sn": "Columba livia (Feral Pigeon)",
+    "en": "Rock Pigeon (Feral Pigeon)",
+    "es": [
+      "ROPI",
+      "ROPI",
+      "FEPI",
+      "MANŪ",
+      "RODO",
+      "COLI"
+    ]
+  },
+  "灰林鴿": {
+    "cn": "灰林鴿",
+    "sn": "Columba pulchricollis",
+    "en": "Ashy Wood-Pigeon",
+    "es": [
+      "ASWP",
+      "AWPI",
+      "COPU"
+    ]
+  },
+  "黑林鴿": {
+    "cn": "黑林鴿",
+    "sn": "Columba janthina",
+    "en": "Japanese Wood-Pigeon",
+    "es": [
+      "JWPI",
+      "JAWP",
+      "COJA"
+    ]
+  },
+  "鴿屬(XX鴿)": {
+    "cn": "鴿屬",
+    "sn": "Columba sp.",
+    "en": "Columba sp.",
+    "es": []
+  },
+  "金背鳩": {
+    "cn": "金背鳩",
+    "sn": "Streptopelia orientalis",
+    "en": "Oriental Turtle-Dove",
+    "es": [
+      "ORTD",
+      "OTDO",
+      "RTDO",
+      "STOR"
+    ]
+  },
+  "灰斑鳩": {
+    "cn": "灰斑鳩",
+    "sn": "Streptopelia decaocto",
+    "en": "Eurasian Collared-Dove",
+    "es": [
+      "EUCD",
+      "CODO",
+      "ECDO",
+      "STDE"
+    ]
+  },
+  "紅鳩": {
+    "cn": "紅鳩",
+    "sn": "Streptopelia tranquebarica",
+    "en": "Red Collared-Dove",
+    "es": [
+      "RCDO",
+      "RECD",
+      "RTDO",
+      "STTR"
+    ]
+  },
+  "珠頸斑鳩": {
+    "cn": "珠頸斑鳩",
+    "sn": "Streptopelia chinensis",
+    "en": "Spotted Dove",
+    "es": [
+      "SPDO",
+      "STCH"
+    ]
+  },
+  "斑鳩屬(XX鳩)": {
+    "cn": "斑鳩屬",
+    "sn": "Streptopelia sp.",
+    "en": "Streptopelia sp.",
+    "es": []
+  },
+  "斑尾鵑鳩": {
+    "cn": "斑尾鵑鳩",
+    "sn": "Macropygia unchall",
+    "en": "Barred Cuckoo-Dove",
+    "es": [
+      "BACD",
+      "BCDO",
+      "MAUN"
+    ]
+  },
+  "長尾鳩": {
+    "cn": "長尾鳩",
+    "sn": "Macropygia tenuirostris",
+    "en": "Philippine Cuckoo-Dove",
+    "es": [
+      "PHCD",
+      "PCDO",
+      "MATE"
+    ]
+  },
+  "翠翼鳩": {
+    "cn": "翠翼鳩",
+    "sn": "Chalcophaps indica",
+    "en": "Asian Emerald Dove",
+    "es": [
+      "AEDO",
+      "CEDO",
+      "CHIN"
+    ]
+  },
+  "斑馬鳩": {
+    "cn": "斑馬鳩",
+    "sn": "Geopelia striata",
+    "en": "Zebra Dove",
+    "es": [
+      "ZEBD",
+      "ZEDO",
+      "GEST"
+    ]
+  },
+  "綠鳩": {
+    "cn": "綠鳩",
+    "sn": "Treron sieboldii",
+    "en": "White-bellied Green-Pigeon",
+    "es": [
+      "WBPI",
+      "WBGP",
+      "TRSI"
+    ]
+  },
+  "紅頭綠鳩": {
+    "cn": "紅頭綠鳩",
+    "sn": "Treron formosae",
+    "en": "Whistling Green-Pigeon",
+    "es": [
+      "WGPI",
+      "WHGP",
+      "TRFO"
+    ]
+  },
+  "綠鳩屬(XX綠鳩)": {
+    "cn": "綠鳩屬",
+    "sn": "Treron sp.",
+    "en": "green-pigeon sp.",
+    "es": []
+  },
+  "小綠鳩": {
+    "cn": "小綠鳩",
+    "sn": "Ptilinopus leclancheri",
+    "en": "Black-chinned Fruit-Dove",
+    "es": [
+      "BCFD",
+      "PTLE"
+    ]
+  },
+  "鳩鴿科(XX鳩鴿)": {
+    "cn": "鳩鴿科",
+    "sn": "Columbidae sp.",
+    "en": "pigeon/dove sp.",
+    "es": []
+  },
+  "褐翅鴉鵑": {
+    "cn": "褐翅鴉鵑",
+    "sn": "Centropus sinensis",
+    "en": "Greater Coucal",
+    "es": [
+      "GRCO",
+      "CESI"
+    ]
+  },
+  "番鵑": {
+    "cn": "番鵑",
+    "sn": "Centropus bengalensis",
+    "en": "Lesser Coucal",
+    "es": [
+      "LECO",
+      "CEBE"
+    ]
+  },
+  "鴉鵑屬": {
+    "cn": "鴉鵑屬",
+    "sn": "Centropus sp.",
+    "en": "coucal sp.",
+    "es": []
+  },
+  "冠郭公": {
+    "cn": "冠郭公",
+    "sn": "Clamator coromandus",
+    "en": "Chestnut-winged Cuckoo",
+    "es": [
+      "CWCU",
+      "CLCO"
+    ]
+  },
+  "斑翅鳳頭鵑": {
+    "cn": "斑翅鳳頭鵑",
+    "sn": "Clamator jacobinus",
+    "en": "Pied Cuckoo",
+    "es": [
+      "PICU",
+      "JACU",
+      "CLJA"
+    ]
+  },
+  "噪鵑": {
+    "cn": "噪鵑",
+    "sn": "Eudynamys scolopaceus",
+    "en": "Asian Koel",
+    "es": [
+      "ASKO",
+      "EUSC"
+    ]
+  },
+  "八聲杜鵑": {
+    "cn": "八聲杜鵑",
+    "sn": "Cacomantis merulinus",
+    "en": "Plaintive Cuckoo",
+    "es": [
+      "PLCU",
+      "CAME"
+    ]
+  },
+  "方尾烏鵑": {
+    "cn": "方尾烏鵑",
+    "sn": "Surniculus lugubris",
+    "en": "Square-tailed Drongo-Cuckoo",
+    "es": [
+      "STDC",
+      "SULU"
+    ]
+  },
+  "鷹鵑": {
+    "cn": "鷹鵑",
+    "sn": "Hierococcyx sparverioides",
+    "en": "Large Hawk-Cuckoo",
+    "es": [
+      "LHCU",
+      "LAHC",
+      "HISP"
+    ]
+  },
+  "北方鷹鵑": {
+    "cn": "北方鷹鵑",
+    "sn": "Hierococcyx hyperythrus",
+    "en": "Northern Hawk-Cuckoo",
+    "es": [
+      "NHCU",
+      "NOHC",
+      "RUHC",
+      "RHCU",
+      "HIHY"
+    ]
+  },
+  "棕腹鷹鵑": {
+    "cn": "棕腹鷹鵑",
+    "sn": "Hierococcyx nisicolor",
+    "en": "Hodgson's Hawk-Cuckoo",
+    "es": [
+      "HOHC",
+      "HHCU",
+      "HINI"
+    ]
+  },
+  "鷹鵑屬": {
+    "cn": "鷹鵑屬",
+    "sn": "Hierococcyx sp.",
+    "en": "hawk-cuckoo sp.",
+    "es": []
+  },
+  "小杜鵑": {
+    "cn": "小杜鵑",
+    "sn": "Cuculus poliocephalus",
+    "en": "Lesser Cuckoo",
+    "es": [
+      "LECU",
+      "CUPO"
+    ]
+  },
+  "四聲杜鵑": {
+    "cn": "四聲杜鵑",
+    "sn": "Cuculus micropterus",
+    "en": "Indian Cuckoo",
+    "es": [
+      "INCU",
+      "CUMI"
+    ]
+  },
+  "大杜鵑": {
+    "cn": "大杜鵑",
+    "sn": "Cuculus canorus",
+    "en": "Common Cuckoo",
+    "es": [
+      "COCU",
+      "CUCA"
+    ]
+  },
+  "北方中杜鵑": {
+    "cn": "北方中杜鵑",
+    "sn": "Cuculus optatus",
+    "en": "Oriental Cuckoo",
+    "es": [
+      "ORCU",
+      "CUOP"
+    ]
+  },
+  "大杜鵑/北方中杜鵑": {
+    "cn": "大杜鵑/北方中杜鵑",
+    "sn": "Cuculus canorus/optatus",
+    "en": "Common/Oriental Cuckoo",
+    "es": [
+      "ORCU",
+      "COCU",
+      "CUOP",
+      "CUCA"
+    ]
+  },
+  "杜鵑屬(XX杜鵑)": {
+    "cn": "杜鵑屬",
+    "sn": "Cuculus sp.",
+    "en": "Cuculus sp.",
+    "es": []
+  },
+  "杜鵑科": {
+    "cn": "杜鵑科",
+    "sn": "Cuculidae sp.",
+    "en": "cuckoo sp. (Cuculidae sp.)",
+    "es": []
+  },
+  "普通夜鷹": {
+    "cn": "普通夜鷹",
+    "sn": "Caprimulgus jotaka",
+    "en": "Gray Nightjar",
+    "es": [
+      "GRNI",
+      "CAJO"
+    ]
+  },
+  "南亞夜鷹": {
+    "cn": "南亞夜鷹",
+    "sn": "Caprimulgus affinis",
+    "en": "Savanna Nightjar",
+    "es": [
+      "SANI",
+      "CAAF"
+    ]
+  },
+  "夜鷹屬(XX夜鷹)": {
+    "cn": "夜鷹屬",
+    "sn": "Caprimulgus sp.",
+    "en": "Caprimulgus sp.",
+    "es": []
+  },
+  "白喉針尾雨燕": {
+    "cn": "白喉針尾雨燕",
+    "sn": "Hirundapus caudacutus",
+    "en": "White-throated Needletail",
+    "es": [
+      "WTNE",
+      "HICA"
+    ]
+  },
+  "灰喉針尾雨燕": {
+    "cn": "灰喉針尾雨燕",
+    "sn": "Hirundapus cochinchinensis",
+    "en": "Silver-backed Needletail",
+    "es": [
+      "SBNE",
+      "HICO"
+    ]
+  },
+  "針尾雨燕屬(XX針尾雨燕)": {
+    "cn": "針尾雨燕屬",
+    "sn": "Hirundapus sp.",
+    "en": "Hirundapus sp.",
+    "es": []
+  },
+  "短嘴金絲燕": {
+    "cn": "短嘴金絲燕",
+    "sn": "Aerodramus brevirostris",
+    "en": "Himalayan Swiftlet",
+    "es": [
+      "HISW",
+      "AEBR"
+    ]
+  },
+  "傑曼氏金絲燕": {
+    "cn": "傑曼氏金絲燕",
+    "sn": "Aerodramus germani",
+    "en": "Germain's Swiftlet",
+    "es": [
+      "GESW",
+      "AEGE"
+    ]
+  },
+  "叉尾雨燕": {
+    "cn": "叉尾雨燕",
+    "sn": "Apus pacificus",
+    "en": "Pacific Swift",
+    "es": [
+      "FTSW",
+      "PASW",
+      "APPA"
+    ]
+  },
+  "小雨燕": {
+    "cn": "小雨燕",
+    "sn": "Apus nipalensis",
+    "en": "House Swift",
+    "es": [
+      "HOSW",
+      "APNI"
+    ]
+  },
+  "雨燕屬(XX雨燕)": {
+    "cn": "雨燕屬",
+    "sn": "Apus sp.",
+    "en": "Apus sp.",
+    "es": []
+  },
+  "雨燕科(XX雨燕)": {
+    "cn": "雨燕科",
+    "sn": "Apodidae sp.",
+    "en": "swift sp.",
+    "es": []
+  },
+  "西方秧雞": {
+    "cn": "西方秧雞",
+    "sn": "Rallus aquaticus",
+    "en": "Water Rail",
+    "es": [
+      "WEWR",
+      "WARA",
+      "RAAQ"
+    ]
+  },
+  "東亞秧雞": {
+    "cn": "東亞秧雞",
+    "sn": "Rallus indicus",
+    "en": "Brown-cheeked Rail",
+    "es": [
+      "BCRA",
+      "RAIN"
+    ]
+  },
+  "灰胸秧雞": {
+    "cn": "灰胸秧雞",
+    "sn": "Lewinia striata",
+    "en": "Slaty-breasted Rail",
+    "es": [
+      "SBRA",
+      "LEST"
+    ]
+  },
+  "斑胸秧雞": {
+    "cn": "斑胸秧雞",
+    "sn": "Porzana porzana",
+    "en": "Spotted Crake",
+    "es": [
+      "SPCR",
+      "POPO"
+    ]
+  },
+  "紅冠水雞": {
+    "cn": "紅冠水雞",
+    "sn": "Gallinula chloropus",
+    "en": "Eurasian Moorhen",
+    "es": [
+      "COMO",
+      "EUMO",
+      "GACH"
+    ]
+  },
+  "白冠雞": {
+    "cn": "白冠雞",
+    "sn": "Fulica atra",
+    "en": "Eurasian Coot",
+    "es": [
+      "EUCO",
+      "FUAT"
+    ]
+  },
+  "灰頭紫水雞": {
+    "cn": "灰頭紫水雞",
+    "sn": "Porphyrio poliocephalus",
+    "en": "Gray-headed Swamphen",
+    "es": [
+      "GHSW",
+      "POPO"
+    ]
+  },
+  "董雞": {
+    "cn": "董雞",
+    "sn": "Gallicrex cinerea",
+    "en": "Watercock",
+    "es": [
+      "WATE",
+      "GACI"
+    ]
+  },
+  "白腹秧雞": {
+    "cn": "白腹秧雞",
+    "sn": "Amaurornis phoenicurus",
+    "en": "White-breasted Waterhen",
+    "es": [
+      "WBWA",
+      "AMPH"
+    ]
+  },
+  "白眉秧雞": {
+    "cn": "白眉秧雞",
+    "sn": "Amaurornis cinerea",
+    "en": "White-browed Crake",
+    "es": [
+      "WBCR",
+      "AMCI"
+    ]
+  },
+  "紅腳秧雞": {
+    "cn": "紅腳秧雞",
+    "sn": "Rallina fasciata",
+    "en": "Red-legged Crake",
+    "es": [
+      "RLCR",
+      "RAFA"
+    ]
+  },
+  "灰腳秧雞": {
+    "cn": "灰腳秧雞",
+    "sn": "Rallina eurizonoides",
+    "en": "Slaty-legged Crake",
+    "es": [
+      "SLCR",
+      "RAEU"
+    ]
+  },
+  "秧雞屬": {
+    "cn": "秧雞屬",
+    "sn": "Rallina sp.",
+    "en": "Rallina sp.",
+    "es": []
+  },
+  "緋秧雞": {
+    "cn": "緋秧雞",
+    "sn": "Zapornia fusca",
+    "en": "Ruddy-breasted Crake",
+    "es": [
+      "RBCR",
+      "ZAFU"
+    ]
+  },
+  "紅腳苦惡鳥": {
+    "cn": "紅腳苦惡鳥",
+    "sn": "Zapornia akool",
+    "en": "Brown Crake",
+    "es": [
+      "BRCR",
+      "ZAAK"
+    ]
+  },
+  "小秧雞": {
+    "cn": "小秧雞",
+    "sn": "Zapornia pusilla",
+    "en": "Baillon's Crake",
+    "es": [
+      "BACR",
+      "MACR",
+      "ZAPU"
+    ]
+  },
+  "秧雞科(XX秧雞)": {
+    "cn": "秧雞科",
+    "sn": "Rallidae sp. (rail/crake sp.)",
+    "en": "rail/crake sp.",
+    "es": []
+  },
+  "簑羽鶴": {
+    "cn": "簑羽鶴",
+    "sn": "Anthropoides virgo",
+    "en": "Demoiselle Crane",
+    "es": [
+      "DECR",
+      "ANVI"
+    ]
+  },
+  "白鶴": {
+    "cn": "白鶴",
+    "sn": "Leucogeranus leucogeranus",
+    "en": "Siberian Crane",
+    "es": [
+      "SICR",
+      "LELE"
+    ]
+  },
+  "沙丘鶴": {
+    "cn": "沙丘鶴",
+    "sn": "Antigone canadensis",
+    "en": "Sandhill Crane",
+    "es": [
+      "SACR",
+      "ANCA"
+    ]
+  },
+  "白枕鶴": {
+    "cn": "白枕鶴",
+    "sn": "Antigone vipio",
+    "en": "White-naped Crane",
+    "es": [
+      "WNCR",
+      "ANVI"
+    ]
+  },
+  "灰鶴": {
+    "cn": "灰鶴",
+    "sn": "Grus grus",
+    "en": "Common Crane",
+    "es": [
+      "CCRA",
+      "COCR",
+      "GRGR"
+    ]
+  },
+  "白頭鶴": {
+    "cn": "白頭鶴",
+    "sn": "Grus monacha",
+    "en": "Hooded Crane",
+    "es": [
+      "HOCR",
+      "GRMO"
+    ]
+  },
+  "丹頂鶴": {
+    "cn": "丹頂鶴",
+    "sn": "Grus japonensis",
+    "en": "Red-crowned Crane",
+    "es": [
+      "RCCR",
+      "GRJA"
+    ]
+  },
+  "鶴科(XX鶴)": {
+    "cn": "鶴科",
+    "sn": "Gruidae sp.",
+    "en": "crane sp.",
+    "es": []
+  },
+  "高蹺鴴": {
+    "cn": "高蹺鴴",
+    "sn": "Himantopus himantopus",
+    "en": "Black-winged Stilt",
+    "es": [
+      "BWST",
+      "EBWS",
+      "HIHI"
+    ]
+  },
+  "反嘴鴴": {
+    "cn": "反嘴鴴",
+    "sn": "Recurvirostra avosetta",
+    "en": "Pied Avocet",
+    "es": [
+      "PIAV",
+      "REAV"
+    ]
+  },
+  "蠣鴴": {
+    "cn": "蠣鴴",
+    "sn": "Haematopus ostralegus",
+    "en": "Eurasian Oystercatcher",
+    "es": [
+      "EUOY",
+      "HAOS"
+    ]
+  },
+  "灰斑鴴": {
+    "cn": "灰斑鴴",
+    "sn": "Pluvialis squatarola",
+    "en": "Black-bellied Plover",
+    "es": [
+      "BBPL",
+      "GRPL",
+      "PLSQ"
+    ]
+  },
+  "美洲金斑鴴": {
+    "cn": "美洲金斑鴴",
+    "sn": "Pluvialis dominica",
+    "en": "American Golden-Plover",
+    "es": [
+      "AMGP",
+      "AGPL",
+      "PLDO"
+    ]
+  },
+  "太平洋金斑鴴": {
+    "cn": "太平洋金斑鴴",
+    "sn": "Pluvialis fulva",
+    "en": "Pacific Golden-Plover",
+    "es": [
+      "PAGP",
+      "KŌLE",
+      "PGPL",
+      "PLFU"
+    ]
+  },
+  "小辮鴴": {
+    "cn": "小辮鴴",
+    "sn": "Vanellus vanellus",
+    "en": "Northern Lapwing",
+    "es": [
+      "NOLA",
+      "VAVA"
+    ]
+  },
+  "跳鴴": {
+    "cn": "跳鴴",
+    "sn": "Vanellus cinereus",
+    "en": "Gray-headed Lapwing",
+    "es": [
+      "GHLA",
+      "VACI"
+    ]
+  },
+  "蒙古鴴": {
+    "cn": "蒙古鴴",
+    "sn": "Charadrius mongolus",
+    "en": "Lesser Sand-Plover",
+    "es": [
+      "LSAP",
+      "LSPL",
+      "LESD",
+      "LSDO",
+      "LESP",
+      "CHMO"
+    ]
+  },
+  "鐵嘴鴴": {
+    "cn": "鐵嘴鴴",
+    "sn": "Charadrius leschenaultii",
+    "en": "Greater Sand-Plover",
+    "es": [
+      "GSAP",
+      "GSPL",
+      "GRSP",
+      "GRSD",
+      "GSDO",
+      "CHLE"
+    ]
+  },
+  "蒙古/鐵嘴鴴": {
+    "cn": "蒙古/鐵嘴鴴",
+    "sn": "Charadrius mongolus/leschenaultii",
+    "en": "Lesser/Greater Sand-Plover",
+    "es": [
+      "LSPL",
+      "LSDO",
+      "LESP",
+      "LSAP",
+      "GSDO",
+      "GRSP",
+      "GSPL",
+      "LESD",
+      "GSAP",
+      "GRSD",
+      "CHMO",
+      "CHLE"
+    ]
+  },
+  "東方環頸鴴": {
+    "cn": "東方環頸鴴",
+    "sn": "Charadrius alexandrinus",
+    "en": "Kentish Plover",
+    "es": [
+      "KEPL",
+      "CHAL"
+    ]
+  },
+  "環頸鴴": {
+    "cn": "環頸鴴",
+    "sn": "Charadrius hiaticula",
+    "en": "Common Ringed Plover",
+    "es": [
+      "CRPL",
+      "RIPL",
+      "CHHI"
+    ]
+  },
+  "劍鴴": {
+    "cn": "劍鴴",
+    "sn": "Charadrius placidus",
+    "en": "Long-billed Plover",
+    "es": [
+      "LBPL",
+      "CHPL"
+    ]
+  },
+  "小環頸鴴": {
+    "cn": "小環頸鴴",
+    "sn": "Charadrius dubius",
+    "en": "Little Ringed Plover",
+    "es": [
+      "LRPL",
+      "CHDU"
+    ]
+  },
+  "東方紅胸鴴": {
+    "cn": "東方紅胸鴴",
+    "sn": "Charadrius veredus",
+    "en": "Oriental Plover",
+    "es": [
+      "ORPL",
+      "CHVE"
+    ]
+  },
+  "鴴科(XX鴴)": {
+    "cn": "鴴科",
+    "sn": "Charadriidae sp.",
+    "en": "plover sp.",
+    "es": []
+  },
+  "彩鷸": {
+    "cn": "彩鷸",
+    "sn": "Rostratula benghalensis",
+    "en": "Greater Painted-Snipe",
+    "es": [
+      "GPSN",
+      "GRPS",
+      "ROBE"
+    ]
+  },
+  "水雉": {
+    "cn": "水雉",
+    "sn": "Hydrophasianus chirurgus",
+    "en": "Pheasant-tailed Jacana",
+    "es": [
+      "PTJA",
+      "HYCH"
+    ]
+  },
+  "中杓鷸": {
+    "cn": "中杓鷸",
+    "sn": "Numenius phaeopus",
+    "en": "Whimbrel",
+    "es": [
+      "WHIM",
+      "NUPH"
+    ]
+  },
+  "小杓鷸": {
+    "cn": "小杓鷸",
+    "sn": "Numenius minutus",
+    "en": "Little Curlew",
+    "es": [
+      "LICU",
+      "LIWH",
+      "NUMI"
+    ]
+  },
+  "黦鷸": {
+    "cn": "黦鷸",
+    "sn": "Numenius madagascariensis",
+    "en": "Far Eastern Curlew",
+    "es": [
+      "FECU",
+      "EACU",
+      "NUMA"
+    ]
+  },
+  "大杓鷸": {
+    "cn": "大杓鷸",
+    "sn": "Numenius arquata",
+    "en": "Eurasian Curlew",
+    "es": [
+      "EUCU",
+      "NUAR"
+    ]
+  },
+  "中/大杓鷸": {
+    "cn": "中/大杓鷸",
+    "sn": "Numenius phaeopus/arquata",
+    "en": "Whimbrel/Eurasian Curlew",
+    "es": []
+  },
+  "黦鷸/大杓鷸": {
+    "cn": "黦鷸/大杓鷸",
+    "sn": "Numenius madagascariensis/arquata",
+    "en": "Far Eastern/Eurasian Curlew",
+    "es": []
+  },
+  "杓鷸屬(XX杓鷸)": {
+    "cn": "杓鷸屬",
+    "sn": "Numenius sp.",
+    "en": "curlew sp.",
+    "es": []
+  },
+  "斑尾鷸": {
+    "cn": "斑尾鷸",
+    "sn": "Limosa lapponica",
+    "en": "Bar-tailed Godwit",
+    "es": [
+      "BTGO",
+      "LILA"
+    ]
+  },
+  "黑尾鷸": {
+    "cn": "黑尾鷸",
+    "sn": "Limosa limosa",
+    "en": "Black-tailed Godwit",
+    "es": [
+      "BTGD",
+      "BTGO",
+      "LILI"
+    ]
+  },
+  "塍鷸屬": {
+    "cn": "塍鷸屬",
+    "sn": "Limosa sp.",
+    "en": "godwit sp.",
+    "es": []
+  },
+  "翻石鷸": {
+    "cn": "翻石鷸",
+    "sn": "Arenaria interpres",
+    "en": "Ruddy Turnstone",
+    "es": [
+      "RUTU",
+      "ARIN"
+    ]
+  },
+  "大濱鷸": {
+    "cn": "大濱鷸",
+    "sn": "Calidris tenuirostris",
+    "en": "Great Knot",
+    "es": [
+      "GRKN",
+      "CATE"
+    ]
+  },
+  "紅腹濱鷸": {
+    "cn": "紅腹濱鷸",
+    "sn": "Calidris canutus",
+    "en": "Red Knot",
+    "es": [
+      "REKN",
+      "CACA"
+    ]
+  },
+  "流蘇鷸": {
+    "cn": "流蘇鷸",
+    "sn": "Calidris pugnax",
+    "en": "Ruff",
+    "es": [
+      "RUFF",
+      "CAPU"
+    ]
+  },
+  "寬嘴鷸": {
+    "cn": "寬嘴鷸",
+    "sn": "Calidris falcinellus",
+    "en": "Broad-billed Sandpiper",
+    "es": [
+      "BBIS",
+      "BBSA",
+      "CAFA"
+    ]
+  },
+  "尖尾濱鷸": {
+    "cn": "尖尾濱鷸",
+    "sn": "Calidris acuminata",
+    "en": "Sharp-tailed Sandpiper",
+    "es": [
+      "SPTS",
+      "STSA",
+      "CAAC"
+    ]
+  },
+  "高蹺濱鷸": {
+    "cn": "高蹺濱鷸",
+    "sn": "Calidris himantopus",
+    "en": "Stilt Sandpiper",
+    "es": [
+      "STSA",
+      "CAHI"
+    ]
+  },
+  "彎嘴濱鷸": {
+    "cn": "彎嘴濱鷸",
+    "sn": "Calidris ferruginea",
+    "en": "Curlew Sandpiper",
+    "es": [
+      "CUSA",
+      "CAFE"
+    ]
+  },
+  "丹氏濱鷸": {
+    "cn": "丹氏濱鷸",
+    "sn": "Calidris temminckii",
+    "en": "Temminck's Stint",
+    "es": [
+      "TEST",
+      "CATE"
+    ]
+  },
+  "長趾濱鷸": {
+    "cn": "長趾濱鷸",
+    "sn": "Calidris subminuta",
+    "en": "Long-toed Stint",
+    "es": [
+      "LTST",
+      "CASU"
+    ]
+  },
+  "琵嘴鷸": {
+    "cn": "琵嘴鷸",
+    "sn": "Calidris pygmaea",
+    "en": "Spoon-billed Sandpiper",
+    "es": [
+      "SBSA",
+      "CAPY"
+    ]
+  },
+  "紅胸濱鷸": {
+    "cn": "紅胸濱鷸",
+    "sn": "Calidris ruficollis",
+    "en": "Red-necked Stint",
+    "es": [
+      "RNST",
+      "CARU"
+    ]
+  },
+  "三趾濱鷸": {
+    "cn": "三趾濱鷸",
+    "sn": "Calidris alba",
+    "en": "Sanderling",
+    "es": [
+      "SAND",
+      "HUNA",
+      "CAAL"
+    ]
+  },
+  "黑腹濱鷸": {
+    "cn": "黑腹濱鷸",
+    "sn": "Calidris alpina",
+    "en": "Dunlin",
+    "es": [
+      "DUNL",
+      "CAAL"
+    ]
+  },
+  "彎嘴/黑腹濱鷸": {
+    "cn": "彎嘴/黑腹濱鷸",
+    "sn": "Calidris ferruginea/alpina",
+    "en": "Curlew Sandpiper/Dunlin",
+    "es": []
+  },
+  "小濱鷸": {
+    "cn": "小濱鷸",
+    "sn": "Calidris minuta",
+    "en": "Little Stint",
+    "es": [
+      "LIST",
+      "CAMI"
+    ]
+  },
+  "紅胸/小濱鷸": {
+    "cn": "紅胸/小濱鷸",
+    "sn": "Calidris ruficollis/minuta",
+    "en": "Red-necked/Little Stint",
+    "es": []
+  },
+  "黃胸鷸": {
+    "cn": "黃胸鷸",
+    "sn": "Calidris subruficollis",
+    "en": "Buff-breasted Sandpiper",
+    "es": [
+      "BBSA",
+      "CASU"
+    ]
+  },
+  "美洲尖尾濱鷸": {
+    "cn": "美洲尖尾濱鷸",
+    "sn": "Calidris melanotos",
+    "en": "Pectoral Sandpiper",
+    "es": [
+      "PESA",
+      "CAME"
+    ]
+  },
+  "濱鷸屬(XX濱鷸)": {
+    "cn": "濱鷸屬",
+    "sn": "Calidris sp.",
+    "en": "Calidris sp.",
+    "es": []
+  },
+  "半蹼鷸": {
+    "cn": "半蹼鷸",
+    "sn": "Limnodromus semipalmatus",
+    "en": "Asian Dowitcher",
+    "es": [
+      "ASDO",
+      "LISE"
+    ]
+  },
+  "長嘴半蹼鷸": {
+    "cn": "長嘴半蹼鷸",
+    "sn": "Limnodromus scolopaceus",
+    "en": "Long-billed Dowitcher",
+    "es": [
+      "LBDO",
+      "LISC"
+    ]
+  },
+  "小鷸": {
+    "cn": "小鷸",
+    "sn": "Lymnocryptes minimus",
+    "en": "Jack Snipe",
+    "es": [
+      "JASN",
+      "LYMI"
+    ]
+  },
+  "山鷸": {
+    "cn": "山鷸",
+    "sn": "Scolopax rusticola",
+    "en": "Eurasian Woodcock",
+    "es": [
+      "EUWO",
+      "SCRU"
+    ]
+  },
+  "孤田鷸": {
+    "cn": "孤田鷸",
+    "sn": "Gallinago solitaria",
+    "en": "Solitary Snipe",
+    "es": [
+      "SOSN",
+      "GASO"
+    ]
+  },
+  "大地鷸": {
+    "cn": "大地鷸",
+    "sn": "Gallinago hardwickii",
+    "en": "Latham's Snipe",
+    "es": [
+      "LASN",
+      "GAHA"
+    ]
+  },
+  "田鷸": {
+    "cn": "田鷸",
+    "sn": "Gallinago gallinago",
+    "en": "Common Snipe",
+    "es": [
+      "COSN",
+      "GAGA"
+    ]
+  },
+  "針尾鷸": {
+    "cn": "針尾鷸",
+    "sn": "Gallinago stenura",
+    "en": "Pin-tailed Snipe",
+    "es": [
+      "PTSN",
+      "PISN",
+      "GAST"
+    ]
+  },
+  "田/針尾鷸": {
+    "cn": "田/針尾鷸",
+    "sn": "Gallinago gallinago/stenura",
+    "en": "Common/Pin-tailed Snipe",
+    "es": []
+  },
+  "中地鷸": {
+    "cn": "中地鷸",
+    "sn": "Gallinago megala",
+    "en": "Swinhoe's Snipe",
+    "es": [
+      "SWSN",
+      "GAME"
+    ]
+  },
+  "針尾鷸/中地鷸": {
+    "cn": "針尾鷸/中地鷸",
+    "sn": "Gallinago stenura/megala",
+    "en": "Pin-tailed/Swinhoe's Snipe",
+    "es": []
+  },
+  "田鷸屬(XX田鷸)": {
+    "cn": "田鷸屬",
+    "sn": "Gallinago sp.",
+    "en": "snipe sp.",
+    "es": []
+  },
+  "反嘴鷸": {
+    "cn": "反嘴鷸",
+    "sn": "Xenus cinereus",
+    "en": "Terek Sandpiper",
+    "es": [
+      "TESA",
+      "XECI"
+    ]
+  },
+  "紅領瓣足鷸": {
+    "cn": "紅領瓣足鷸",
+    "sn": "Phalaropus lobatus",
+    "en": "Red-necked Phalarope",
+    "es": [
+      "RNPH",
+      "PHLO"
+    ]
+  },
+  "灰瓣足鷸": {
+    "cn": "灰瓣足鷸",
+    "sn": "Phalaropus fulicarius",
+    "en": "Red Phalarope",
+    "es": [
+      "REPH",
+      "GRPH",
+      "PHFU"
+    ]
+  },
+  "紅領/灰瓣足鷸": {
+    "cn": "紅領/灰瓣足鷸",
+    "sn": "Phalaropus lobatus/fulicarius",
+    "en": "Red-necked/Red Phalarope",
+    "es": []
+  },
+  "瓣足鷸屬(XX瓣足鷸)": {
+    "cn": "瓣足鷸屬",
+    "sn": "Phalaropus sp.",
+    "en": "phalarope sp.",
+    "es": []
+  },
+  "磯鷸": {
+    "cn": "磯鷸",
+    "sn": "Actitis hypoleucos",
+    "en": "Common Sandpiper",
+    "es": [
+      "COSA",
+      "ACHY"
+    ]
+  },
+  "白腰草鷸": {
+    "cn": "白腰草鷸",
+    "sn": "Tringa ochropus",
+    "en": "Green Sandpiper",
+    "es": [
+      "GRSA",
+      "TROC"
+    ]
+  },
+  "黃足鷸": {
+    "cn": "黃足鷸",
+    "sn": "Tringa brevipes",
+    "en": "Gray-tailed Tattler",
+    "es": [
+      "GTTA",
+      "TRBR"
+    ]
+  },
+  "美洲黃足鷸": {
+    "cn": "美洲黃足鷸",
+    "sn": "Tringa incana",
+    "en": "Wandering Tattler",
+    "es": [
+      "WATA",
+      "TRIN"
+    ]
+  },
+  "鶴鷸": {
+    "cn": "鶴鷸",
+    "sn": "Tringa erythropus",
+    "en": "Spotted Redshank",
+    "es": [
+      "SPRE",
+      "TRER"
+    ]
+  },
+  "青足鷸": {
+    "cn": "青足鷸",
+    "sn": "Tringa nebularia",
+    "en": "Common Greenshank",
+    "es": [
+      "COMG",
+      "COGR",
+      "TRNE"
+    ]
+  },
+  "諾氏鷸": {
+    "cn": "諾氏鷸",
+    "sn": "Tringa guttifer",
+    "en": "Nordmann's Greenshank",
+    "es": [
+      "NOGR",
+      "TRGU"
+    ]
+  },
+  "青足鷸/諾氏鷸": {
+    "cn": "青足鷸/諾氏鷸",
+    "sn": "Tringa nebularia/guttifer",
+    "en": "Common/Nordmann's Greenshank",
+    "es": []
+  },
+  "小青足鷸": {
+    "cn": "小青足鷸",
+    "sn": "Tringa stagnatilis",
+    "en": "Marsh Sandpiper",
+    "es": [
+      "MASA",
+      "TRST"
+    ]
+  },
+  "鷹斑鷸": {
+    "cn": "鷹斑鷸",
+    "sn": "Tringa glareola",
+    "en": "Wood Sandpiper",
+    "es": [
+      "WOSA",
+      "TRGL"
+    ]
+  },
+  "赤足鷸": {
+    "cn": "赤足鷸",
+    "sn": "Tringa totanus",
+    "en": "Common Redshank",
+    "es": [
+      "CREH",
+      "CORE",
+      "TRTO"
+    ]
+  },
+  "鷸屬(XX鷸)": {
+    "cn": "鷸屬",
+    "sn": "Tringa sp.",
+    "en": "Tringa sp.",
+    "es": []
+  },
+  "鷸科(XX鷸)": {
+    "cn": "鷸科",
+    "sn": "Scolopacidae sp.",
+    "en": "Scolopacidae sp.",
+    "es": []
+  },
+  "林三趾鶉": {
+    "cn": "林三趾鶉",
+    "sn": "Turnix sylvaticus",
+    "en": "Small Buttonquail",
+    "es": [
+      "COBU",
+      "SMBU",
+      "TUSY"
+    ]
+  },
+  "黃腳三趾鶉": {
+    "cn": "黃腳三趾鶉",
+    "sn": "Turnix tanki",
+    "en": "Yellow-legged Buttonquail",
+    "es": [
+      "YLBU",
+      "TUTA"
+    ]
+  },
+  "棕三趾鶉": {
+    "cn": "棕三趾鶉",
+    "sn": "Turnix suscitator",
+    "en": "Barred Buttonquail",
+    "es": [
+      "BABU",
+      "TUSU"
+    ]
+  },
+  "三趾鶉屬(XX三趾鶉)": {
+    "cn": "三趾鶉屬",
+    "sn": "Turnix sp.",
+    "en": "buttonquail sp.",
+    "es": []
+  },
+  "燕鴴": {
+    "cn": "燕鴴",
+    "sn": "Glareola maldivarum",
+    "en": "Oriental Pratincole",
+    "es": [
+      "ORPR",
+      "GLMA"
+    ]
+  },
+  "鴴形目(XX鷸鴴)": {
+    "cn": "鴴形目",
+    "sn": "Charadriiformes sp.",
+    "en": "shorebird sp.",
+    "es": []
+  },
+  "中賊鷗": {
+    "cn": "中賊鷗",
+    "sn": "Stercorarius pomarinus",
+    "en": "Pomarine Jaeger",
+    "es": [
+      "POJA",
+      "POSK",
+      "STPO"
+    ]
+  },
+  "短尾賊鷗": {
+    "cn": "短尾賊鷗",
+    "sn": "Stercorarius parasiticus",
+    "en": "Parasitic Jaeger",
+    "es": [
+      "PAJA",
+      "ARJA",
+      "ARSK",
+      "STPA"
+    ]
+  },
+  "長尾賊鷗": {
+    "cn": "長尾賊鷗",
+    "sn": "Stercorarius longicaudus",
+    "en": "Long-tailed Jaeger",
+    "es": [
+      "LTJA",
+      "LTSK",
+      "STLO"
+    ]
+  },
+  "賊鷗類(XX賊鷗)": {
+    "cn": "賊鷗類",
+    "sn": "Stercorarius sp.",
+    "en": "jaeger/skua sp.",
+    "es": []
+  },
+  "小型海雀類": {
+    "cn": "小型海雀類",
+    "sn": "Brachyramphus/Synthliboramphus sp.",
+    "en": "murrelet sp.",
+    "es": []
+  },
+  "三趾鷗": {
+    "cn": "三趾鷗",
+    "sn": "Rissa tridactyla",
+    "en": "Black-legged Kittiwake",
+    "es": [
+      "BLKI",
+      "RITR"
+    ]
+  },
+  "黑嘴鷗": {
+    "cn": "黑嘴鷗",
+    "sn": "Saundersilarus saundersi",
+    "en": "Saunders's Gull",
+    "es": [
+      "SAGU",
+      "SASA"
+    ]
+  },
+  "細嘴鷗": {
+    "cn": "細嘴鷗",
+    "sn": "Chroicocephalus genei",
+    "en": "Slender-billed Gull",
+    "es": [
+      "SBGU",
+      "CHGE"
+    ]
+  },
+  "紅嘴鷗": {
+    "cn": "紅嘴鷗",
+    "sn": "Chroicocephalus ridibundus",
+    "en": "Black-headed Gull",
+    "es": [
+      "BHGU",
+      "CBHG",
+      "CHRI"
+    ]
+  },
+  "棕頭鷗": {
+    "cn": "棕頭鷗",
+    "sn": "Chroicocephalus brunnicephalus",
+    "en": "Brown-headed Gull",
+    "es": [
+      "BHGU",
+      "CHBR"
+    ]
+  },
+  "遺鷗": {
+    "cn": "遺鷗",
+    "sn": "Ichthyaetus relictus",
+    "en": "Relict Gull",
+    "es": [
+      "REGU",
+      "ICRE"
+    ]
+  },
+  "漁鷗": {
+    "cn": "漁鷗",
+    "sn": "Ichthyaetus ichthyaetus",
+    "en": "Pallas's Gull",
+    "es": [
+      "PAGU",
+      "GBHG",
+      "ICIC"
+    ]
+  },
+  "黑尾鷗": {
+    "cn": "黑尾鷗",
+    "sn": "Larus crassirostris",
+    "en": "Black-tailed Gull",
+    "es": [
+      "BTGU",
+      "LACR"
+    ]
+  },
+  "海鷗": {
+    "cn": "海鷗",
+    "sn": "Larus canus",
+    "en": "Mew Gull",
+    "es": [
+      "MEGU",
+      "COGU",
+      "LACA"
+    ]
+  },
+  "銀鷗": {
+    "cn": "銀鷗",
+    "sn": "Larus argentatus",
+    "en": "Herring Gull",
+    "es": [
+      "HERG",
+      "AHHG",
+      "HEGU",
+      "LAAR"
+    ]
+  },
+  "小黑背鷗": {
+    "cn": "小黑背鷗",
+    "sn": "Larus fuscus",
+    "en": "Lesser Black-backed Gull",
+    "es": [
+      "LBBG",
+      "LAFU"
+    ]
+  },
+  "銀鷗/小黑背鷗": {
+    "cn": "銀鷗/小黑背鷗",
+    "sn": "Larus argentatus/fuscus",
+    "en": "Herring/Lesser Black-backed Gull",
+    "es": []
+  },
+  "灰背鷗": {
+    "cn": "灰背鷗",
+    "sn": "Larus schistisagus",
+    "en": "Slaty-backed Gull",
+    "es": [
+      "SBGU",
+      "LASC"
+    ]
+  },
+  "大鷗(白翅)": {
+    "cn": "大鷗(白翅)",
+    "sn": "Larus sp. (white-winged gull sp.)",
+    "en": "white-winged gull sp.",
+    "es": []
+  },
+  "大鷗類": {
+    "cn": "大鷗類",
+    "sn": "Larus sp.",
+    "en": "Larus sp.",
+    "es": [
+      "UNLG"
+    ]
+  },
+  "鷗屬(XX鷗)": {
+    "cn": "鷗屬",
+    "sn": "Larinae sp.",
+    "en": "gull sp.",
+    "es": []
+  },
+  "玄燕鷗": {
+    "cn": "玄燕鷗",
+    "sn": "Anous stolidus",
+    "en": "Brown Noddy",
+    "es": [
+      "BRNO",
+      "NOKŌ",
+      "CONO",
+      "ANST"
+    ]
+  },
+  "黑玄燕鷗": {
+    "cn": "黑玄燕鷗",
+    "sn": "Anous minutus",
+    "en": "Black Noddy",
+    "es": [
+      "BLNO",
+      "NOIO",
+      "ANMI"
+    ]
+  },
+  "烏領燕鷗": {
+    "cn": "烏領燕鷗",
+    "sn": "Onychoprion fuscatus",
+    "en": "Sooty Tern",
+    "es": [
+      "SOTE",
+      "ONFU"
+    ]
+  },
+  "白眉燕鷗": {
+    "cn": "白眉燕鷗",
+    "sn": "Onychoprion anaethetus",
+    "en": "Bridled Tern",
+    "es": [
+      "BRTE",
+      "ONAN"
+    ]
+  },
+  "白腰燕鷗": {
+    "cn": "白腰燕鷗",
+    "sn": "Onychoprion aleuticus",
+    "en": "Aleutian Tern",
+    "es": [
+      "ALTE",
+      "ONAL"
+    ]
+  },
+  "小燕鷗": {
+    "cn": "小燕鷗",
+    "sn": "Sternula albifrons",
+    "en": "Little Tern",
+    "es": [
+      "LITE",
+      "STAL"
+    ]
+  },
+  "鷗嘴燕鷗": {
+    "cn": "鷗嘴燕鷗",
+    "sn": "Gelochelidon nilotica",
+    "en": "Gull-billed Tern",
+    "es": [
+      "GBTE",
+      "GENI"
+    ]
+  },
+  "裏海燕鷗": {
+    "cn": "裏海燕鷗",
+    "sn": "Hydroprogne caspia",
+    "en": "Caspian Tern",
+    "es": [
+      "CATE",
+      "HYCA"
+    ]
+  },
+  "黑浮鷗": {
+    "cn": "黑浮鷗",
+    "sn": "Chlidonias niger",
+    "en": "Black Tern",
+    "es": [
+      "BLTE",
+      "CHNI"
+    ]
+  },
+  "白翅黑燕鷗": {
+    "cn": "白翅黑燕鷗",
+    "sn": "Chlidonias leucopterus",
+    "en": "White-winged Tern",
+    "es": [
+      "WWTE",
+      "WWBT",
+      "CHLE"
+    ]
+  },
+  "黑腹燕鷗": {
+    "cn": "黑腹燕鷗",
+    "sn": "Chlidonias hybrida",
+    "en": "Whiskered Tern",
+    "es": [
+      "WHST",
+      "WHTE",
+      "CHHY"
+    ]
+  },
+  "浮鷗屬(XX浮鷗)": {
+    "cn": "浮鷗屬",
+    "sn": "Chlidonias sp.",
+    "en": "Chlidonias sp.",
+    "es": []
+  },
+  "紅燕鷗": {
+    "cn": "紅燕鷗",
+    "sn": "Sterna dougallii",
+    "en": "Roseate Tern",
+    "es": [
+      "ROST",
+      "ROTE",
+      "STDO"
+    ]
+  },
+  "蒼燕鷗": {
+    "cn": "蒼燕鷗",
+    "sn": "Sterna sumatrana",
+    "en": "Black-naped Tern",
+    "es": [
+      "BNTE",
+      "STSU"
+    ]
+  },
+  "燕鷗": {
+    "cn": "燕鷗",
+    "sn": "Sterna hirundo",
+    "en": "Common Tern",
+    "es": [
+      "COTE",
+      "STHI"
+    ]
+  },
+  "燕鷗屬(XX燕鷗)": {
+    "cn": "燕鷗屬",
+    "sn": "Sterna sp.",
+    "en": "Sterna sp.",
+    "es": []
+  },
+  "鳳頭燕鷗": {
+    "cn": "鳳頭燕鷗",
+    "sn": "Thalasseus bergii",
+    "en": "Great Crested Tern",
+    "es": [
+      "GCTE",
+      "SWTE",
+      "CRTE",
+      "THBE"
+    ]
+  },
+  "小鳳頭燕鷗": {
+    "cn": "小鳳頭燕鷗",
+    "sn": "Thalasseus bengalensis",
+    "en": "Lesser Crested Tern",
+    "es": [
+      "LCTE",
+      "THBE"
+    ]
+  },
+  "黑嘴端鳳頭燕鷗": {
+    "cn": "黑嘴端鳳頭燕鷗",
+    "sn": "Thalasseus bernsteini",
+    "en": "Chinese Crested Tern",
+    "es": [
+      "CCTE",
+      "THBE"
+    ]
+  },
+  "鳳頭燕鷗屬(XX鳳頭燕鷗)": {
+    "cn": "鳳頭燕鷗屬",
+    "sn": "Thalasseus sp.",
+    "en": "Thalasseus sp.",
+    "es": []
+  },
+  "大型燕鷗類": {
+    "cn": "大型燕鷗類",
+    "sn": "Hydroprogne/Thalasseus sp.",
+    "en": "large tern sp.",
+    "es": []
+  },
+  "燕鷗亞科": {
+    "cn": "燕鷗亞科",
+    "sn": "Sterninae sp.",
+    "en": "tern sp.",
+    "es": []
+  },
+  "鷗或燕鷗類(鷗科)": {
+    "cn": "鷗或燕鷗類(鷗科)",
+    "sn": "Laridae sp.",
+    "en": "gull/tern sp.",
+    "es": []
+  },
+  "黑叉尾海燕": {
+    "cn": "黑叉尾海燕",
+    "sn": "Oceanodroma monorhis",
+    "en": "Swinhoe's Storm-Petrel",
+    "es": [
+      "SSTP",
+      "SWSP",
+      "SSPE",
+      "OCMO"
+    ]
+  },
+  "穴鳥": {
+    "cn": "穴鳥",
+    "sn": "Bulweria bulwerii",
+    "en": "Bulwer's Petrel",
+    "es": [
+      "BUPE",
+      "BUBU"
+    ]
+  },
+  "大水薙鳥": {
+    "cn": "大水薙鳥",
+    "sn": "Calonectris leucomelas",
+    "en": "Streaked Shearwater",
+    "es": [
+      "STRS",
+      "STSH",
+      "CALE"
+    ]
+  },
+  "肉足水薙鳥": {
+    "cn": "肉足水薙鳥",
+    "sn": "Ardenna carneipes",
+    "en": "Flesh-footed Shearwater",
+    "es": [
+      "FFSH",
+      "ARCA"
+    ]
+  },
+  "長尾水薙鳥": {
+    "cn": "長尾水薙鳥",
+    "sn": "Ardenna pacifica",
+    "en": "Wedge-tailed Shearwater",
+    "es": [
+      "WTSH",
+      "ARPA"
+    ]
+  },
+  "灰水薙鳥": {
+    "cn": "灰水薙鳥",
+    "sn": "Ardenna grisea",
+    "en": "Sooty Shearwater",
+    "es": [
+      "SOSH",
+      "ARGR"
+    ]
+  },
+  "短尾水薙鳥": {
+    "cn": "短尾水薙鳥",
+    "sn": "Ardenna tenuirostris",
+    "en": "Short-tailed Shearwater",
+    "es": [
+      "STTS",
+      "STSH",
+      "ARTE"
+    ]
+  },
+  "黑白水薙鳥類": {
+    "cn": "黑白水薙鳥類",
+    "sn": "Puffinus sp. (black-and-white shearwater sp.)",
+    "en": "black-and-white shearwater sp.",
+    "es": []
+  },
+  "水薙鳥類(XX水薙鳥)": {
+    "cn": "水薙鳥類",
+    "sn": "Procellariidae sp. (shearwater sp.)",
+    "en": "shearwater sp.",
+    "es": []
+  },
+  "鸌科": {
+    "cn": "鸌科",
+    "sn": "Procellariidae sp.",
+    "en": "Procellariid sp.",
+    "es": []
+  },
+  "黑鸛": {
+    "cn": "黑鸛",
+    "sn": "Ciconia nigra",
+    "en": "Black Stork",
+    "es": [
+      "BLST",
+      "CINI"
+    ]
+  },
+  "白鸛": {
+    "cn": "白鸛",
+    "sn": "Ciconia ciconia",
+    "en": "White Stork",
+    "es": [
+      "WHST",
+      "CICI"
+    ]
+  },
+  "東方白鸛": {
+    "cn": "東方白鸛",
+    "sn": "Ciconia boyciana",
+    "en": "Oriental Stork",
+    "es": [
+      "ORST",
+      "CIBO"
+    ]
+  },
+  "白斑軍艦鳥": {
+    "cn": "白斑軍艦鳥",
+    "sn": "Fregata ariel",
+    "en": "Lesser Frigatebird",
+    "es": [
+      "LEFR",
+      "FRAR"
+    ]
+  },
+  "軍艦鳥": {
+    "cn": "軍艦鳥",
+    "sn": "Fregata minor",
+    "en": "Great Frigatebird",
+    "es": [
+      "GREF",
+      "GRFR",
+      "FRMI"
+    ]
+  },
+  "軍艦鳥科(XX軍艦鳥)": {
+    "cn": "軍艦鳥科",
+    "sn": "Fregata sp.",
+    "en": "frigatebird sp.",
+    "es": []
+  },
+  "藍臉鰹鳥": {
+    "cn": "藍臉鰹鳥",
+    "sn": "Sula dactylatra",
+    "en": "Masked Booby",
+    "es": [
+      "MABO",
+      "SUDA"
+    ]
+  },
+  "白腹鰹鳥": {
+    "cn": "白腹鰹鳥",
+    "sn": "Sula leucogaster",
+    "en": "Brown Booby",
+    "es": [
+      "BRBO",
+      "SULE"
+    ]
+  },
+  "紅腳鰹鳥": {
+    "cn": "紅腳鰹鳥",
+    "sn": "Sula sula",
+    "en": "Red-footed Booby",
+    "es": [
+      "RFBO",
+      "SUSU"
+    ]
+  },
+  "鰹鳥類": {
+    "cn": "鰹鳥類",
+    "sn": "Sula sp.",
+    "en": "booby sp.",
+    "es": []
+  },
+  "海鸕鷀": {
+    "cn": "海鸕鷀",
+    "sn": "Phalacrocorax pelagicus",
+    "en": "Pelagic Cormorant",
+    "es": [
+      "PECO",
+      "PHPE"
+    ]
+  },
+  "鸕鷀": {
+    "cn": "鸕鷀",
+    "sn": "Phalacrocorax carbo",
+    "en": "Great Cormorant",
+    "es": [
+      "GRCO",
+      "BLSH",
+      "GBCO",
+      "WBCO",
+      "PHCA"
+    ]
+  },
+  "丹氏鸕鷀": {
+    "cn": "丹氏鸕鷀",
+    "sn": "Phalacrocorax capillatus",
+    "en": "Japanese Cormorant",
+    "es": [
+      "JACO",
+      "PHCA"
+    ]
+  },
+  "鸕鷀類(XX鸕鷀)": {
+    "cn": "鸕鷀類",
+    "sn": "Phalacrocoracidae sp.",
+    "en": "cormorant sp.",
+    "es": []
+  },
+  "卷羽鵜鶘": {
+    "cn": "卷羽鵜鶘",
+    "sn": "Pelecanus crispus",
+    "en": "Dalmatian Pelican",
+    "es": [
+      "DAPE",
+      "PECR"
+    ]
+  },
+  "大麻鷺": {
+    "cn": "大麻鷺",
+    "sn": "Botaurus stellaris",
+    "en": "Great Bittern",
+    "es": [
+      "EUBI",
+      "GRBI",
+      "BOST"
+    ]
+  },
+  "黃小鷺": {
+    "cn": "黃小鷺",
+    "sn": "Ixobrychus sinensis",
+    "en": "Yellow Bittern",
+    "es": [
+      "YEBI",
+      "IXSI"
+    ]
+  },
+  "秋小鷺": {
+    "cn": "秋小鷺",
+    "sn": "Ixobrychus eurhythmus",
+    "en": "Schrenck's Bittern",
+    "es": [
+      "VSBI",
+      "SCBI",
+      "IXEU"
+    ]
+  },
+  "栗小鷺": {
+    "cn": "栗小鷺",
+    "sn": "Ixobrychus cinnamomeus",
+    "en": "Cinnamon Bittern",
+    "es": [
+      "CIBI",
+      "IXCI"
+    ]
+  },
+  "黃頸黑鷺": {
+    "cn": "黃頸黑鷺",
+    "sn": "Ixobrychus flavicollis",
+    "en": "Black Bittern",
+    "es": [
+      "BLBI",
+      "IXFL"
+    ]
+  },
+  "葦鷺屬": {
+    "cn": "葦鷺屬",
+    "sn": "Ixobrychus sp.",
+    "en": "small bittern sp.",
+    "es": []
+  },
+  "蒼鷺": {
+    "cn": "蒼鷺",
+    "sn": "Ardea cinerea",
+    "en": "Gray Heron",
+    "es": [
+      "GRAH",
+      "GRHE",
+      "ARCI"
+    ]
+  },
+  "紫鷺": {
+    "cn": "紫鷺",
+    "sn": "Ardea purpurea",
+    "en": "Purple Heron",
+    "es": [
+      "PUHE",
+      "ARPU"
+    ]
+  },
+  "蒼/紫鷺": {
+    "cn": "蒼/紫鷺",
+    "sn": "Ardea cinerea/purpurea",
+    "en": "Gray/Purple Heron",
+    "es": []
+  },
+  "大白鷺": {
+    "cn": "大白鷺",
+    "sn": "Ardea alba",
+    "en": "Great Egret",
+    "es": [
+      "GREG",
+      "WHHE",
+      "GWEG",
+      "ARAL"
+    ]
+  },
+  "中白鷺": {
+    "cn": "中白鷺",
+    "sn": "Ardea intermedia",
+    "en": "Intermediate Egret",
+    "es": [
+      "INEG",
+      "YBEG",
+      "ARIN"
+    ]
+  },
+  "大/中白鷺": {
+    "cn": "大/中白鷺",
+    "sn": "Ardea alba/intermedia",
+    "en": "Great/Intermediate Egret",
+    "es": [
+      "YBEG",
+      "GWEG",
+      "GREG",
+      "INEG",
+      "WHHE",
+      "ARIN",
+      "ARAL"
+    ]
+  },
+  "白臉鷺": {
+    "cn": "白臉鷺",
+    "sn": "Egretta novaehollandiae",
+    "en": "White-faced Heron",
+    "es": [
+      "WFHE",
+      "EGNO"
+    ]
+  },
+  "唐白鷺": {
+    "cn": "唐白鷺",
+    "sn": "Egretta eulophotes",
+    "en": "Chinese Egret",
+    "es": [
+      "CHEG",
+      "EGEU"
+    ]
+  },
+  "小白鷺": {
+    "cn": "小白鷺",
+    "sn": "Egretta garzetta",
+    "en": "Little Egret",
+    "es": [
+      "LIEG",
+      "EGGA"
+    ]
+  },
+  "岩鷺": {
+    "cn": "岩鷺",
+    "sn": "Egretta sacra",
+    "en": "Pacific Reef-Heron",
+    "es": [
+      "PRHE",
+      "PARH",
+      "REHE",
+      "EREG",
+      "EGSA"
+    ]
+  },
+  "白頸黑鷺": {
+    "cn": "白頸黑鷺",
+    "sn": "Egretta picata",
+    "en": "Pied Heron",
+    "es": [
+      "PIHE",
+      "EGPI"
+    ]
+  },
+  "黃頭鷺": {
+    "cn": "黃頭鷺",
+    "sn": "Bubulcus ibis",
+    "en": "Cattle Egret",
+    "es": [
+      "CAEG",
+      "WCEG",
+      "BUIB"
+    ]
+  },
+  "白鷺類(XX白鷺)": {
+    "cn": "白鷺類",
+    "sn": "Ardea/Egretta/Bubulcus sp.",
+    "en": "white egret sp.",
+    "es": []
+  },
+  "池鷺": {
+    "cn": "池鷺",
+    "sn": "Ardeola bacchus",
+    "en": "Chinese Pond-Heron",
+    "es": [
+      "CHPH",
+      "CPHE",
+      "ARBA"
+    ]
+  },
+  "爪哇池鷺": {
+    "cn": "爪哇池鷺",
+    "sn": "Ardeola speciosa",
+    "en": "Javan Pond-Heron",
+    "es": [
+      "JPHE",
+      "JAPH",
+      "ARSP"
+    ]
+  },
+  "池鷺屬": {
+    "cn": "池鷺屬",
+    "sn": "Ardeola sp.",
+    "en": "pond-heron sp.",
+    "es": []
+  },
+  "綠簑鷺": {
+    "cn": "綠簑鷺",
+    "sn": "Butorides striata",
+    "en": "Striated Heron",
+    "es": [
+      "STRH",
+      "STHE",
+      "GBHE",
+      "BUST"
+    ]
+  },
+  "夜鷺": {
+    "cn": "夜鷺",
+    "sn": "Nycticorax nycticorax",
+    "en": "Black-crowned Night-Heron",
+    "es": [
+      "BCNH",
+      "NYNY"
+    ]
+  },
+  "棕夜鷺": {
+    "cn": "棕夜鷺",
+    "sn": "Nycticorax caledonicus",
+    "en": "Rufous Night-Heron",
+    "es": [
+      "NNHE",
+      "NANH",
+      "RUNH",
+      "RNHE",
+      "NYCA"
+    ]
+  },
+  "麻鷺": {
+    "cn": "麻鷺",
+    "sn": "Gorsachius goisagi",
+    "en": "Japanese Night-Heron",
+    "es": [
+      "JNHE",
+      "JANH",
+      "GOGO"
+    ]
+  },
+  "黑冠麻鷺": {
+    "cn": "黑冠麻鷺",
+    "sn": "Gorsachius melanolophus",
+    "en": "Malayan Night-Heron",
+    "es": [
+      "MANH",
+      "MNHE",
+      "GOME"
+    ]
+  },
+  "麻鷺/黑冠麻鷺": {
+    "cn": "麻鷺/黑冠麻鷺",
+    "sn": "Gorsachius goisagi/melanolophus",
+    "en": "Japanese/Malayan Night-Heron",
+    "es": []
+  },
+  "鷺科(XX鷺)": {
+    "cn": "鷺科",
+    "sn": "Ardeidae sp.",
+    "en": "heron sp.",
+    "es": []
+  },
+  "彩䴉": {
+    "cn": "彩䴉",
+    "sn": "Plegadis falcinellus",
+    "en": "Glossy Ibis",
+    "es": [
+      "GLIB",
+      "PLFA"
+    ]
+  },
+  "埃及聖䴉": {
+    "cn": "埃及聖䴉",
+    "sn": "Threskiornis aethiopicus",
+    "en": "African Sacred Ibis",
+    "es": [
+      "ASIB",
+      "SAIB",
+      "THAE"
+    ]
+  },
+  "埃及/馬島聖䴉": {
+    "cn": "埃及/馬島聖䴉",
+    "sn": "Threskiornis aethiopicus/bernieri",
+    "en": "African/Madagascar Sacred Ibis",
+    "es": []
+  },
+  "黑頭白䴉": {
+    "cn": "黑頭白䴉",
+    "sn": "Threskiornis melanocephalus",
+    "en": "Black-headed Ibis",
+    "es": [
+      "BHIB",
+      "THME"
+    ]
+  },
+  "䴉科(XX䴉)": {
+    "cn": "䴉科",
+    "sn": "Threskiornithidae sp. (ibis sp.)",
+    "en": "ibis sp.",
+    "es": []
+  },
+  "白琵鷺": {
+    "cn": "白琵鷺",
+    "sn": "Platalea leucorodia",
+    "en": "Eurasian Spoonbill",
+    "es": [
+      "EURS",
+      "EUSP",
+      "PLLE"
+    ]
+  },
+  "黑面琵鷺": {
+    "cn": "黑面琵鷺",
+    "sn": "Platalea minor",
+    "en": "Black-faced Spoonbill",
+    "es": [
+      "BFSP",
+      "PLMI"
+    ]
+  },
+  "琵鷺屬(XX琵鷺)": {
+    "cn": "琵鷺屬",
+    "sn": "Platalea sp.",
+    "en": "spoonbill sp.",
+    "es": []
+  },
+  "魚鷹": {
+    "cn": "魚鷹",
+    "sn": "Pandion haliaetus",
+    "en": "Osprey",
+    "es": [
+      "OSPR",
+      "WEOS",
+      "PAHA"
+    ]
+  },
+  "黑翅鳶": {
+    "cn": "黑翅鳶",
+    "sn": "Elanus caeruleus",
+    "en": "Black-winged Kite",
+    "es": [
+      "BWKI",
+      "ABSK",
+      "ELCA"
+    ]
+  },
+  "東方蜂鷹": {
+    "cn": "東方蜂鷹",
+    "sn": "Pernis ptilorhynchus",
+    "en": "Oriental Honey-buzzard",
+    "es": [
+      "OHBU",
+      "ORHB",
+      "CRHB",
+      "CHBU",
+      "PEPT"
+    ]
+  },
+  "黑冠鵑隼": {
+    "cn": "黑冠鵑隼",
+    "sn": "Aviceda leuphotes",
+    "en": "Black Baza",
+    "es": [
+      "BLBA",
+      "AVLE"
+    ]
+  },
+  "禿鷲": {
+    "cn": "禿鷲",
+    "sn": "Aegypius monachus",
+    "en": "Cinereous Vulture",
+    "es": [
+      "BLVU",
+      "CIVU",
+      "AEMO"
+    ]
+  },
+  "大冠鷲": {
+    "cn": "大冠鷲",
+    "sn": "Spilornis cheela",
+    "en": "Crested Serpent-Eagle",
+    "es": [
+      "CRSE",
+      "CSEA",
+      "SPCH"
+    ]
+  },
+  "熊鷹": {
+    "cn": "熊鷹",
+    "sn": "Nisaetus nipalensis",
+    "en": "Mountain Hawk-Eagle",
+    "es": [
+      "MHEA",
+      "MOHE",
+      "NINI"
+    ]
+  },
+  "林鵰": {
+    "cn": "林鵰",
+    "sn": "Ictinaetus malaiensis",
+    "en": "Black Eagle",
+    "es": [
+      "BLEA",
+      "ICMA"
+    ]
+  },
+  "花鵰": {
+    "cn": "花鵰",
+    "sn": "Clanga clanga",
+    "en": "Greater Spotted Eagle",
+    "es": [
+      "GSEA",
+      "CLCL"
+    ]
+  },
+  "靴雕": {
+    "cn": "靴雕",
+    "sn": "Hieraaetus pennatus",
+    "en": "Booted Eagle",
+    "es": [
+      "BOEA",
+      "HIPE"
+    ]
+  },
+  "白肩鵰": {
+    "cn": "白肩鵰",
+    "sn": "Aquila heliaca",
+    "en": "Imperial Eagle",
+    "es": [
+      "EIEA",
+      "IMEA",
+      "AQHE"
+    ]
+  },
+  "白腹鵰": {
+    "cn": "白腹鵰",
+    "sn": "Aquila fasciata",
+    "en": "Bonelli's Eagle",
+    "es": [
+      "BOEA",
+      "AQFA"
+    ]
+  },
+  "鵰屬(XX鵰)": {
+    "cn": "鵰屬",
+    "sn": "Aquila sp.",
+    "en": "Aquila sp.",
+    "es": []
+  },
+  "花鵰屬/鵰屬": {
+    "cn": "花鵰屬/鵰屬",
+    "sn": "Clanga/Aquila sp.",
+    "en": "Clanga/Aquila sp.",
+    "es": []
+  },
+  "灰面鵟鷹": {
+    "cn": "灰面鵟鷹",
+    "sn": "Butastur indicus",
+    "en": "Gray-faced Buzzard",
+    "es": [
+      "GFBU",
+      "BUIN"
+    ]
+  },
+  "東方澤鵟": {
+    "cn": "東方澤鵟",
+    "sn": "Circus spilonotus",
+    "en": "Eastern Marsh-Harrier",
+    "es": [
+      "EMHA",
+      "EAMH",
+      "CISP"
+    ]
+  },
+  "東方/巴布亞澤鵟": {
+    "cn": "東方/巴布亞澤鵟",
+    "sn": "Circus spilonotus/spilothorax",
+    "en": "Eastern/Papuan Marsh-Harrier",
+    "es": []
+  },
+  "灰澤鵟": {
+    "cn": "灰澤鵟",
+    "sn": "Circus cyaneus",
+    "en": "Hen Harrier",
+    "es": [
+      "HEHA",
+      "CICY"
+    ]
+  },
+  "花澤鵟": {
+    "cn": "花澤鵟",
+    "sn": "Circus melanoleucos",
+    "en": "Pied Harrier",
+    "es": [
+      "PIHA",
+      "CIME"
+    ]
+  },
+  "澤鵟屬(XX澤鵟)": {
+    "cn": "澤鵟屬",
+    "sn": "Circus sp.",
+    "en": "harrier sp.",
+    "es": []
+  },
+  "鳳頭蒼鷹": {
+    "cn": "鳳頭蒼鷹",
+    "sn": "Accipiter trivirgatus",
+    "en": "Crested Goshawk",
+    "es": [
+      "CRGO",
+      "ACTR"
+    ]
+  },
+  "赤腹鷹": {
+    "cn": "赤腹鷹",
+    "sn": "Accipiter soloensis",
+    "en": "Chinese Sparrowhawk",
+    "es": [
+      "CHIS",
+      "CHSP",
+      "ACSO"
+    ]
+  },
+  "日本松雀鷹": {
+    "cn": "日本松雀鷹",
+    "sn": "Accipiter gularis",
+    "en": "Japanese Sparrowhawk",
+    "es": [
+      "JASP",
+      "ACGU"
+    ]
+  },
+  "松雀鷹": {
+    "cn": "松雀鷹",
+    "sn": "Accipiter virgatus",
+    "en": "Besra",
+    "es": [
+      "BESR",
+      "ACVI"
+    ]
+  },
+  "日本松雀鷹/松雀鷹": {
+    "cn": "日本松雀鷹/松雀鷹",
+    "sn": "Accipiter gularis/virgatus",
+    "en": "Japanese Sparrowhawk/Besra",
+    "es": [
+      "BESR",
+      "JASP",
+      "ACGU",
+      "ACVI"
+    ]
+  },
+  "鳳頭蒼鷹/松雀鷹": {
+    "cn": "鳳頭蒼鷹/松雀鷹",
+    "sn": "Accipiter trivirgatus/virgatus",
+    "en": "Crested Goshawk/Besra",
+    "es": [
+      "CRGO",
+      "BESR",
+      "ACTR",
+      "ACVI"
+    ]
+  },
+  "北雀鷹": {
+    "cn": "北雀鷹",
+    "sn": "Accipiter nisus",
+    "en": "Eurasian Sparrowhawk",
+    "es": [
+      "EUSP",
+      "ACNI"
+    ]
+  },
+  "蒼鷹": {
+    "cn": "蒼鷹",
+    "sn": "Accipiter gentilis",
+    "en": "Northern Goshawk",
+    "es": [
+      "NOGO",
+      "ACGE"
+    ]
+  },
+  "雀鷹屬(XX雀鷹)": {
+    "cn": "雀鷹屬",
+    "sn": "Accipiter sp.",
+    "en": "Accipiter sp.",
+    "es": [
+      "UAHA"
+    ]
+  },
+  "黑鳶": {
+    "cn": "黑鳶",
+    "sn": "Milvus migrans",
+    "en": "Black Kite",
+    "es": [
+      "BLAK",
+      "BBKI",
+      "BLKI",
+      "MIMI"
+    ]
+  },
+  "栗鳶": {
+    "cn": "栗鳶",
+    "sn": "Haliastur indus",
+    "en": "Brahminy Kite",
+    "es": [
+      "BRKI",
+      "HAIN"
+    ]
+  },
+  "白尾海鵰": {
+    "cn": "白尾海鵰",
+    "sn": "Haliaeetus albicilla",
+    "en": "White-tailed Eagle",
+    "es": [
+      "WTEA",
+      "HAAL"
+    ]
+  },
+  "白腹海鵰": {
+    "cn": "白腹海鵰",
+    "sn": "Haliaeetus leucogaster",
+    "en": "White-bellied Sea-Eagle",
+    "es": [
+      "WBSE",
+      "HALE"
+    ]
+  },
+  "毛足鵟": {
+    "cn": "毛足鵟",
+    "sn": "Buteo lagopus",
+    "en": "Rough-legged Hawk",
+    "es": [
+      "RLHA",
+      "RLBU",
+      "BULA"
+    ]
+  },
+  "歐亞鵟": {
+    "cn": "歐亞鵟",
+    "sn": "Buteo buteo",
+    "en": "Common Buzzard",
+    "es": [
+      "COBU",
+      "STBU",
+      "BUBU"
+    ]
+  },
+  "東方鵟": {
+    "cn": "東方鵟",
+    "sn": "Buteo japonicus",
+    "en": "Eastern Buzzard",
+    "es": [
+      "EABU",
+      "BUJA"
+    ]
+  },
+  "大鵟": {
+    "cn": "大鵟",
+    "sn": "Buteo hemilasius",
+    "en": "Upland Buzzard",
+    "es": [
+      "UPBU",
+      "BUHE"
+    ]
+  },
+  "鵟屬(XX鵟)": {
+    "cn": "鵟屬",
+    "sn": "Buteo sp.",
+    "en": "Buteo sp.",
+    "es": []
+  },
+  "鵟屬/鵰類": {
+    "cn": "鵟屬/鵰類",
+    "sn": "Buteo/eagle sp.",
+    "en": "Buteo/eagle sp.",
+    "es": []
+  },
+  "鷹科(鷹類)(XX鷹)": {
+    "cn": "鷹科(鷹類)",
+    "sn": "Accipitridae sp. (hawk sp.)",
+    "en": "hawk sp.",
+    "es": [
+      "UNHA"
+    ]
+  },
+  "鷹科(鵰類)(XX鷹)": {
+    "cn": "鷹科(鵰類)",
+    "sn": "Accipitridae sp. (eagle sp.)",
+    "en": "eagle sp.",
+    "es": []
+  },
+  "草鴞": {
+    "cn": "草鴞",
+    "sn": "Tyto longimembris",
+    "en": "Australasian Grass-Owl",
+    "es": [
+      "AGOW",
+      "AUGO",
+      "EGOW",
+      "TYLO"
+    ]
+  },
+  "黃嘴角鴞": {
+    "cn": "黃嘴角鴞",
+    "sn": "Otus spilocephalus",
+    "en": "Mountain Scops-Owl",
+    "es": [
+      "MSOW",
+      "MOSO",
+      "OTSP"
+    ]
+  },
+  "領角鴞": {
+    "cn": "領角鴞",
+    "sn": "Otus lettia",
+    "en": "Collared Scops-Owl",
+    "es": [
+      "COSO",
+      "CSOW",
+      "OTLE"
+    ]
+  },
+  "蘭嶼角鴞": {
+    "cn": "蘭嶼角鴞",
+    "sn": "Otus elegans",
+    "en": "Ryukyu Scops-Owl",
+    "es": [
+      "RYSO",
+      "RSOW",
+      "OTEL"
+    ]
+  },
+  "東方角鴞": {
+    "cn": "東方角鴞",
+    "sn": "Otus sunia",
+    "en": "Oriental Scops-Owl",
+    "es": [
+      "ORSO",
+      "OSOW",
+      "OTSU"
+    ]
+  },
+  "角鴞屬(XX角鴞)": {
+    "cn": "角鴞屬",
+    "sn": "Otus sp.",
+    "en": "scops-owl sp.",
+    "es": []
+  },
+  "鵰鴞": {
+    "cn": "鵰鴞",
+    "sn": "Bubo bubo",
+    "en": "Eurasian Eagle-Owl",
+    "es": [
+      "EEOW",
+      "EUEO",
+      "BUBU"
+    ]
+  },
+  "黃魚鴞": {
+    "cn": "黃魚鴞",
+    "sn": "Ketupa flavipes",
+    "en": "Tawny Fish-Owl",
+    "es": [
+      "TFOW",
+      "TAFO",
+      "KEFL"
+    ]
+  },
+  "鵂鶹": {
+    "cn": "鵂鶹",
+    "sn": "Glaucidium brodiei",
+    "en": "Collared Owlet",
+    "es": [
+      "COOW",
+      "GLBR"
+    ]
+  },
+  "褐林鴞": {
+    "cn": "褐林鴞",
+    "sn": "Strix leptogrammica",
+    "en": "Brown Wood-Owl",
+    "es": [
+      "BWOW",
+      "BRWO",
+      "STLE"
+    ]
+  },
+  "東方灰林鴞": {
+    "cn": "東方灰林鴞",
+    "sn": "Strix nivicolum",
+    "en": "Himalayan Owl",
+    "es": [
+      "HIOW",
+      "STNI"
+    ]
+  },
+  "長耳鴞": {
+    "cn": "長耳鴞",
+    "sn": "Asio otus",
+    "en": "Long-eared Owl",
+    "es": [
+      "LEOW",
+      "ASOT"
+    ]
+  },
+  "短耳鴞": {
+    "cn": "短耳鴞",
+    "sn": "Asio flammeus",
+    "en": "Short-eared Owl",
+    "es": [
+      "SEOW",
+      "PUEO",
+      "ASFL"
+    ]
+  },
+  "長/短耳鴞": {
+    "cn": "長/短耳鴞",
+    "sn": "Asio otus/flammeus",
+    "en": "Long-eared/Short-eared Owl",
+    "es": []
+  },
+  "褐鷹鴞": {
+    "cn": "褐鷹鴞",
+    "sn": "Ninox japonica",
+    "en": "Northern Boobook",
+    "es": [
+      "NOBB",
+      "NOBO",
+      "NIJA"
+    ]
+  },
+  "鴟鴞類(XX貓頭鷹)": {
+    "cn": "鴟鴞類",
+    "sn": "Strigiformes sp.",
+    "en": "owl sp.",
+    "es": [
+      "UNOW"
+    ]
+  },
+  "戴勝": {
+    "cn": "戴勝",
+    "sn": "Upupa epops",
+    "en": "Eurasian Hoopoe",
+    "es": [
+      "EHOO",
+      "HOOP",
+      "EUHO",
+      "UPEP"
+    ]
+  },
+  "翠鳥": {
+    "cn": "翠鳥",
+    "sn": "Alcedo atthis",
+    "en": "Common Kingfisher",
+    "es": [
+      "COKI",
+      "ALAT"
+    ]
+  },
+  "赤翡翠": {
+    "cn": "赤翡翠",
+    "sn": "Halcyon coromanda",
+    "en": "Ruddy Kingfisher",
+    "es": [
+      "RUKI",
+      "HACO"
+    ]
+  },
+  "蒼翡翠": {
+    "cn": "蒼翡翠",
+    "sn": "Halcyon smyrnensis",
+    "en": "White-throated Kingfisher",
+    "es": [
+      "SMKI",
+      "WTKI",
+      "HASM"
+    ]
+  },
+  "黑頭翡翠": {
+    "cn": "黑頭翡翠",
+    "sn": "Halcyon pileata",
+    "en": "Black-capped Kingfisher",
+    "es": [
+      "BCKI",
+      "HAPI"
+    ]
+  },
+  "白領翡翠": {
+    "cn": "白領翡翠",
+    "sn": "Todiramphus chloris",
+    "en": "Collared Kingfisher",
+    "es": [
+      "COKI",
+      "TOCH"
+    ]
+  },
+  "斑翡翠": {
+    "cn": "斑翡翠",
+    "sn": "Ceryle rudis",
+    "en": "Pied Kingfisher",
+    "es": [
+      "PIKI",
+      "CERU"
+    ]
+  },
+  "藍喉蜂虎": {
+    "cn": "藍喉蜂虎",
+    "sn": "Merops viridis",
+    "en": "Blue-throated Bee-eater",
+    "es": [
+      "IBTB",
+      "BTBE",
+      "MEVI"
+    ]
+  },
+  "藍頰蜂虎": {
+    "cn": "藍頰蜂虎",
+    "sn": "Merops persicus",
+    "en": "Blue-cheeked Bee-eater",
+    "es": [
+      "BCBE",
+      "MEPE"
+    ]
+  },
+  "栗喉蜂虎": {
+    "cn": "栗喉蜂虎",
+    "sn": "Merops philippinus",
+    "en": "Blue-tailed Bee-eater",
+    "es": [
+      "BTBE",
+      "MEPH"
+    ]
+  },
+  "彩虹蜂虎": {
+    "cn": "彩虹蜂虎",
+    "sn": "Merops ornatus",
+    "en": "Rainbow Bee-eater",
+    "es": [
+      "RABE",
+      "RBEA",
+      "MEOR"
+    ]
+  },
+  "佛法僧": {
+    "cn": "佛法僧",
+    "sn": "Eurystomus orientalis",
+    "en": "Dollarbird",
+    "es": [
+      "ORDO",
+      "DOLL",
+      "EUOR"
+    ]
+  },
+  "五色鳥": {
+    "cn": "五色鳥",
+    "sn": "Psilopogon nuchalis",
+    "en": "Taiwan Barbet",
+    "es": [
+      "TABA",
+      "PSNU"
+    ]
+  },
+  "台灣擬啄木": {
+    "cn": "五色鳥",
+    "sn": "Psilopogon nuchalis",
+    "en": "Taiwan Barbet",
+    "es": [
+      "TABA",
+      "PSNU"
+    ]
+  },
+  "地啄木": {
+    "cn": "地啄木",
+    "sn": "Jynx torquilla",
+    "en": "Eurasian Wryneck",
+    "es": [
+      "EUWR",
+      "JYTO"
+    ]
+  },
+  "小啄木": {
+    "cn": "小啄木",
+    "sn": "Yungipicus canicapillus",
+    "en": "Gray-capped Woodpecker",
+    "es": [
+      "GCWO",
+      "GCPW",
+      "YUCA"
+    ]
+  },
+  "大赤啄木": {
+    "cn": "大赤啄木",
+    "sn": "Dendrocopos leucotos",
+    "en": "White-backed Woodpecker",
+    "es": [
+      "WBWO",
+      "DELE"
+    ]
+  },
+  "綠啄木": {
+    "cn": "綠啄木",
+    "sn": "Picus canus",
+    "en": "Gray-headed Woodpecker",
+    "es": [
+      "GHWO",
+      "PICA"
+    ]
+  },
+  "綠啄木屬": {
+    "cn": "綠啄木屬",
+    "sn": "Picus sp.",
+    "en": "Picus sp.",
+    "es": []
+  },
+  "啄木鳥科(XX啄木)": {
+    "cn": "啄木鳥科",
+    "sn": "Picidae sp.",
+    "en": "woodpecker sp.",
+    "es": [
+      "UNWO"
+    ]
+  },
+  "紅隼": {
+    "cn": "紅隼",
+    "sn": "Falco tinnunculus",
+    "en": "Eurasian Kestrel",
+    "es": [
+      "EUKE",
+      "COKE",
+      "FATI"
+    ]
+  },
+  "紅腳隼": {
+    "cn": "紅腳隼",
+    "sn": "Falco amurensis",
+    "en": "Amur Falcon",
+    "es": [
+      "AMFA",
+      "FAAM"
+    ]
+  },
+  "灰背隼": {
+    "cn": "灰背隼",
+    "sn": "Falco columbarius",
+    "en": "Merlin",
+    "es": [
+      "MERL",
+      "FACO"
+    ]
+  },
+  "燕隼": {
+    "cn": "燕隼",
+    "sn": "Falco subbuteo",
+    "en": "Eurasian Hobby",
+    "es": [
+      "EHOB",
+      "EUHO",
+      "FASU"
+    ]
+  },
+  "遊隼": {
+    "cn": "遊隼",
+    "sn": "Falco peregrinus",
+    "en": "Peregrine Falcon",
+    "es": [
+      "PEFA",
+      "FAPE"
+    ]
+  },
+  "大型隼(XX隼)": {
+    "cn": "大型隼",
+    "sn": "Falco sp. (large falcon sp.)",
+    "en": "large falcon sp.",
+    "es": []
+  },
+  "小型隼(XX隼)": {
+    "cn": "小型隼",
+    "sn": "Falco sp. (small falcon sp.)",
+    "en": "small falcon sp.",
+    "es": []
+  },
+  "隼屬(XX隼)": {
+    "cn": "隼屬",
+    "sn": "Falco sp.",
+    "en": "falcon sp.",
+    "es": []
+  },
+  "日行性猛禽類(XX猛禽)": {
+    "cn": "日行性猛禽類",
+    "sn": "Accipitriformes/Falconiformes sp.",
+    "en": "diurnal raptor sp.",
+    "es": []
+  },
+  "戈芬氏鳳頭鸚鵡": {
+    "cn": "戈芬氏鳳頭鸚鵡",
+    "sn": "Cacatua goffiniana",
+    "en": "Tanimbar Corella",
+    "es": [
+      "TACO",
+      "CAGO"
+    ]
+  },
+  "葵花鳳頭鸚鵡": {
+    "cn": "葵花鳳頭鸚鵡",
+    "sn": "Cacatua galerita",
+    "en": "Sulphur-crested Cockatoo",
+    "es": [
+      "SCCO",
+      "CAGA"
+    ]
+  },
+  "白鳳頭鸚鵡": {
+    "cn": "白鳳頭鸚鵡",
+    "sn": "Cacatua alba",
+    "en": "White Cockatoo",
+    "es": [
+      "WHCO",
+      "CAAL"
+    ]
+  },
+  "鳳頭鸚鵡屬(XX鳳頭鸚鵡)": {
+    "cn": "鳳頭鸚鵡屬",
+    "sn": "Cacatua sp.",
+    "en": "corella/cockatoo sp.",
+    "es": []
+  },
+  "雞尾鸚鵡(馴化)": {
+    "cn": "雞尾鸚鵡(馴化)",
+    "sn": "Nymphicus hollandicus (Domestic type)",
+    "en": "Cockatiel (Domestic type)",
+    "es": [
+      "COCK",
+      "NYHO"
+    ]
+  },
+  "亞歷山大鸚鵡": {
+    "cn": "亞歷山大鸚鵡",
+    "sn": "Psittacula eupatria",
+    "en": "Alexandrine Parakeet",
+    "es": [
+      "ALPA",
+      "PSEU"
+    ]
+  },
+  "紅領綠鸚鵡": {
+    "cn": "紅領綠鸚鵡",
+    "sn": "Psittacula krameri",
+    "en": "Rose-ringed Parakeet",
+    "es": [
+      "RRPA",
+      "RNPA",
+      "PSKR"
+    ]
+  },
+  "虎皮鸚鵡(馴化)": {
+    "cn": "虎皮鸚鵡(馴化)",
+    "sn": "Melopsittacus undulatus (Domestic type)",
+    "en": "Budgerigar (Domestic type)",
+    "es": [
+      "BUDG",
+      "MEUN"
+    ]
+  },
+  "紅色吸蜜鸚鵡": {
+    "cn": "紅色吸蜜鸚鵡",
+    "sn": "Eos bornea",
+    "en": "Red Lory",
+    "es": [
+      "RELO",
+      "EOBO"
+    ]
+  },
+  "紅領吸蜜鸚鵡": {
+    "cn": "紅領吸蜜鸚鵡",
+    "sn": "Trichoglossus rubritorquis",
+    "en": "Red-collared Lorikeet",
+    "es": [
+      "RALO",
+      "RCLO",
+      "TRRU"
+    ]
+  },
+  "彩虹吸蜜鸚鵡": {
+    "cn": "彩虹吸蜜鸚鵡",
+    "sn": "Trichoglossus moluccanus",
+    "en": "Rainbow Lorikeet",
+    "es": [
+      "RALO",
+      "TRMO"
+    ]
+  },
+  "彩虹吸蜜鸚鵡複合群": {
+    "cn": "彩虹吸蜜鸚鵡複合群",
+    "sn": "Trichoglossus sp. (rainbow lorikeet complex)",
+    "en": "rainbow lorikeet sp.",
+    "es": []
+  },
+  "費氏愛情鳥": {
+    "cn": "費氏愛情鳥",
+    "sn": "Agapornis fischeri",
+    "en": "Fischer's Lovebird",
+    "es": [
+      "FILO",
+      "AGFI"
+    ]
+  },
+  "灰鸚鵡": {
+    "cn": "灰鸚鵡",
+    "sn": "Psittacus erithacus",
+    "en": "Gray Parrot",
+    "es": [
+      "GRPA",
+      "PSER"
+    ]
+  },
+  "和尚鸚鵡": {
+    "cn": "和尚鸚鵡",
+    "sn": "Myiopsitta monachus",
+    "en": "Monk Parakeet",
+    "es": [
+      "MOPA",
+      "MYMO"
+    ]
+  },
+  "小型鸚鵡類(XX鸚鵡)": {
+    "cn": "小型鸚鵡類",
+    "sn": "Psittaciformes sp. (parakeet sp.)",
+    "en": "parakeet sp.",
+    "es": []
+  },
+  "大型鸚鵡類(XX鸚鵡)": {
+    "cn": "大型鸚鵡類",
+    "sn": "Psittaciformes sp. (parrot sp.)",
+    "en": "parrot sp.",
+    "es": []
+  },
+  "藍翅八色鳥": {
+    "cn": "藍翅八色鳥",
+    "sn": "Pitta moluccensis",
+    "en": "Blue-winged Pitta",
+    "es": [
+      "BWPI",
+      "PIMO"
+    ]
+  },
+  "八色鳥": {
+    "cn": "八色鳥",
+    "sn": "Pitta nympha",
+    "en": "Fairy Pitta",
+    "es": [
+      "FAPI",
+      "PINY"
+    ]
+  },
+  "綠胸八色鳥": {
+    "cn": "綠胸八色鳥",
+    "sn": "Pitta sordida",
+    "en": "Hooded Pitta",
+    "es": [
+      "HOPI",
+      "PISO"
+    ]
+  },
+  "灰喉山椒鳥": {
+    "cn": "灰喉山椒鳥",
+    "sn": "Pericrocotus solaris",
+    "en": "Gray-chinned Minivet",
+    "es": [
+      "GCMI",
+      "PESO"
+    ]
+  },
+  "赤紅山椒鳥": {
+    "cn": "赤紅山椒鳥",
+    "sn": "Pericrocotus speciosus",
+    "en": "Scarlet Minivet",
+    "es": [
+      "SCMI",
+      "PESP"
+    ]
+  },
+  "琉球山椒鳥": {
+    "cn": "琉球山椒鳥",
+    "sn": "Pericrocotus tegimae",
+    "en": "Ryukyu Minivet",
+    "es": [
+      "RYMI",
+      "PETE"
+    ]
+  },
+  "灰山椒鳥": {
+    "cn": "灰山椒鳥",
+    "sn": "Pericrocotus divaricatus",
+    "en": "Ashy Minivet",
+    "es": [
+      "ASMI",
+      "PEDI"
+    ]
+  },
+  "琉球/灰山椒鳥": {
+    "cn": "琉球/灰山椒鳥",
+    "sn": "Pericrocotus tegimae/divaricatus",
+    "en": "Ryukyu/Ashy Minivet",
+    "es": []
+  },
+  "小灰山椒鳥": {
+    "cn": "小灰山椒鳥",
+    "sn": "Pericrocotus cantonensis",
+    "en": "Brown-rumped Minivet",
+    "es": [
+      "BRMI",
+      "SWMI",
+      "PECA"
+    ]
+  },
+  "灰/小灰山椒鳥": {
+    "cn": "灰/小灰山椒鳥",
+    "sn": "Pericrocotus divaricatus/cantonensis",
+    "en": "Ashy/Brown-rumped Minivet",
+    "es": []
+  },
+  "山椒鳥屬(XX山椒鳥)": {
+    "cn": "山椒鳥屬",
+    "sn": "Pericrocotus sp.",
+    "en": "minivet sp.",
+    "es": []
+  },
+  "花翅山椒鳥": {
+    "cn": "花翅山椒鳥",
+    "sn": "Coracina macei",
+    "en": "Large Cuckooshrike",
+    "es": [
+      "LACU",
+      "COMA"
+    ]
+  },
+  "黑翅山椒鳥": {
+    "cn": "黑翅山椒鳥",
+    "sn": "Lalage melaschistos",
+    "en": "Black-winged Cuckooshrike",
+    "es": [
+      "BWCU",
+      "LAME"
+    ]
+  },
+  "綠畫眉": {
+    "cn": "綠畫眉",
+    "sn": "Erpornis zantholeuca",
+    "en": "White-bellied Erpornis",
+    "es": [
+      "WBER",
+      "ERZA"
+    ]
+  },
+  "黃鸝": {
+    "cn": "黃鸝",
+    "sn": "Oriolus chinensis",
+    "en": "Black-naped Oriole",
+    "es": [
+      "BNOR",
+      "ORCH"
+    ]
+  },
+  "朱鸝": {
+    "cn": "朱鸝",
+    "sn": "Oriolus traillii",
+    "en": "Maroon Oriole",
+    "es": [
+      "MAOR",
+      "ORTR"
+    ]
+  },
+  "大卷尾": {
+    "cn": "大卷尾",
+    "sn": "Dicrurus macrocercus",
+    "en": "Black Drongo",
+    "es": [
+      "BLDR",
+      "DIMA"
+    ]
+  },
+  "灰卷尾": {
+    "cn": "灰卷尾",
+    "sn": "Dicrurus leucophaeus",
+    "en": "Ashy Drongo",
+    "es": [
+      "ASDR",
+      "DILE"
+    ]
+  },
+  "大卷尾/灰卷尾": {
+    "cn": "大卷尾/灰卷尾",
+    "sn": "Dicrurus macrocercus/leucophaeus",
+    "en": "Black/Ashy Drongo",
+    "es": []
+  },
+  "鴉嘴卷尾": {
+    "cn": "鴉嘴卷尾",
+    "sn": "Dicrurus annectens",
+    "en": "Crow-billed Drongo",
+    "es": [
+      "CBDR",
+      "DIAN"
+    ]
+  },
+  "小卷尾": {
+    "cn": "小卷尾",
+    "sn": "Dicrurus aeneus",
+    "en": "Bronzed Drongo",
+    "es": [
+      "BRDR",
+      "DIAE"
+    ]
+  },
+  "髮冠卷尾": {
+    "cn": "髮冠卷尾",
+    "sn": "Dicrurus hottentottus",
+    "en": "Hair-crested Drongo",
+    "es": [
+      "HCDR",
+      "DIHO"
+    ]
+  },
+  "卷尾屬(XX卷尾)": {
+    "cn": "卷尾屬",
+    "sn": "Dicrurus sp.",
+    "en": "drongo sp.",
+    "es": []
+  },
+  "黑枕藍鶲": {
+    "cn": "黑枕藍鶲",
+    "sn": "Hypothymis azurea",
+    "en": "Black-naped Monarch",
+    "es": [
+      "BNMO",
+      "HYAZ"
+    ]
+  },
+  "紫綬帶": {
+    "cn": "紫綬帶",
+    "sn": "Terpsiphone atrocaudata",
+    "en": "Japanese Paradise-Flycatcher",
+    "es": [
+      "JPFL",
+      "JAPF",
+      "TEAT"
+    ]
+  },
+  "阿穆爾綬帶": {
+    "cn": "阿穆爾綬帶",
+    "sn": "Terpsiphone incei",
+    "en": "Amur Paradise-Flycatcher",
+    "es": [
+      "AMPF",
+      "APFL",
+      "TEIN"
+    ]
+  },
+  "日本/阿穆爾綬帶": {
+    "cn": "日本/阿穆爾綬帶",
+    "sn": "Terpsiphone atrocaudata/incei",
+    "en": "Japanese/Amur Paradise-Flycatcher",
+    "es": []
+  },
+  "虎紋伯勞": {
+    "cn": "虎紋伯勞",
+    "sn": "Lanius tigrinus",
+    "en": "Tiger Shrike",
+    "es": [
+      "TISH",
+      "LATI"
+    ]
+  },
+  "紅頭伯勞": {
+    "cn": "紅頭伯勞",
+    "sn": "Lanius bucephalus",
+    "en": "Bull-headed Shrike",
+    "es": [
+      "BHSH",
+      "LABU"
+    ]
+  },
+  "紅背伯勞": {
+    "cn": "紅背伯勞",
+    "sn": "Lanius collurio",
+    "en": "Red-backed Shrike",
+    "es": [
+      "RBSH",
+      "LACO"
+    ]
+  },
+  "紅尾伯勞": {
+    "cn": "紅尾伯勞",
+    "sn": "Lanius cristatus",
+    "en": "Brown Shrike",
+    "es": [
+      "BROS",
+      "BRSH",
+      "LACR"
+    ]
+  },
+  "紅尾伯勞(日本)": {
+    "cn": "紅尾伯勞(日本)",
+    "sn": "Lanius cristatus superciliosus",
+    "en": "Brown Shrike (Japanese)",
+    "es": [
+      "BRSH",
+      "BROS",
+      "LACR"
+    ]
+  },
+  "紅尾伯勞(灰頭)": {
+    "cn": "紅尾伯勞(灰頭)",
+    "sn": "Lanius cristatus lucionensis",
+    "en": "Brown Shrike (Philippine)",
+    "es": [
+      "BRSH",
+      "BROS",
+      "LACR"
+    ]
+  },
+  "栗背伯勞": {
+    "cn": "栗背伯勞",
+    "sn": "Lanius collurioides",
+    "en": "Burmese Shrike",
+    "es": [
+      "BUSH",
+      "LACO"
+    ]
+  },
+  "棕背伯勞": {
+    "cn": "棕背伯勞",
+    "sn": "Lanius schach",
+    "en": "Long-tailed Shrike",
+    "es": [
+      "LTSH",
+      "LASC"
+    ]
+  },
+  "楔尾伯勞": {
+    "cn": "楔尾伯勞",
+    "sn": "Lanius sphenocercus",
+    "en": "Chinese Gray Shrike",
+    "es": [
+      "CGSH",
+      "LASP"
+    ]
+  },
+  "伯勞屬(XX伯勞)": {
+    "cn": "伯勞屬",
+    "sn": "Lanius sp.",
+    "en": "shrike sp.",
+    "es": []
+  },
+  "松鴉": {
+    "cn": "松鴉",
+    "sn": "Garrulus glandarius",
+    "en": "Eurasian Jay",
+    "es": [
+      "EUJA",
+      "GAGL"
+    ]
+  },
+  "灰喜鵲": {
+    "cn": "灰喜鵲",
+    "sn": "Cyanopica cyanus",
+    "en": "Azure-winged Magpie",
+    "es": [
+      "AWMA",
+      "CYCY"
+    ]
+  },
+  "台灣藍鵲": {
+    "cn": "台灣藍鵲",
+    "sn": "Urocissa caerulea",
+    "en": "Taiwan Blue-Magpie",
+    "es": [
+      "TBMA",
+      "TABM",
+      "URCA"
+    ]
+  },
+  "紅嘴藍鵲": {
+    "cn": "紅嘴藍鵲",
+    "sn": "Urocissa erythroryncha",
+    "en": "Red-billed Blue-Magpie",
+    "es": [
+      "RBBM",
+      "URER"
+    ]
+  },
+  "樹鵲": {
+    "cn": "樹鵲",
+    "sn": "Dendrocitta formosae",
+    "en": "Gray Treepie",
+    "es": [
+      "GRTR",
+      "DEFO"
+    ]
+  },
+  "喜鵲": {
+    "cn": "喜鵲",
+    "sn": "Pica serica",
+    "en": "Oriental Magpie",
+    "es": [
+      "ORMA",
+      "PISE"
+    ]
+  },
+  "星鴉": {
+    "cn": "星鴉",
+    "sn": "Nucifraga caryocatactes",
+    "en": "Eurasian Nutcracker",
+    "es": [
+      "SPNU",
+      "EUNU",
+      "NUCA"
+    ]
+  },
+  "東方寒鴉": {
+    "cn": "東方寒鴉",
+    "sn": "Corvus dauuricus",
+    "en": "Daurian Jackdaw",
+    "es": [
+      "DAJA",
+      "CODA"
+    ]
+  },
+  "家烏鴉": {
+    "cn": "家烏鴉",
+    "sn": "Corvus splendens",
+    "en": "House Crow",
+    "es": [
+      "HOCR",
+      "COSP"
+    ]
+  },
+  "禿鼻鴉": {
+    "cn": "禿鼻鴉",
+    "sn": "Corvus frugilegus",
+    "en": "Rook",
+    "es": [
+      "ROOK",
+      "COFR"
+    ]
+  },
+  "小嘴烏鴉": {
+    "cn": "小嘴烏鴉",
+    "sn": "Corvus corone",
+    "en": "Carrion Crow",
+    "es": [
+      "CACR",
+      "COCO"
+    ]
+  },
+  "巨嘴鴉": {
+    "cn": "巨嘴鴉",
+    "sn": "Corvus macrorhynchos",
+    "en": "Large-billed Crow",
+    "es": [
+      "LBJJ",
+      "LBCR",
+      "COMA"
+    ]
+  },
+  "玉頸鴉": {
+    "cn": "玉頸鴉",
+    "sn": "Corvus pectoralis",
+    "en": "Collared Crow",
+    "es": [
+      "COCR",
+      "COPE"
+    ]
+  },
+  "鴉屬(XX鴉)": {
+    "cn": "鴉屬(烏鴉/渡鴉)",
+    "sn": "Corvus sp.",
+    "en": "crow/raven sp.",
+    "es": []
+  },
+  "方尾鶲": {
+    "cn": "方尾鶲",
+    "sn": "Culicicapa ceylonensis",
+    "en": "Gray-headed Canary-Flycatcher",
+    "es": [
+      "GHCF",
+      "CUCE"
+    ]
+  },
+  "煤山雀": {
+    "cn": "煤山雀",
+    "sn": "Periparus ater",
+    "en": "Coal Tit",
+    "es": [
+      "COTI",
+      "PEAT"
+    ]
+  },
+  "黃腹山雀": {
+    "cn": "黃腹山雀",
+    "sn": "Periparus venustulus",
+    "en": "Yellow-bellied Tit",
+    "es": [
+      "YBTI",
+      "PEVE"
+    ]
+  },
+  "赤腹山雀": {
+    "cn": "赤腹山雀",
+    "sn": "Sittiparus castaneoventris",
+    "en": "Chestnut-bellied Tit",
+    "es": [
+      "CBTI",
+      "SICA"
+    ]
+  },
+  "雜色山雀": {
+    "cn": "雜色山雀",
+    "sn": "Sittiparus varius",
+    "en": "Varied Tit",
+    "es": [
+      "VATI",
+      "SIVA"
+    ]
+  },
+  "山雀類(XX山雀)": {
+    "cn": "山雀類",
+    "sn": "Poecile sp.",
+    "en": "chickadee sp.",
+    "es": [
+      "UPCH"
+    ]
+  },
+  "青背山雀": {
+    "cn": "青背山雀",
+    "sn": "Parus monticolus",
+    "en": "Green-backed Tit",
+    "es": [
+      "GBTI",
+      "PAMO"
+    ]
+  },
+  "白頰山雀": {
+    "cn": "白頰山雀",
+    "sn": "Parus minor",
+    "en": "Japanese Tit",
+    "es": [
+      "JATI",
+      "PAMI"
+    ]
+  },
+  "黃山雀": {
+    "cn": "黃山雀",
+    "sn": "Machlolophus holsti",
+    "en": "Taiwan Yellow Tit",
+    "es": [
+      "YETI",
+      "TYTI",
+      "MAHO"
+    ]
+  },
+  "攀雀": {
+    "cn": "攀雀",
+    "sn": "Remiz consobrinus",
+    "en": "Chinese Penduline-Tit",
+    "es": [
+      "CPTI",
+      "CHPT",
+      "RECO"
+    ]
+  },
+  "大短趾百靈": {
+    "cn": "大短趾百靈",
+    "sn": "Calandrella brachydactyla",
+    "en": "Greater Short-toed Lark",
+    "es": [
+      "GSTL",
+      "CABR"
+    ]
+  },
+  "賽氏短趾百靈": {
+    "cn": "賽氏短趾百靈",
+    "sn": "Calandrella dukhunensis",
+    "en": "Sykes's Short-toed Lark",
+    "es": [
+      "MSTL",
+      "ESTL",
+      "SSTL",
+      "CADU"
+    ]
+  },
+  "大/賽氏短趾百零": {
+    "cn": "大/賽氏短趾百零",
+    "sn": "Calandrella brachydactyla/dukhunensis",
+    "en": "Greater/Sykes's Short-toed Lark",
+    "es": []
+  },
+  "百靈屬(XX百靈)": {
+    "cn": "百靈屬",
+    "sn": "Calandrella sp.",
+    "en": "Calandrella sp.",
+    "es": []
+  },
+  "亞洲短趾百靈": {
+    "cn": "亞洲短趾百靈",
+    "sn": "Alaudala cheleensis",
+    "en": "Asian Short-toed Lark",
+    "es": [
+      "ASTL",
+      "ALCH"
+    ]
+  },
+  "大/亞洲/小短趾百靈": {
+    "cn": "大/亞洲/小短趾百靈",
+    "sn": "Calandrella brachydactyla/Alaudala cheleensis/rufescens",
+    "en": "Greater/Asian/Lesser Short-toed Lark",
+    "es": []
+  },
+  "大/小短趾百零": {
+    "cn": "大/小短趾百零",
+    "sn": "Calandrella brachydactyla/Alaudala rufescens",
+    "en": "Greater/Lesser Short-toed Lark",
+    "es": []
+  },
+  "亞洲/小短趾百靈": {
+    "cn": "亞洲/小短趾百靈",
+    "sn": "Alaudala cheleensis/rufescens",
+    "en": "Asian/Lesser Short-toed Lark",
+    "es": []
+  },
+  "短趾百靈類": {
+    "cn": "短趾百靈類",
+    "sn": "Calandrella/Alaudala sp.",
+    "en": "Calandrella/Alaudala sp.",
+    "es": []
+  },
+  "歐亞雲雀": {
+    "cn": "歐亞雲雀",
+    "sn": "Alauda arvensis",
+    "en": "Eurasian Skylark",
+    "es": [
+      "EUSK",
+      "SKYL",
+      "ALAR"
+    ]
+  },
+  "小雲雀": {
+    "cn": "小雲雀",
+    "sn": "Alauda gulgula",
+    "en": "Oriental Skylark",
+    "es": [
+      "ORSK",
+      "ALGU"
+    ]
+  },
+  "歐亞/小雲雀": {
+    "cn": "歐亞/小雲雀",
+    "sn": "Alauda arvensis/gulgula",
+    "en": "Eurasian/Oriental Skylark",
+    "es": [
+      "EUSK",
+      "SKYL",
+      "ORSK",
+      "ALAR",
+      "ALGU"
+    ]
+  },
+  "百靈科(XX百靈)": {
+    "cn": "百靈科",
+    "sn": "Alaudidae sp.",
+    "en": "lark sp.",
+    "es": []
+  },
+  "斑紋鷦鶯": {
+    "cn": "斑紋鷦鶯",
+    "sn": "Prinia crinigera",
+    "en": "Striated Prinia",
+    "es": [
+      "STPR",
+      "PRCR"
+    ]
+  },
+  "灰頭鷦鶯": {
+    "cn": "灰頭鷦鶯",
+    "sn": "Prinia flaviventris",
+    "en": "Yellow-bellied Prinia",
+    "es": [
+      "YBPR",
+      "PRFL"
+    ]
+  },
+  "褐頭鷦鶯": {
+    "cn": "褐頭鷦鶯",
+    "sn": "Prinia inornata",
+    "en": "Plain Prinia",
+    "es": [
+      "PLPR",
+      "PRIN"
+    ]
+  },
+  "鷦鶯屬(XX鷦鶯)": {
+    "cn": "鷦鶯屬",
+    "sn": "Prinia sp.",
+    "en": "prinia sp.",
+    "es": []
+  },
+  "棕扇尾鶯": {
+    "cn": "棕扇尾鶯",
+    "sn": "Cisticola juncidis",
+    "en": "Zitting Cisticola",
+    "es": [
+      "ZICI",
+      "CIJU"
+    ]
+  },
+  "黃頭扇尾鶯": {
+    "cn": "黃頭扇尾鶯",
+    "sn": "Cisticola exilis",
+    "en": "Golden-headed Cisticola",
+    "es": [
+      "GHCI",
+      "CIEX"
+    ]
+  },
+  "扇尾鶯屬(XX扇尾鶯)": {
+    "cn": "扇尾鶯屬",
+    "sn": "Cisticola sp.",
+    "en": "cisticola sp.",
+    "es": []
+  },
+  "厚嘴葦鶯": {
+    "cn": "厚嘴葦鶯",
+    "sn": "Arundinax aedon",
+    "en": "Thick-billed Warbler",
+    "es": [
+      "TBWA",
+      "ARAE"
+    ]
+  },
+  "靴籬鶯": {
+    "cn": "靴籬鶯",
+    "sn": "Iduna caligata",
+    "en": "Booted Warbler",
+    "es": [
+      "BOWA",
+      "IDCA"
+    ]
+  },
+  "雙眉葦鶯": {
+    "cn": "雙眉葦鶯",
+    "sn": "Acrocephalus bistrigiceps",
+    "en": "Black-browed Reed Warbler",
+    "es": [
+      "BBRW",
+      "ACBI"
+    ]
+  },
+  "細紋葦鶯": {
+    "cn": "細紋葦鶯",
+    "sn": "Acrocephalus sorghophilus",
+    "en": "Streaked Reed Warbler",
+    "es": [
+      "SRWA",
+      "ACSO"
+    ]
+  },
+  "稻田葦鶯": {
+    "cn": "稻田葦鶯",
+    "sn": "Acrocephalus agricola",
+    "en": "Paddyfield Warbler",
+    "es": [
+      "PAWA",
+      "ACAG"
+    ]
+  },
+  "鈍翅葦鶯": {
+    "cn": "鈍翅葦鶯",
+    "sn": "Acrocephalus concinens",
+    "en": "Blunt-winged Warbler",
+    "es": [
+      "BWWA",
+      "ACCO"
+    ]
+  },
+  "遠東葦鶯": {
+    "cn": "遠東葦鶯",
+    "sn": "Acrocephalus tangorum",
+    "en": "Manchurian Reed Warbler",
+    "es": [
+      "MRWA",
+      "ACTA"
+    ]
+  },
+  "布氏葦鶯": {
+    "cn": "布氏葦鶯",
+    "sn": "Acrocephalus dumetorum",
+    "en": "Blyth's Reed Warbler",
+    "es": [
+      "BREW",
+      "BRWA",
+      "ACDU"
+    ]
+  },
+  "東方大葦鶯": {
+    "cn": "東方大葦鶯",
+    "sn": "Acrocephalus orientalis",
+    "en": "Oriental Reed Warbler",
+    "es": [
+      "ORWA",
+      "ACOR"
+    ]
+  },
+  "葦鶯屬(XX葦鶯)": {
+    "cn": "葦鶯屬",
+    "sn": "Acrocephalus sp.",
+    "en": "Acrocephalus sp.",
+    "es": []
+  },
+  "蒼眉蝗鶯": {
+    "cn": "蒼眉蝗鶯",
+    "sn": "Locustella fasciolata",
+    "en": "Gray's Grasshopper-Warbler",
+    "es": [
+      "GRGW",
+      "GGWA",
+      "LOFA"
+    ]
+  },
+  "庫頁島蝗鶯": {
+    "cn": "庫頁島蝗鶯",
+    "sn": "Locustella amnicola",
+    "en": "Sakhalin Grasshopper-Warbler",
+    "es": [
+      "SAGW",
+      "SGWA",
+      "LOAM"
+    ]
+  },
+  "蒼眉/庫頁島蝗鶯": {
+    "cn": "蒼眉/庫頁島蝗鶯",
+    "sn": "Locustella fasciolata/amnicola",
+    "en": "Gray's/Sakhalin Grasshopper-Warbler",
+    "es": []
+  },
+  "小蝗鶯": {
+    "cn": "小蝗鶯",
+    "sn": "Locustella certhiola",
+    "en": "Pallas's Grasshopper-Warbler",
+    "es": [
+      "PGWA",
+      "PAGW",
+      "LOCE"
+    ]
+  },
+  "北蝗鶯": {
+    "cn": "北蝗鶯",
+    "sn": "Locustella ochotensis",
+    "en": "Middendorff's Grasshopper-Warbler",
+    "es": [
+      "MIGW",
+      "MGWA",
+      "LOOC"
+    ]
+  },
+  "史氏蝗鶯": {
+    "cn": "史氏蝗鶯",
+    "sn": "Locustella pleskei",
+    "en": "Pleske's Grasshopper-Warbler",
+    "es": [
+      "SGWA",
+      "PGWA",
+      "PLGW",
+      "LOPL"
+    ]
+  },
+  "北蝗鶯/史氏蝗鶯": {
+    "cn": "北蝗鶯/史氏蝗鶯",
+    "sn": "Locustella ochotensis/pleskei",
+    "en": "Middendorff's/Pleske's Grasshopper-Warbler",
+    "es": []
+  },
+  "矛斑蝗鶯": {
+    "cn": "矛斑蝗鶯",
+    "sn": "Locustella lanceolata",
+    "en": "Lanceolated Warbler",
+    "es": [
+      "LANW",
+      "LAWA",
+      "LOLA"
+    ]
+  },
+  "台灣叢樹鶯": {
+    "cn": "台灣叢樹鶯",
+    "sn": "Locustella alishanensis",
+    "en": "Taiwan Bush Warbler",
+    "es": [
+      "TBWA",
+      "LOAL"
+    ]
+  },
+  "赤褐蝗鶯": {
+    "cn": "赤褐蝗鶯",
+    "sn": "Locustella mandelli",
+    "en": "Russet Bush Warbler",
+    "es": [
+      "RBWA",
+      "LOMA"
+    ]
+  },
+  "蝗鶯屬(XX蝗鶯)": {
+    "cn": "蝗鶯屬",
+    "sn": "Locustella sp.",
+    "en": "Locustella sp.",
+    "es": []
+  },
+  "台灣鷦眉": {
+    "cn": "台灣鷦眉",
+    "sn": "Pnoepyga formosana",
+    "en": "Taiwan Cupwing",
+    "es": [
+      "TACU",
+      "PNFO"
+    ]
+  },
+  "鱗胸鷦鷯": {
+    "cn": "台灣鷦眉",
+    "sn": "Pnoepyga formosana",
+    "en": "Taiwan Cupwing",
+    "es": [
+      "TACU",
+      "PNFO"
+    ]
+  },
+  "棕沙燕": {
+    "cn": "棕沙燕",
+    "sn": "Riparia chinensis",
+    "en": "Gray-throated Martin",
+    "es": [
+      "GTMA",
+      "APMA",
+      "RICH"
+    ]
+  },
+  "灰沙燕": {
+    "cn": "灰沙燕",
+    "sn": "Riparia riparia",
+    "en": "Bank Swallow",
+    "es": [
+      "BANS",
+      "SAMA",
+      "BASW",
+      "CSMA",
+      "RIRI"
+    ]
+  },
+  "棕沙燕/灰沙燕": {
+    "cn": "棕沙燕/灰沙燕",
+    "sn": "Riparia chinensis/riparia",
+    "en": "Gray-throated Martin/Bank Swallow",
+    "es": []
+  },
+  "沙燕屬": {
+    "cn": "沙燕屬",
+    "sn": "Riparia sp.",
+    "en": "Riparia sp.",
+    "es": []
+  },
+  "家燕": {
+    "cn": "家燕",
+    "sn": "Hirundo rustica",
+    "en": "Barn Swallow",
+    "es": [
+      "BARS",
+      "BASW",
+      "HIRU"
+    ]
+  },
+  "洋燕": {
+    "cn": "洋燕",
+    "sn": "Hirundo tahitica",
+    "en": "Pacific Swallow",
+    "es": [
+      "PASW",
+      "HITA"
+    ]
+  },
+  "家/洋燕": {
+    "cn": "家/洋燕",
+    "sn": "Hirundo rustica/tahitica",
+    "en": "Barn/Pacific Swallow",
+    "es": [
+      "PASW",
+      "BASW",
+      "BARS",
+      "HIRU",
+      "HITA"
+    ]
+  },
+  "金腰燕": {
+    "cn": "金腰燕",
+    "sn": "Cecropis daurica",
+    "en": "Red-rumped Swallow",
+    "es": [
+      "RRAS",
+      "RRSW",
+      "CEDA"
+    ]
+  },
+  "赤腰燕": {
+    "cn": "赤腰燕",
+    "sn": "Cecropis striolata",
+    "en": "Striated Swallow",
+    "es": [
+      "STSW",
+      "CEST"
+    ]
+  },
+  "金腰/赤腰燕": {
+    "cn": "金腰/赤腰燕",
+    "sn": "Cecropis daurica/striolata",
+    "en": "Red-rumped/Striated Swallow",
+    "es": [
+      "RRAS",
+      "RRSW",
+      "STSW",
+      "CEST",
+      "CEDA"
+    ]
+  },
+  "白腹毛腳燕": {
+    "cn": "白腹毛腳燕",
+    "sn": "Delichon urbicum",
+    "en": "Common House-Martin",
+    "es": [
+      "COHM",
+      "CHMA",
+      "DEUR"
+    ]
+  },
+  "東方毛腳燕": {
+    "cn": "東方毛腳燕",
+    "sn": "Delichon dasypus",
+    "en": "Asian House-Martin",
+    "es": [
+      "ASHM",
+      "AHMA",
+      "DEDA"
+    ]
+  },
+  "白腹/東方毛腳燕(XX毛腳燕)": {
+    "cn": "白腹/東方毛腳燕",
+    "sn": "Delichon urbicum/dasypus",
+    "en": "Common/Asian House-Martin",
+    "es": []
+  },
+  "燕科(XX燕)": {
+    "cn": "燕科",
+    "sn": "Hirundinidae sp.",
+    "en": "swallow sp.",
+    "es": [
+      "UNSW"
+    ]
+  },
+  "白環鸚嘴鵯": {
+    "cn": "白環鸚嘴鵯",
+    "sn": "Spizixos semitorques",
+    "en": "Collared Finchbill",
+    "es": [
+      "COFI",
+      "SPSE"
+    ]
+  },
+  "烏頭翁": {
+    "cn": "烏頭翁",
+    "sn": "Pycnonotus taivanus",
+    "en": "Styan's Bulbul",
+    "es": [
+      "STBU",
+      "PYTA"
+    ]
+  },
+  "紅耳鵯": {
+    "cn": "紅耳鵯",
+    "sn": "Pycnonotus jocosus",
+    "en": "Red-whiskered Bulbul",
+    "es": [
+      "RWBU",
+      "PYJO"
+    ]
+  },
+  "白頭翁": {
+    "cn": "白頭翁",
+    "sn": "Pycnonotus sinensis",
+    "en": "Light-vented Bulbul",
+    "es": [
+      "LVBU",
+      "PYSI"
+    ]
+  },
+  "雜頭翁": {
+    "cn": "雜頭翁",
+    "sn": "Pycnonotus taivanus x sinensis",
+    "en": "Styan's x Light-vented Bulbul (hybrid)",
+    "es": [
+      "LVBU",
+      "STBU",
+      "PYSI",
+      "PYTA"
+    ]
+  },
+  "烏頭/白頭翁": {
+    "cn": "烏頭/白頭翁",
+    "sn": "Pycnonotus taivanus/sinensis",
+    "en": "Styan's/Light-vented Bulbul",
+    "es": [
+      "STBU",
+      "LVBU",
+      "PYSI",
+      "PYTA"
+    ]
+  },
+  "白喉紅臀鵯": {
+    "cn": "白喉紅臀鵯",
+    "sn": "Pycnonotus aurigaster",
+    "en": "Sooty-headed Bulbul",
+    "es": [
+      "SHBU",
+      "PYAU"
+    ]
+  },
+  "鵯屬": {
+    "cn": "鵯屬",
+    "sn": "Pycnonotus sp.",
+    "en": "Pycnonotus sp.",
+    "es": []
+  },
+  "紅嘴黑鵯": {
+    "cn": "紅嘴黑鵯",
+    "sn": "Hypsipetes leucocephalus",
+    "en": "Black Bulbul",
+    "es": [
+      "HBBU",
+      "BLBU",
+      "HYLE"
+    ]
+  },
+  "紅嘴黑鵯(白頭)": {
+    "cn": "紅嘴黑鵯(白頭)",
+    "sn": "Hypsipetes leucocephalus [leucocephalus Group]",
+    "en": "Black Bulbul (leucocephalus Group)",
+    "es": []
+  },
+  "棕耳鵯": {
+    "cn": "棕耳鵯",
+    "sn": "Hypsipetes amaurotis",
+    "en": "Brown-eared Bulbul",
+    "es": [
+      "BEBU",
+      "HYAM"
+    ]
+  },
+  "栗背短腳鵯": {
+    "cn": "栗背短腳鵯",
+    "sn": "Hemixos castanonotus",
+    "en": "Chestnut Bulbul",
+    "es": [
+      "CHBU",
+      "HECA"
+    ]
+  },
+  "林柳鶯": {
+    "cn": "林柳鶯",
+    "sn": "Phylloscopus sibilatrix",
+    "en": "Wood Warbler",
+    "es": [
+      "WOWA",
+      "PHSI"
+    ]
+  },
+  "黃眉柳鶯": {
+    "cn": "黃眉柳鶯",
+    "sn": "Phylloscopus inornatus",
+    "en": "Yellow-browed Warbler",
+    "es": [
+      "YBWA",
+      "PHIN"
+    ]
+  },
+  "淡眉柳鶯": {
+    "cn": "淡眉柳鶯",
+    "sn": "Phylloscopus humei",
+    "en": "Hume's Warbler",
+    "es": [
+      "HUWA",
+      "HLWA",
+      "PHHU"
+    ]
+  },
+  "黃眉/淡眉柳鶯": {
+    "cn": "黃眉/淡眉柳鶯",
+    "sn": "Phylloscopus inornatus/humei",
+    "en": "Yellow-browed/Hume's Warbler",
+    "es": []
+  },
+  "雲南柳鶯": {
+    "cn": "雲南柳鶯",
+    "sn": "Phylloscopus yunnanensis",
+    "en": "Chinese Leaf Warbler",
+    "es": [
+      "CLWA",
+      "PHYU"
+    ]
+  },
+  "黃腰柳鶯": {
+    "cn": "黃腰柳鶯",
+    "sn": "Phylloscopus proregulus",
+    "en": "Pallas's Leaf Warbler",
+    "es": [
+      "PLEW",
+      "PAWA",
+      "PLWA",
+      "PHPR"
+    ]
+  },
+  "巨嘴柳鶯": {
+    "cn": "巨嘴柳鶯",
+    "sn": "Phylloscopus schwarzi",
+    "en": "Radde's Warbler",
+    "es": [
+      "RAWA",
+      "PHSC"
+    ]
+  },
+  "棕眉柳鶯": {
+    "cn": "棕眉柳鶯",
+    "sn": "Phylloscopus armandii",
+    "en": "Yellow-streaked Warbler",
+    "es": [
+      "YSWA",
+      "PHAR"
+    ]
+  },
+  "黃腹柳鶯": {
+    "cn": "黃腹柳鶯",
+    "sn": "Phylloscopus affinis",
+    "en": "Tickell's Leaf Warbler",
+    "es": [
+      "TLWA",
+      "PHAF"
+    ]
+  },
+  "褐色柳鶯": {
+    "cn": "褐色柳鶯",
+    "sn": "Phylloscopus fuscatus",
+    "en": "Dusky Warbler",
+    "es": [
+      "DUWA",
+      "PHFU"
+    ]
+  },
+  "巨嘴/褐色柳鶯": {
+    "cn": "巨嘴/褐色柳鶯",
+    "sn": "Phylloscopus schwarzi/fuscatus",
+    "en": "Radde's/Dusky Warbler",
+    "es": []
+  },
+  "棕腹柳鶯": {
+    "cn": "棕腹柳鶯",
+    "sn": "Phylloscopus subaffinis",
+    "en": "Buff-throated Warbler",
+    "es": [
+      "BTWA",
+      "PHSU"
+    ]
+  },
+  "歐亞柳鶯": {
+    "cn": "歐亞柳鶯",
+    "sn": "Phylloscopus trochilus",
+    "en": "Willow Warbler",
+    "es": [
+      "WILW",
+      "WIWA",
+      "PHTR"
+    ]
+  },
+  "東方嘰咋柳鶯": {
+    "cn": "東方嘰咋柳鶯",
+    "sn": "Phylloscopus sindianus",
+    "en": "Mountain Chiffchaff",
+    "es": [
+      "MOCH",
+      "PHSI"
+    ]
+  },
+  "嘰喳柳鶯": {
+    "cn": "嘰喳柳鶯",
+    "sn": "Phylloscopus collybita",
+    "en": "Common Chiffchaff",
+    "es": [
+      "CCHI",
+      "COCH",
+      "PHCO"
+    ]
+  },
+  "歐亞/嘰喳柳鶯": {
+    "cn": "歐亞/嘰喳柳鶯",
+    "sn": "Phylloscopus trochilus/collybita",
+    "en": "Willow Warbler/Common Chiffchaff",
+    "es": []
+  },
+  "冠羽柳鶯": {
+    "cn": "冠羽柳鶯",
+    "sn": "Phylloscopus coronatus",
+    "en": "Eastern Crowned Warbler",
+    "es": [
+      "ECWA",
+      "PHCO"
+    ]
+  },
+  "飯島柳鶯": {
+    "cn": "飯島柳鶯",
+    "sn": "Phylloscopus ijimae",
+    "en": "Ijima's Leaf Warbler",
+    "es": [
+      "ILWA",
+      "PHIJ"
+    ]
+  },
+  "白眶鶲鶯": {
+    "cn": "白眶鶲鶯",
+    "sn": "Phylloscopus intermedius",
+    "en": "White-spectacled Warbler",
+    "es": [
+      "WSWA",
+      "PHIN"
+    ]
+  },
+  "比氏鶲鶯": {
+    "cn": "比氏鶲鶯",
+    "sn": "Phylloscopus valentini",
+    "en": "Bianchi's Warbler",
+    "es": [
+      "BIWA",
+      "PHVA"
+    ]
+  },
+  "淡尾鶲鶯": {
+    "cn": "淡尾鶲鶯",
+    "sn": "Phylloscopus soror",
+    "en": "Alström's Warbler",
+    "es": [
+      "ALWA",
+      "PHSO"
+    ]
+  },
+  "金眶鶲鶯複合群": {
+    "cn": "金眶鶲鶯複合群",
+    "sn": "Phylloscopus sp. (burkii complex)",
+    "en": "Phylloscopus sp. (Golden-spectacled Warbler complex)",
+    "es": []
+  },
+  "暗綠柳鶯": {
+    "cn": "暗綠柳鶯",
+    "sn": "Phylloscopus trochiloides",
+    "en": "Greenish Warbler",
+    "es": [
+      "GRWA",
+      "PHTR"
+    ]
+  },
+  "雙斑綠柳鶯": {
+    "cn": "雙斑綠柳鶯",
+    "sn": "Phylloscopus plumbeitarsus",
+    "en": "Two-barred Warbler",
+    "es": [
+      "TBWA",
+      "PHPL"
+    ]
+  },
+  "暗綠/雙斑綠柳鶯": {
+    "cn": "暗綠/雙斑綠柳鶯",
+    "sn": "Phylloscopus trochiloides/plumbeitarsus",
+    "en": "Greenish/Two-barred Warbler",
+    "es": []
+  },
+  "淡腳柳鶯": {
+    "cn": "淡腳柳鶯",
+    "sn": "Phylloscopus tenellipes",
+    "en": "Pale-legged Leaf Warbler",
+    "es": [
+      "PLLW",
+      "PHTE"
+    ]
+  },
+  "庫頁島柳鶯": {
+    "cn": "庫頁島柳鶯",
+    "sn": "Phylloscopus borealoides",
+    "en": "Sakhalin Leaf Warbler",
+    "es": [
+      "SLWA",
+      "PHBO"
+    ]
+  },
+  "淡腳/庫頁島柳鶯": {
+    "cn": "淡腳/庫頁島柳鶯",
+    "sn": "Phylloscopus tenellipes/borealoides",
+    "en": "Pale-legged/Sakhalin Leaf Warbler",
+    "es": []
+  },
+  "日本柳鶯": {
+    "cn": "日本柳鶯",
+    "sn": "Phylloscopus xanthodryas",
+    "en": "Japanese Leaf Warbler",
+    "es": [
+      "JLWA",
+      "PHXA"
+    ]
+  },
+  "極北柳鶯": {
+    "cn": "極北柳鶯",
+    "sn": "Phylloscopus borealis",
+    "en": "Arctic Warbler",
+    "es": [
+      "ARWA",
+      "PHBO"
+    ]
+  },
+  "日本/極北柳鶯": {
+    "cn": "日本/極北柳鶯",
+    "sn": "Phylloscopus xanthodryas/borealis",
+    "en": "Japanese Leaf/Arctic Warbler",
+    "es": []
+  },
+  "勘察加柳鶯": {
+    "cn": "勘察加柳鶯",
+    "sn": "Phylloscopus examinandus",
+    "en": "Kamchatka Leaf Warbler",
+    "es": [
+      "KLWA",
+      "PHEX"
+    ]
+  },
+  "極北/勘察加柳鶯": {
+    "cn": "極北/勘察加柳鶯",
+    "sn": "Phylloscopus borealis/examinandus",
+    "en": "Arctic/Kamchatka Leaf Warbler",
+    "es": [
+      "AKLW",
+      "KLWA",
+      "ARWA",
+      "PHBO",
+      "PHEX"
+    ]
+  },
+  "日本/極北/勘察加柳鶯": {
+    "cn": "日本/極北/勘察加柳鶯",
+    "sn": "Phylloscopus xanthodryas/borealis/examinandus",
+    "en": "Japanese Leaf/Arctic/Kamchatka Leaf Warbler",
+    "es": []
+  },
+  "栗頭鶲鶯": {
+    "cn": "栗頭鶲鶯",
+    "sn": "Phylloscopus castaniceps",
+    "en": "Chestnut-crowned Warbler",
+    "es": [
+      "CCWA",
+      "PHCA"
+    ]
+  },
+  "黑眉柳鶯": {
+    "cn": "黑眉柳鶯",
+    "sn": "Phylloscopus ricketti",
+    "en": "Sulphur-breasted Warbler",
+    "es": [
+      "SBWA",
+      "PHRI"
+    ]
+  },
+  "克氏冠紋柳鶯": {
+    "cn": "克氏冠紋柳鶯",
+    "sn": "Phylloscopus claudiae",
+    "en": "Claudia's Leaf Warbler",
+    "es": [
+      "CLWA",
+      "PHCL"
+    ]
+  },
+  "哈氏冠紋柳鶯": {
+    "cn": "哈氏冠紋柳鶯",
+    "sn": "Phylloscopus goodsoni",
+    "en": "Hartert's Leaf Warbler",
+    "es": [
+      "HLWA",
+      "PHGO"
+    ]
+  },
+  "克氏/哈氏/布氏冠紋柳鶯": {
+    "cn": "克氏/哈氏/布氏冠紋柳鶯",
+    "sn": "Phylloscopus reguloides/claudiae/goodsoni",
+    "en": "Blyth's/Claudia's/Hartert's Leaf Warbler",
+    "es": []
+  },
+  "柳鶯屬(XX柳鶯)": {
+    "cn": "柳鶯屬",
+    "sn": "Phylloscopus sp.",
+    "en": "Phylloscopus sp.",
+    "es": []
+  },
+  "短尾鶯": {
+    "cn": "短尾鶯",
+    "sn": "Urosphena squameiceps",
+    "en": "Asian Stubtail",
+    "es": [
+      "ASST",
+      "URSQ"
+    ]
+  },
+  "棕面鶯": {
+    "cn": "棕面鶯",
+    "sn": "Abroscopus albogularis",
+    "en": "Rufous-faced Warbler",
+    "es": [
+      "RFWA",
+      "ABAL"
+    ]
+  },
+  "日本樹鶯": {
+    "cn": "日本樹鶯",
+    "sn": "Horornis diphone",
+    "en": "Japanese Bush Warbler",
+    "es": [
+      "JABW",
+      "JBWA",
+      "HODI"
+    ]
+  },
+  "遠東樹鶯": {
+    "cn": "遠東樹鶯",
+    "sn": "Horornis canturians",
+    "en": "Manchurian Bush Warbler",
+    "es": [
+      "MBWA",
+      "HOCA"
+    ]
+  },
+  "日本/遠東樹鶯(短翅樹鶯)": {
+    "cn": "日本/遠東樹鶯",
+    "sn": "Horornis diphone/canturians",
+    "en": "Japanese/Manchurian Bush Warbler",
+    "es": [
+      "JBWA",
+      "JABW",
+      "MBWA",
+      "HOCA",
+      "HODI"
+    ]
+  },
+  "小鶯": {
+    "cn": "小鶯",
+    "sn": "Horornis fortipes",
+    "en": "Brownish-flanked Bush Warbler",
+    "es": [
+      "BFBW",
+      "HOFO"
+    ]
+  },
+  "深山鶯": {
+    "cn": "深山鶯",
+    "sn": "Horornis acanthizoides",
+    "en": "Yellowish-bellied Bush Warbler",
+    "es": [
+      "YBBW",
+      "HOAC"
+    ]
+  },
+  "小鶯/深山鶯": {
+    "cn": "小鶯/深山鶯",
+    "sn": "Horornis fortipes/acanthizoides",
+    "en": "Brownish-flanked/Yellowish-bellied Bush Warbler",
+    "es": []
+  },
+  "樹鶯屬(XX樹鶯)": {
+    "cn": "樹鶯屬",
+    "sn": "Horornis sp.",
+    "en": "bush warbler sp.",
+    "es": []
+  },
+  "紅頭山雀": {
+    "cn": "紅頭山雀",
+    "sn": "Aegithalos concinnus",
+    "en": "Black-throated Tit",
+    "es": [
+      "BTTI",
+      "BTBU",
+      "AECO"
+    ]
+  },
+  "漠地林鶯": {
+    "cn": "漠地林鶯",
+    "sn": "Sylvia nana",
+    "en": "Asian Desert Warbler",
+    "es": [
+      "ADWA",
+      "SYNA"
+    ]
+  },
+  "白喉林鶯": {
+    "cn": "白喉林鶯",
+    "sn": "Sylvia curruca",
+    "en": "Lesser Whitethroat",
+    "es": [
+      "LEWH",
+      "SYCU"
+    ]
+  },
+  "林鶯屬(XX林鶯)": {
+    "cn": "林鶯屬",
+    "sn": "Sylvia sp.",
+    "en": "Sylvia sp.",
+    "es": []
+  },
+  "褐頭花翼": {
+    "cn": "褐頭花翼",
+    "sn": "Fulvetta formosana",
+    "en": "Taiwan Fulvetta",
+    "es": [
+      "TAFU",
+      "FUFO"
+    ]
+  },
+  "粉紅鸚嘴": {
+    "cn": "粉紅鸚嘴",
+    "sn": "Sinosuthora webbiana",
+    "en": "Vinous-throated Parrotbill",
+    "es": [
+      "VTPA",
+      "SIWE"
+    ]
+  },
+  "黃羽鸚嘴": {
+    "cn": "黃羽鸚嘴",
+    "sn": "Suthora verreauxi",
+    "en": "Golden Parrotbill",
+    "es": [
+      "GOPA",
+      "SUVE"
+    ]
+  },
+  "栗耳鳳鶥": {
+    "cn": "栗耳鳳鶥",
+    "sn": "Yuhina torqueola",
+    "en": "Indochinese Yuhina",
+    "es": [
+      "INYU",
+      "YUTO"
+    ]
+  },
+  "冠羽畫眉": {
+    "cn": "冠羽畫眉",
+    "sn": "Yuhina brunneiceps",
+    "en": "Taiwan Yuhina",
+    "es": [
+      "TAYU",
+      "YUBR"
+    ]
+  },
+  "紅脇繡眼": {
+    "cn": "紅脇繡眼",
+    "sn": "Zosterops erythropleurus",
+    "en": "Chestnut-flanked White-eye",
+    "es": [
+      "CFWE",
+      "ZOER"
+    ]
+  },
+  "日菲繡眼": {
+    "cn": "日菲繡眼",
+    "sn": "Zosterops japonicus",
+    "en": "Warbling White-eye",
+    "es": [
+      "WAWE",
+      "WWEY",
+      "ZOJA"
+    ]
+  },
+  "斯氏繡眼": {
+    "cn": "斯氏繡眼",
+    "sn": "Zosterops simplex",
+    "en": "Swinhoe's White-eye",
+    "es": [
+      "SWWE",
+      "SWEY",
+      "ZOSI"
+    ]
+  },
+  "綠繡眼": {
+    "cn": "斯氏繡眼",
+    "sn": "Zosterops simplex",
+    "en": "Swinhoe's White-eye",
+    "es": [
+      "SWWE",
+      "SWEY",
+      "ZOSI"
+    ]
+  },
+  "低地繡眼": {
+    "cn": "低地繡眼",
+    "sn": "Zosterops meyeni",
+    "en": "Lowland White-eye",
+    "es": [
+      "LWEY",
+      "LOWE",
+      "ZOME"
+    ]
+  },
+  "繡眼屬(XX繡眼)": {
+    "cn": "繡眼屬",
+    "sn": "Zosterops sp.",
+    "en": "Zosterops sp.",
+    "es": []
+  },
+  "繡眼科(XX繡眼)": {
+    "cn": "繡眼科",
+    "sn": "Zosteropidae sp.",
+    "en": "white-eye sp.",
+    "es": []
+  },
+  "山紅頭": {
+    "cn": "山紅頭",
+    "sn": "Cyanoderma ruficeps",
+    "en": "Rufous-capped Babbler",
+    "es": [
+      "RCBA",
+      "CYRU"
+    ]
+  },
+  "小彎嘴": {
+    "cn": "小彎嘴",
+    "sn": "Pomatorhinus musicus",
+    "en": "Taiwan Scimitar-Babbler",
+    "es": [
+      "TSBA",
+      "TASB",
+      "POMU"
+    ]
+  },
+  "大彎嘴": {
+    "cn": "大彎嘴",
+    "sn": "Megapomatorhinus erythrocnemis",
+    "en": "Black-necklaced Scimitar-Babbler",
+    "es": [
+      "BNSB",
+      "MEER"
+    ]
+  },
+  "頭烏線": {
+    "cn": "頭烏線",
+    "sn": "Schoeniparus brunneus",
+    "en": "Dusky Fulvetta",
+    "es": [
+      "DUFU",
+      "SCBR"
+    ]
+  },
+  "繡眼畫眉": {
+    "cn": "繡眼畫眉",
+    "sn": "Alcippe morrisonia",
+    "en": "Morrison's Fulvetta",
+    "es": [
+      "MOFU",
+      "GCFU",
+      "ALMO"
+    ]
+  },
+  "黑臉噪鶥": {
+    "cn": "黑臉噪鶥",
+    "sn": "Garrulax perspicillatus",
+    "en": "Masked Laughingthrush",
+    "es": [
+      "MALA",
+      "GAPE"
+    ]
+  },
+  "大陸畫眉": {
+    "cn": "大陸畫眉",
+    "sn": "Garrulax canorus",
+    "en": "Chinese Hwamei",
+    "es": [
+      "HWAM",
+      "CHHW",
+      "GACA"
+    ]
+  },
+  "台灣畫眉": {
+    "cn": "台灣畫眉",
+    "sn": "Garrulax taewanus",
+    "en": "Taiwan Hwamei",
+    "es": [
+      "TAHW",
+      "GATA"
+    ]
+  },
+  "台灣/大陸畫眉": {
+    "cn": "台灣/大陸畫眉",
+    "sn": "Garrulax canorus/taewanus",
+    "en": "Chinese/Taiwan Hwamei",
+    "es": [
+      "HWAM",
+      "TAHW",
+      "CHHW",
+      "GACA",
+      "GATA"
+    ]
+  },
+  "噪眉屬(XX噪眉)": {
+    "cn": "噪眉屬",
+    "sn": "Garrulax sp.",
+    "en": "Garrulax sp.",
+    "es": []
+  },
+  "台灣白喉噪眉": {
+    "cn": "台灣白喉噪眉",
+    "sn": "Ianthocincla ruficeps",
+    "en": "Rufous-crowned Laughingthrush",
+    "es": [
+      "RCLA",
+      "IARU"
+    ]
+  },
+  "黑喉噪眉": {
+    "cn": "黑喉噪眉",
+    "sn": "Ianthocincla chinensis",
+    "en": "Black-throated Laughingthrush",
+    "es": [
+      "BTLA",
+      "IACH"
+    ]
+  },
+  "棕噪眉": {
+    "cn": "棕噪眉",
+    "sn": "Ianthocincla poecilorhyncha",
+    "en": "Rusty Laughingthrush",
+    "es": [
+      "RULA",
+      "IAPO"
+    ]
+  },
+  "竹鳥": {
+    "cn": "棕噪眉",
+    "sn": "Ianthocincla poecilorhyncha",
+    "en": "Rusty Laughingthrush",
+    "es": [
+      "RULA",
+      "IAPO"
+    ]
+  },
+  "白頰噪眉": {
+    "cn": "白頰噪眉",
+    "sn": "Ianthocincla sannio",
+    "en": "White-browed Laughingthrush",
+    "es": [
+      "WBLA",
+      "IASA"
+    ]
+  },
+  "藍噪眉屬": {
+    "cn": "藍噪眉屬",
+    "sn": "Ianthocincla sp.",
+    "en": "Ianthocincla sp.",
+    "es": []
+  },
+  "台灣噪眉": {
+    "cn": "台灣噪眉",
+    "sn": "Trochalopteron morrisonianum",
+    "en": "White-whiskered Laughingthrush",
+    "es": [
+      "WWLA",
+      "TRMO"
+    ]
+  },
+  "金翼白眉": {
+    "cn": "台灣噪眉",
+    "sn": "Trochalopteron morrisonianum",
+    "en": "White-whiskered Laughingthrush",
+    "es": [
+      "WWLA",
+      "TRMO"
+    ]
+  },
+  "噪眉類": {
+    "cn": "噪眉類",
+    "sn": "Garrulax/Ianthocincla/Trochalopteron/Montecincla sp.",
+    "en": "laughingthrush sp.",
+    "es": []
+  },
+  "白耳畫眉": {
+    "cn": "白耳畫眉",
+    "sn": "Heterophasia auricularis",
+    "en": "White-eared Sibia",
+    "es": [
+      "WESI",
+      "HEAU"
+    ]
+  },
+  "紅嘴相思鳥": {
+    "cn": "紅嘴相思鳥",
+    "sn": "Leiothrix lutea",
+    "en": "Red-billed Leiothrix",
+    "es": [
+      "RBLE",
+      "LELU"
+    ]
+  },
+  "黃胸藪眉": {
+    "cn": "黃胸藪眉",
+    "sn": "Liocichla steerii",
+    "en": "Steere's Liocichla",
+    "es": [
+      "STLI",
+      "LIST"
+    ]
+  },
+  "藪鳥": {
+    "cn": "黃胸藪眉",
+    "sn": "Liocichla steerii",
+    "en": "Steere's Liocichla",
+    "es": [
+      "STLI",
+      "LIST"
+    ]
+  },
+  "紋翼畫眉": {
+    "cn": "紋翼畫眉",
+    "sn": "Actinodura morrisoniana",
+    "en": "Taiwan Barwing",
+    "es": [
+      "TABA",
+      "ACMO"
+    ]
+  },
+  "戴菊鳥": {
+    "cn": "戴菊鳥",
+    "sn": "Regulus regulus",
+    "en": "Goldcrest",
+    "es": [
+      "GOLD",
+      "RERE"
+    ]
+  },
+  "火冠戴菊鳥": {
+    "cn": "火冠戴菊鳥",
+    "sn": "Regulus goodfellowi",
+    "en": "Flamecrest",
+    "es": [
+      "FLAM",
+      "REGO"
+    ]
+  },
+  "茶腹鳾": {
+    "cn": "茶腹鳾",
+    "sn": "Sitta europaea",
+    "en": "Eurasian Nuthatch",
+    "es": [
+      "EUNU",
+      "SIEU"
+    ]
+  },
+  "鷦鷯": {
+    "cn": "鷦鷯",
+    "sn": "Troglodytes troglodytes",
+    "en": "Eurasian Wren",
+    "es": [
+      "EUWR",
+      "TRTR"
+    ]
+  },
+  "河烏": {
+    "cn": "河烏",
+    "sn": "Cinclus pallasii",
+    "en": "Brown Dipper",
+    "es": [
+      "BRDI",
+      "CIPA"
+    ]
+  },
+  "亞洲輝椋鳥": {
+    "cn": "輝椋鳥",
+    "sn": "Aplonis panayensis",
+    "en": "Asian Glossy Starling",
+    "es": [
+      "AGST",
+      "APPA"
+    ]
+  },
+  "九官鳥": {
+    "cn": "九官鳥",
+    "sn": "Gracula religiosa",
+    "en": "Common Hill Myna",
+    "es": [
+      "CHIM",
+      "CHMY",
+      "GRRE"
+    ]
+  },
+  "歐洲椋鳥": {
+    "cn": "歐洲椋鳥",
+    "sn": "Sturnus vulgaris",
+    "en": "European Starling",
+    "es": [
+      "EUST",
+      "COST",
+      "STVU"
+    ]
+  },
+  "粉紅椋鳥": {
+    "cn": "粉紅椋鳥",
+    "sn": "Pastor roseus",
+    "en": "Rosy Starling",
+    "es": [
+      "RCST",
+      "ROST",
+      "PARO"
+    ]
+  },
+  "北椋鳥": {
+    "cn": "北椋鳥",
+    "sn": "Agropsar sturninus",
+    "en": "Daurian Starling",
+    "es": [
+      "DAST",
+      "PBST",
+      "AGST"
+    ]
+  },
+  "小椋鳥": {
+    "cn": "小椋鳥",
+    "sn": "Agropsar philippensis",
+    "en": "Chestnut-cheeked Starling",
+    "es": [
+      "CCST",
+      "AGPH"
+    ]
+  },
+  "北/小椋鳥": {
+    "cn": "北/小椋鳥",
+    "sn": "Agropsar sturninus/philippensis",
+    "en": "Daurian/Chestnut-cheeked Starling",
+    "es": []
+  },
+  "黑領椋鳥": {
+    "cn": "黑領椋鳥",
+    "sn": "Gracupica nigricollis",
+    "en": "Black-collared Starling",
+    "es": [
+      "BCST",
+      "GRNI"
+    ]
+  },
+  "灰背椋鳥": {
+    "cn": "灰背椋鳥",
+    "sn": "Sturnia sinensis",
+    "en": "White-shouldered Starling",
+    "es": [
+      "WSST",
+      "STSI"
+    ]
+  },
+  "灰頭椋鳥": {
+    "cn": "灰頭椋鳥",
+    "sn": "Sturnia malabarica",
+    "en": "Chestnut-tailed Starling",
+    "es": [
+      "CTST",
+      "STMA"
+    ]
+  },
+  "栗尾椋鳥": {
+    "cn": "灰頭椋鳥",
+    "sn": "Sturnia malabarica",
+    "en": "Chestnut-tailed Starling",
+    "es": [
+      "CTST",
+      "STMA"
+    ]
+  },
+  "絲光椋鳥": {
+    "cn": "絲光椋鳥",
+    "sn": "Spodiopsar sericeus",
+    "en": "Red-billed Starling",
+    "es": [
+      "RBST",
+      "SPSE"
+    ]
+  },
+  "灰椋鳥": {
+    "cn": "灰椋鳥",
+    "sn": "Spodiopsar cineraceus",
+    "en": "White-cheeked Starling",
+    "es": [
+      "WCST",
+      "SPCI"
+    ]
+  },
+  "家八哥": {
+    "cn": "家八哥",
+    "sn": "Acridotheres tristis",
+    "en": "Common Myna",
+    "es": [
+      "COMY",
+      "PIHA",
+      "ACTR"
+    ]
+  },
+  "葡萄胸椋鳥": {
+    "cn": "葡萄胸椋鳥",
+    "sn": "Acridotheres burmannicus",
+    "en": "Vinous-breasted Starling",
+    "es": [
+      "VBST",
+      "ACBU"
+    ]
+  },
+  "林八哥": {
+    "cn": "林八哥",
+    "sn": "Acridotheres fuscus",
+    "en": "Jungle Myna",
+    "es": [
+      "JUMY",
+      "ACFU"
+    ]
+  },
+  "白尾八哥": {
+    "cn": "白尾八哥",
+    "sn": "Acridotheres javanicus",
+    "en": "Javan Myna",
+    "es": [
+      "JAMY",
+      "ACJA"
+    ]
+  },
+  "大八哥(叢八哥)": {
+    "cn": "大八哥(叢八哥)",
+    "sn": "Acridotheres grandis",
+    "en": "Great Myna",
+    "es": [
+      "GRMY",
+      "ACGR"
+    ]
+  },
+  "八哥(冠八哥)": {
+    "cn": "八哥(冠八哥)",
+    "sn": "Acridotheres cristatellus",
+    "en": "Crested Myna",
+    "es": [
+      "CRMY",
+      "ACCR"
+    ]
+  },
+  "八哥屬(XX八哥)": {
+    "cn": "八哥屬",
+    "sn": "Acridotheres sp.",
+    "en": "Acridotheres sp.",
+    "es": []
+  },
+  "椋鳥科(XX椋鳥)": {
+    "cn": "椋鳥科",
+    "sn": "Sturnidae sp.",
+    "en": "myna/starling sp.",
+    "es": []
+  },
+  "白氏地鶇": {
+    "cn": "白氏地鶇",
+    "sn": "Zoothera aurea",
+    "en": "White's Thrush",
+    "es": [
+      "WHTH",
+      "ZOAU"
+    ]
+  },
+  "虎斑地鶇": {
+    "cn": "虎斑地鶇",
+    "sn": "Zoothera dauma",
+    "en": "Scaly Thrush",
+    "es": [
+      "SCTH",
+      "ZODA"
+    ]
+  },
+  "虎斑地鶇(小虎鶇)": {
+    "cn": "虎斑地鶇(指名亞種/小虎鶇)",
+    "sn": "Zoothera dauma dauma",
+    "en": "Scaly Thrush (Scaly)",
+    "es": [
+      "SCTH",
+      "ZODA"
+    ]
+  },
+  "白氏/虎斑地鶇(虎鶇)": {
+    "cn": "白氏/虎斑地鶇",
+    "sn": "Zoothera aurea/dauma",
+    "en": "White's/Scaly Thrush",
+    "es": [
+      "WHTH",
+      "SCTH",
+      "ZODA",
+      "ZOAU"
+    ]
+  },
+  "白眉地鶇": {
+    "cn": "白眉地鶇",
+    "sn": "Geokichla sibirica",
+    "en": "Siberian Thrush",
+    "es": [
+      "SITH",
+      "GESI"
+    ]
+  },
+  "橙頭地鶇": {
+    "cn": "橙頭地鶇",
+    "sn": "Geokichla citrina",
+    "en": "Orange-headed Thrush",
+    "es": [
+      "OHTH",
+      "GECI"
+    ]
+  },
+  "寶興歌鶇": {
+    "cn": "寶興歌鶇",
+    "sn": "Otocichla mupinensis",
+    "en": "Chinese Thrush",
+    "es": [
+      "CHTH",
+      "OTMU"
+    ]
+  },
+  "中國黑鶇": {
+    "cn": "中國黑鶇",
+    "sn": "Turdus mandarinus",
+    "en": "Chinese Blackbird",
+    "es": [
+      "CHBL",
+      "TUMA"
+    ]
+  },
+  "白頭鶇": {
+    "cn": "白頭鶇",
+    "sn": "Turdus niveiceps",
+    "en": "Taiwan Thrush",
+    "es": [
+      "ISTH",
+      "TATH",
+      "TUNI"
+    ]
+  },
+  "烏灰鶇": {
+    "cn": "烏灰鶇",
+    "sn": "Turdus cardis",
+    "en": "Japanese Thrush",
+    "es": [
+      "JATH",
+      "TUCA"
+    ]
+  },
+  "灰背鶇": {
+    "cn": "灰背鶇",
+    "sn": "Turdus hortulorum",
+    "en": "Gray-backed Thrush",
+    "es": [
+      "GBTH",
+      "TUHO"
+    ]
+  },
+  "白眉鶇": {
+    "cn": "白眉鶇",
+    "sn": "Turdus obscurus",
+    "en": "Eyebrowed Thrush",
+    "es": [
+      "EYTH",
+      "TUOB"
+    ]
+  },
+  "赤腹鶇": {
+    "cn": "赤腹鶇",
+    "sn": "Turdus chrysolaus",
+    "en": "Brown-headed Thrush",
+    "es": [
+      "BHTH",
+      "TUCH"
+    ]
+  },
+  "白腹鶇": {
+    "cn": "白腹鶇",
+    "sn": "Turdus pallidus",
+    "en": "Pale Thrush",
+    "es": [
+      "PATH",
+      "TUPA"
+    ]
+  },
+  "黑頸鶇": {
+    "cn": "黑頸鶇",
+    "sn": "Turdus atrogularis",
+    "en": "Black-throated Thrush",
+    "es": [
+      "BTTH",
+      "TUAT"
+    ]
+  },
+  "赤頸鶇": {
+    "cn": "赤頸鶇",
+    "sn": "Turdus ruficollis",
+    "en": "Red-throated Thrush",
+    "es": [
+      "RTTH",
+      "TURU"
+    ]
+  },
+  "斑點鶇": {
+    "cn": "斑點鶇",
+    "sn": "Turdus eunomus",
+    "en": "Dusky Thrush",
+    "es": [
+      "DUTH",
+      "TUEU"
+    ]
+  },
+  "紅尾鶇": {
+    "cn": "紅尾鶇",
+    "sn": "Turdus naumanni",
+    "en": "Naumann's Thrush",
+    "es": [
+      "NATH",
+      "TUNA"
+    ]
+  },
+  "斑點/紅尾鶇": {
+    "cn": "斑點/紅尾鶇",
+    "sn": "Turdus eunomus/naumanni",
+    "en": "Dusky/Naumann's Thrush",
+    "es": []
+  },
+  "鶇屬(XX鶇)": {
+    "cn": "鶇屬",
+    "sn": "Turdus sp.",
+    "en": "Turdus sp.",
+    "es": []
+  },
+  "鶇科(XX鶇)": {
+    "cn": "鶇科",
+    "sn": "Turdidae sp.",
+    "en": "thrush sp.",
+    "es": []
+  },
+  "灰斑鶲": {
+    "cn": "灰斑鶲",
+    "sn": "Muscicapa griseisticta",
+    "en": "Gray-streaked Flycatcher",
+    "es": [
+      "GSFL",
+      "MUGR"
+    ]
+  },
+  "烏鶲": {
+    "cn": "烏鶲",
+    "sn": "Muscicapa sibirica",
+    "en": "Dark-sided Flycatcher",
+    "es": [
+      "DSFL",
+      "MUSI"
+    ]
+  },
+  "灰斑鶲/烏鶲": {
+    "cn": "灰斑鶲/烏鶲",
+    "sn": "Muscicapa griseisticta/sibirica",
+    "en": "Gray-streaked/Dark-sided Flycatcher",
+    "es": []
+  },
+  "紅尾鶲": {
+    "cn": "紅尾鶲",
+    "sn": "Muscicapa ferruginea",
+    "en": "Ferruginous Flycatcher",
+    "es": [
+      "FEFL",
+      "MUFE"
+    ]
+  },
+  "寬嘴鶲": {
+    "cn": "寬嘴鶲",
+    "sn": "Muscicapa dauurica",
+    "en": "Asian Brown Flycatcher",
+    "es": [
+      "ABFL",
+      "MUDA"
+    ]
+  },
+  "褐胸鶲": {
+    "cn": "褐胸鶲",
+    "sn": "Muscicapa muttui",
+    "en": "Brown-breasted Flycatcher",
+    "es": [
+      "BBFL",
+      "MUMU"
+    ]
+  },
+  "斑鶲": {
+    "cn": "斑鶲",
+    "sn": "Muscicapa striata",
+    "en": "Spotted Flycatcher",
+    "es": [
+      "SPFL",
+      "MUST"
+    ]
+  },
+  "鶲屬(XX鶲)": {
+    "cn": "鶲屬",
+    "sn": "Muscicapa sp.",
+    "en": "Muscicapa sp.",
+    "es": []
+  },
+  "鵲鴝": {
+    "cn": "鵲鴝",
+    "sn": "Copsychus saularis",
+    "en": "Oriental Magpie-Robin",
+    "es": [
+      "ORMR",
+      "OMRO",
+      "COSA"
+    ]
+  },
+  "白腰鵲鴝": {
+    "cn": "白腰鵲鴝",
+    "sn": "Copsychus malabaricus",
+    "en": "White-rumped Shama",
+    "es": [
+      "WRSH",
+      "WRCS",
+      "COMA"
+    ]
+  },
+  "海南藍仙鶲": {
+    "cn": "海南藍仙鶲",
+    "sn": "Cyornis hainanus",
+    "en": "Hainan Blue Flycatcher",
+    "es": [
+      "HBFL",
+      "CYHA"
+    ]
+  },
+  "白喉林鶲": {
+    "cn": "白喉林鶲",
+    "sn": "Cyornis brunneatus",
+    "en": "Brown-chested Jungle-Flycatcher",
+    "es": [
+      "BCJF",
+      "CYBR"
+    ]
+  },
+  "棕腹大仙鶲": {
+    "cn": "棕腹大仙鶲",
+    "sn": "Niltava davidi",
+    "en": "Fujian Niltava",
+    "es": [
+      "FUNI",
+      "NIDA"
+    ]
+  },
+  "棕腹仙鶲": {
+    "cn": "棕腹仙鶲",
+    "sn": "Niltava sundara",
+    "en": "Rufous-bellied Niltava",
+    "es": [
+      "RBNI",
+      "NISU"
+    ]
+  },
+  "黃腹琉璃": {
+    "cn": "黃腹琉璃",
+    "sn": "Niltava vivida",
+    "en": "Vivid Niltava",
+    "es": [
+      "VINI",
+      "NIVI"
+    ]
+  },
+  "仙鶲屬": {
+    "cn": "仙鶲屬",
+    "sn": "Niltava sp.",
+    "en": "niltava sp.",
+    "es": []
+  },
+  "白腹琉璃": {
+    "cn": "白腹琉璃",
+    "sn": "Cyanoptila cyanomelana",
+    "en": "Blue-and-white Flycatcher",
+    "es": [
+      "BAWF",
+      "CYCY"
+    ]
+  },
+  "琉璃藍鶲": {
+    "cn": "琉璃藍鶲",
+    "sn": "Cyanoptila cumatilis",
+    "en": "Zappey's Flycatcher",
+    "es": [
+      "ZAFL",
+      "CYCU"
+    ]
+  },
+  "白腹琉璃/琉璃藍鶲": {
+    "cn": "白腹琉璃/琉璃藍鶲",
+    "sn": "Cyanoptila cyanomelana/cumatilis",
+    "en": "Blue-and-white/Zappey's Flycatcher",
+    "es": []
+  },
+  "銅藍鶲": {
+    "cn": "銅藍鶲",
+    "sn": "Eumyias thalassinus",
+    "en": "Verditer Flycatcher",
+    "es": [
+      "VEFL",
+      "EUTH"
+    ]
+  },
+  "白喉短翅鶇": {
+    "cn": "白喉短翅鶇",
+    "sn": "Brachypteryx leucophris",
+    "en": "Lesser Shortwing",
+    "es": [
+      "LESH",
+      "BRLE"
+    ]
+  },
+  "小翼鶇": {
+    "cn": "小翼鶇",
+    "sn": "Brachypteryx goodfellowi",
+    "en": "Taiwan Shortwing",
+    "es": [
+      "WBSH",
+      "TASH",
+      "BRGO"
+    ]
+  },
+  "紅尾歌鴝": {
+    "cn": "紅尾歌鴝",
+    "sn": "Larvivora sibilans",
+    "en": "Rufous-tailed Robin",
+    "es": [
+      "RTRO",
+      "LASI"
+    ]
+  },
+  "日本歌鴝": {
+    "cn": "日本歌鴝",
+    "sn": "Larvivora akahige",
+    "en": "Japanese Robin",
+    "es": [
+      "JARO",
+      "LAAK"
+    ]
+  },
+  "琉球歌鴝": {
+    "cn": "琉球歌鴝",
+    "sn": "Larvivora komadori",
+    "en": "Ryukyu Robin",
+    "es": [
+      "RYRO",
+      "LAKO"
+    ]
+  },
+  "藍歌鴝": {
+    "cn": "藍歌鴝",
+    "sn": "Larvivora cyane",
+    "en": "Siberian Blue Robin",
+    "es": [
+      "SBRO",
+      "LACY"
+    ]
+  },
+  "藍喉鴝": {
+    "cn": "藍喉鴝",
+    "sn": "Luscinia svecica",
+    "en": "Bluethroat",
+    "es": [
+      "BLUE",
+      "LUSV"
+    ]
+  },
+  "台灣紫嘯鶇": {
+    "cn": "台灣紫嘯鶇",
+    "sn": "Myophonus insularis",
+    "en": "Taiwan Whistling-Thrush",
+    "es": [
+      "TWTH",
+      "TAWT",
+      "MYIN"
+    ]
+  },
+  "白斑紫嘯鶇": {
+    "cn": "白斑紫嘯鶇",
+    "sn": "Myophonus caeruleus",
+    "en": "Blue Whistling-Thrush",
+    "es": [
+      "BLWT",
+      "BWTH",
+      "MYCA"
+    ]
+  },
+  "白斑紫嘯鶇(黑嘴)": {
+    "cn": "白斑紫嘯鶇(黑嘴)",
+    "sn": "Myophonus caeruleus caeruleus",
+    "en": "Blue Whistling-Thrush (Black-billed)",
+    "es": []
+  },
+  "紫嘯鶇屬": {
+    "cn": "紫嘯鶇屬",
+    "sn": "Myophonus sp.",
+    "en": "whistling-thrush sp.",
+    "es": []
+  },
+  "小剪尾": {
+    "cn": "小剪尾",
+    "sn": "Enicurus scouleri",
+    "en": "Little Forktail",
+    "es": [
+      "LIFO",
+      "ENSC"
+    ]
+  },
+  "野鴝": {
+    "cn": "野鴝",
+    "sn": "Calliope calliope",
+    "en": "Siberian Rubythroat",
+    "es": [
+      "SIRU",
+      "CACA"
+    ]
+  },
+  "白尾鴝": {
+    "cn": "白尾鴝",
+    "sn": "Myiomela leucura",
+    "en": "White-tailed Robin",
+    "es": [
+      "WTRO",
+      "MYLE"
+    ]
+  },
+  "藍尾鴝": {
+    "cn": "藍尾鴝",
+    "sn": "Tarsiger cyanurus",
+    "en": "Red-flanked Bluetail",
+    "es": [
+      "RFBL",
+      "TACY"
+    ]
+  },
+  "白眉林鴝": {
+    "cn": "白眉林鴝",
+    "sn": "Tarsiger indicus",
+    "en": "White-browed Bush-Robin",
+    "es": [
+      "WBBR",
+      "TAIN"
+    ]
+  },
+  "栗背林鴝": {
+    "cn": "栗背林鴝",
+    "sn": "Tarsiger johnstoniae",
+    "en": "Collared Bush-Robin",
+    "es": [
+      "COBR",
+      "CBRO",
+      "TAJO"
+    ]
+  },
+  "白眉/栗背林鴝": {
+    "cn": "白眉/栗背林鴝",
+    "sn": "Tarsiger indicus/johnstoniae",
+    "en": "White-browed/Collared Bush-Robin",
+    "es": [
+      "WBBR",
+      "CBRO",
+      "COBR",
+      "TAJO",
+      "TAIN"
+    ]
+  },
+  "白眉鶲": {
+    "cn": "白眉鶲",
+    "sn": "Ficedula zanthopygia",
+    "en": "Yellow-rumped Flycatcher",
+    "es": [
+      "KOFL",
+      "YRFL",
+      "FIZA"
+    ]
+  },
+  "綠背姬鶲": {
+    "cn": "綠背姬鶲",
+    "sn": "Ficedula elisae",
+    "en": "Green-backed Flycatcher",
+    "es": [
+      "GBFL",
+      "FIEL"
+    ]
+  },
+  "黃眉黃鶲": {
+    "cn": "黃眉黃鶲",
+    "sn": "Ficedula narcissina",
+    "en": "Narcissus Flycatcher",
+    "es": [
+      "NAFL",
+      "FINA"
+    ]
+  },
+  "白眉鶲/綠背姬鶲/黃眉黃鶲": {
+    "cn": "白眉鶲/綠背姬鶲/黃眉黃鶲",
+    "sn": "Ficedula zanthopygia/elisae/narcissina",
+    "en": "Yellow-rumped/Green-backed/Narcissus Flycatcher",
+    "es": []
+  },
+  "白眉黃鶲": {
+    "cn": "白眉黃鶲",
+    "sn": "Ficedula mugimaki",
+    "en": "Mugimaki Flycatcher",
+    "es": [
+      "MUFL",
+      "FIMU"
+    ]
+  },
+  "銹胸藍姬鶲": {
+    "cn": "銹胸藍姬鶲",
+    "sn": "Ficedula erithacus",
+    "en": "Slaty-backed Flycatcher",
+    "es": [
+      "SBFL",
+      "FIER"
+    ]
+  },
+  "黃胸青鶲": {
+    "cn": "黃胸青鶲",
+    "sn": "Ficedula hyperythra",
+    "en": "Snowy-browed Flycatcher",
+    "es": [
+      "SBFL",
+      "FIHY"
+    ]
+  },
+  "橙胸姬鶲": {
+    "cn": "橙胸姬鶲",
+    "sn": "Ficedula strophiata",
+    "en": "Rufous-gorgeted Flycatcher",
+    "es": [
+      "RGFL",
+      "FIST"
+    ]
+  },
+  "紅喉鶲": {
+    "cn": "紅喉鶲",
+    "sn": "Ficedula albicilla",
+    "en": "Taiga Flycatcher",
+    "es": [
+      "TAFL",
+      "FIAL"
+    ]
+  },
+  "紅胸鶲": {
+    "cn": "紅胸鶲",
+    "sn": "Ficedula parva",
+    "en": "Red-breasted Flycatcher",
+    "es": [
+      "RBFL",
+      "FIPA"
+    ]
+  },
+  "紅喉/紅胸鶲": {
+    "cn": "紅喉/紅胸鶲",
+    "sn": "Ficedula albicilla/parva",
+    "en": "Taiga/Red-breasted Flycatcher",
+    "es": [
+      "RBFL",
+      "TAFL",
+      "FIPA",
+      "FIAL"
+    ]
+  },
+  "姬鶲屬": {
+    "cn": "姬鶲屬",
+    "sn": "Ficedula sp.",
+    "en": "Ficedula sp.",
+    "es": []
+  },
+  "藍額紅尾鴝": {
+    "cn": "藍額紅尾鴝",
+    "sn": "Phoenicurus frontalis",
+    "en": "Blue-fronted Redstart",
+    "es": [
+      "BFRE",
+      "PHFR"
+    ]
+  },
+  "鉛色水鶇": {
+    "cn": "鉛色水鶇",
+    "sn": "Phoenicurus fuliginosus",
+    "en": "Plumbeous Redstart",
+    "es": [
+      "PLRE",
+      "PWRE",
+      "PHFU"
+    ]
+  },
+  "白頂溪鴝": {
+    "cn": "白頂溪鴝",
+    "sn": "Phoenicurus leucocephalus",
+    "en": "White-capped Redstart",
+    "es": [
+      "WCRE",
+      "PHLE"
+    ]
+  },
+  "赭紅尾鴝": {
+    "cn": "赭紅尾鴝",
+    "sn": "Phoenicurus ochruros",
+    "en": "Black Redstart",
+    "es": [
+      "BLRE",
+      "PHOC"
+    ]
+  },
+  "黃尾鴝": {
+    "cn": "黃尾鴝",
+    "sn": "Phoenicurus auroreus",
+    "en": "Daurian Redstart",
+    "es": [
+      "DARE",
+      "PHAU"
+    ]
+  },
+  "白喉磯鶇": {
+    "cn": "白喉磯鶇",
+    "sn": "Monticola gularis",
+    "en": "White-throated Rock-Thrush",
+    "es": [
+      "WTRT",
+      "MOGU"
+    ]
+  },
+  "藍磯鶇": {
+    "cn": "藍磯鶇",
+    "sn": "Monticola solitarius",
+    "en": "Blue Rock-Thrush",
+    "es": [
+      "BLRT",
+      "BRTH",
+      "MOSO"
+    ]
+  },
+  "藍磯鶇(藍腹)": {
+    "cn": "藍磯鶇(藍腹)",
+    "sn": "Monticola solitarius pandoo",
+    "en": "Blue Rock-Thrush (pandoo)",
+    "es": [
+      "BLRT",
+      "BRTH",
+      "MOSO"
+    ]
+  },
+  "藍磯鶇(栗腹)": {
+    "cn": "藍磯鶇(栗腹)",
+    "sn": "Monticola solitarius philippensis",
+    "en": "Blue Rock-Thrush (philippensis)",
+    "es": []
+  },
+  "黑喉鴝": {
+    "cn": "黑喉鴝",
+    "sn": "Saxicola maurus",
+    "en": "Siberian Stonechat",
+    "es": [
+      "SIST",
+      "SAMA"
+    ]
+  },
+  "白斑黑石䳭": {
+    "cn": "白斑黑石䳭",
+    "sn": "Saxicola caprata",
+    "en": "Pied Bushchat",
+    "es": [
+      "PIBU",
+      "PBCH",
+      "PIST",
+      "SACA"
+    ]
+  },
+  "灰叢鴝": {
+    "cn": "灰叢鴝",
+    "sn": "Saxicola ferreus",
+    "en": "Gray Bushchat",
+    "es": [
+      "GBCH",
+      "GRBU",
+      "SAFE"
+    ]
+  },
+  "穗䳭": {
+    "cn": "穗䳭",
+    "sn": "Oenanthe oenanthe",
+    "en": "Northern Wheatear",
+    "es": [
+      "NOWH",
+      "OEOE"
+    ]
+  },
+  "沙䳭": {
+    "cn": "沙䳭",
+    "sn": "Oenanthe isabellina",
+    "en": "Isabelline Wheatear",
+    "es": [
+      "ISWH",
+      "OEIS"
+    ]
+  },
+  "漠䳭": {
+    "cn": "漠䳭",
+    "sn": "Oenanthe deserti",
+    "en": "Desert Wheatear",
+    "es": [
+      "DEWH",
+      "OEDE"
+    ]
+  },
+  "白頂䳭": {
+    "cn": "白頂䳭",
+    "sn": "Oenanthe pleschanka",
+    "en": "Pied Wheatear",
+    "es": [
+      "PIWH",
+      "OEPL"
+    ]
+  },
+  "䳭屬": {
+    "cn": "䳭屬",
+    "sn": "Oenanthe sp.",
+    "en": "wheatear sp.",
+    "es": []
+  },
+  "鶲科": {
+    "cn": "鶲科",
+    "sn": "Muscicapidae sp.",
+    "en": "Muscicapid sp.",
+    "es": []
+  },
+  "黃連雀": {
+    "cn": "黃連雀",
+    "sn": "Bombycilla garrulus",
+    "en": "Bohemian Waxwing",
+    "es": [
+      "BOWA",
+      "BOGA"
+    ]
+  },
+  "朱連雀": {
+    "cn": "朱連雀",
+    "sn": "Bombycilla japonica",
+    "en": "Japanese Waxwing",
+    "es": [
+      "JAWA",
+      "BOJA"
+    ]
+  },
+  "綠啄花": {
+    "cn": "綠啄花",
+    "sn": "Dicaeum minullum",
+    "en": "Plain Flowerpecker",
+    "es": [
+      "PLFL",
+      "DIMI"
+    ]
+  },
+  "紅胸啄花": {
+    "cn": "紅胸啄花",
+    "sn": "Dicaeum ignipectus",
+    "en": "Fire-breasted Flowerpecker",
+    "es": [
+      "FBFL",
+      "DIIG"
+    ]
+  },
+  "啄花屬(XX啄花)": {
+    "cn": "啄花屬",
+    "sn": "Dicaeum sp.",
+    "en": "Dicaeum sp.",
+    "es": []
+  },
+  "黃腹花蜜鳥": {
+    "cn": "黃腹花蜜鳥",
+    "sn": "Cinnyris jugularis",
+    "en": "Olive-backed Sunbird",
+    "es": [
+      "OBSU",
+      "CIJU"
+    ]
+  },
+  "藍喉太陽鳥": {
+    "cn": "藍喉太陽鳥",
+    "sn": "Aethopyga gouldiae",
+    "en": "Mrs. Gould's Sunbird",
+    "es": [
+      "MGSU",
+      "GOSU",
+      "AEGO"
+    ]
+  },
+  "叉尾太陽鳥": {
+    "cn": "叉尾太陽鳥",
+    "sn": "Aethopyga christinae",
+    "en": "Fork-tailed Sunbird",
+    "es": [
+      "FTSU",
+      "AECH"
+    ]
+  },
+  "黑頭織雀": {
+    "cn": "黑頭織雀",
+    "sn": "Ploceus cucullatus",
+    "en": "Village Weaver",
+    "es": [
+      "VIWE",
+      "PLCU"
+    ]
+  },
+  "橙頰梅花雀": {
+    "cn": "橙頰梅花雀",
+    "sn": "Estrilda melpoda",
+    "en": "Orange-cheeked Waxbill",
+    "es": [
+      "OCHW",
+      "OCWA",
+      "ESME"
+    ]
+  },
+  "橫斑梅花雀": {
+    "cn": "橫斑梅花雀",
+    "sn": "Estrilda astrild",
+    "en": "Common Waxbill",
+    "es": [
+      "COMW",
+      "COWA",
+      "ESAS"
+    ]
+  },
+  "紅梅花雀": {
+    "cn": "紅梅花雀",
+    "sn": "Amandava amandava",
+    "en": "Red Avadavat",
+    "es": [
+      "REAV",
+      "AMAM"
+    ]
+  },
+  "白喉文鳥": {
+    "cn": "白喉文鳥",
+    "sn": "Euodice malabarica",
+    "en": "Indian Silverbill",
+    "es": [
+      "INSI",
+      "EUMA"
+    ]
+  },
+  "白腰文鳥": {
+    "cn": "白腰文鳥",
+    "sn": "Lonchura striata",
+    "en": "White-rumped Munia",
+    "es": [
+      "WRMU",
+      "LOST"
+    ]
+  },
+  "斑文鳥": {
+    "cn": "斑文鳥",
+    "sn": "Lonchura punctulata",
+    "en": "Scaly-breasted Munia",
+    "es": [
+      "SBMU",
+      "LOPU"
+    ]
+  },
+  "黑頭文鳥": {
+    "cn": "黑頭文鳥",
+    "sn": "Lonchura atricapilla",
+    "en": "Chestnut Munia",
+    "es": [
+      "CHMU",
+      "LOAT"
+    ]
+  },
+  "白頭文鳥": {
+    "cn": "白頭文鳥",
+    "sn": "Lonchura maja",
+    "en": "White-headed Munia",
+    "es": [
+      "WHMU",
+      "LOMA"
+    ]
+  },
+  "爪哇雀": {
+    "cn": "爪哇雀",
+    "sn": "Lonchura oryzivora",
+    "en": "Java Sparrow",
+    "es": [
+      "JASP",
+      "LOOR"
+    ]
+  },
+  "文鳥屬(XX文鳥)": {
+    "cn": "文鳥屬",
+    "sn": "Lonchura sp.",
+    "en": "Lonchura sp.",
+    "es": []
+  },
+  "針尾維達雀": {
+    "cn": "針尾維達雀",
+    "sn": "Vidua macroura",
+    "en": "Pin-tailed Whydah",
+    "es": [
+      "PTWH",
+      "VIMA"
+    ]
+  },
+  "岩鷚": {
+    "cn": "岩鷚",
+    "sn": "Prunella collaris",
+    "en": "Alpine Accentor",
+    "es": [
+      "ALAC",
+      "PRCO"
+    ]
+  },
+  "家麻雀": {
+    "cn": "家麻雀",
+    "sn": "Passer domesticus",
+    "en": "House Sparrow",
+    "es": [
+      "HOSP",
+      "PADO"
+    ]
+  },
+  "山麻雀": {
+    "cn": "山麻雀",
+    "sn": "Passer cinnamomeus",
+    "en": "Russet Sparrow",
+    "es": [
+      "RUSP",
+      "PACI"
+    ]
+  },
+  "麻雀": {
+    "cn": "麻雀",
+    "sn": "Passer montanus",
+    "en": "Eurasian Tree Sparrow",
+    "es": [
+      "ETSP",
+      "PAMO"
+    ]
+  },
+  "麻雀屬": {
+    "cn": "麻雀屬",
+    "sn": "Passer sp.",
+    "en": "Passer sp.",
+    "es": []
+  },
+  "山鶺鴒": {
+    "cn": "山鶺鴒",
+    "sn": "Dendronanthus indicus",
+    "en": "Forest Wagtail",
+    "es": [
+      "FOWA",
+      "DEIN"
+    ]
+  },
+  "灰鶺鴒": {
+    "cn": "灰鶺鴒",
+    "sn": "Motacilla cinerea",
+    "en": "Gray Wagtail",
+    "es": [
+      "GRAW",
+      "GRWA",
+      "MOCI"
+    ]
+  },
+  "西方黃鶺鴒": {
+    "cn": "西方黃鶺鴒",
+    "sn": "Motacilla flava",
+    "en": "Western Yellow Wagtail",
+    "es": [
+      "WYWA",
+      "MOFL"
+    ]
+  },
+  "西方黃鶺鴒(灰頭)": {
+    "cn": "西方黃鶺鴒(灰頭)",
+    "sn": "Motacilla flava thunbergi",
+    "en": "Western Yellow Wagtail (thunbergi)",
+    "es": []
+  },
+  "東方黃鶺鴒": {
+    "cn": "東方黃鶺鴒",
+    "sn": "Motacilla tschutschensis",
+    "en": "Eastern Yellow Wagtail",
+    "es": [
+      "EYWA",
+      "MOTS"
+    ]
+  },
+  "東方黃鶺鴒(白眉)": {
+    "cn": "東方黃鶺鴒(白眉)",
+    "sn": "Motacilla tschutschensis tschutschensis/plexa",
+    "en": "Eastern Yellow Wagtail (Eastern)",
+    "es": []
+  },
+  "東方黃鶺鴒(黃眉)": {
+    "cn": "東方黃鶺鴒(黃眉)",
+    "sn": "Motacilla tschutschensis taivana",
+    "en": "Eastern Yellow Wagtail (Green-headed)",
+    "es": []
+  },
+  "東方黃鶺鴒(藍頭)": {
+    "cn": "東方黃鶺鴒(藍頭)",
+    "sn": "Motacilla tschutschensis macronyx",
+    "en": "Eastern Yellow Wagtail (Manchurian)",
+    "es": []
+  },
+  "黃頭鶺鴒": {
+    "cn": "黃頭鶺鴒",
+    "sn": "Motacilla citreola",
+    "en": "Citrine Wagtail",
+    "es": [
+      "CIWA",
+      "MOCI"
+    ]
+  },
+  "日本鶺鴒": {
+    "cn": "日本鶺鴒",
+    "sn": "Motacilla grandis",
+    "en": "Japanese Wagtail",
+    "es": [
+      "JAWA",
+      "MOGR"
+    ]
+  },
+  "白鶺鴒": {
+    "cn": "白鶺鴒",
+    "sn": "Motacilla alba",
+    "en": "White Wagtail",
+    "es": [
+      "WHWA",
+      "PWWA",
+      "MOAL"
+    ]
+  },
+  "白鶺鴒(灰背眼紋)": {
+    "cn": "白鶺鴒(灰背眼紋)",
+    "sn": "Motacilla alba ocularis",
+    "en": "White Wagtail (ocularis)",
+    "es": []
+  },
+  "白鶺鴒(黑背眼紋)": {
+    "cn": "白鶺鴒(黑背眼紋)",
+    "sn": "Motacilla alba lugens",
+    "en": "White Wagtail (Black-backed)",
+    "es": []
+  },
+  "白鶺鴒(白面)": {
+    "cn": "白鶺鴒(白面)",
+    "sn": "Motacilla alba leucopsis",
+    "en": "White Wagtail (Chinese)",
+    "es": [
+      "PWWA",
+      "WHWA",
+      "MOAL"
+    ]
+  },
+  "鶺鴒屬(XX鶺鴒)": {
+    "cn": "鶺鴒屬",
+    "sn": "Motacilla sp.",
+    "en": "wagtail sp.",
+    "es": []
+  },
+  "大花鷚": {
+    "cn": "大花鷚",
+    "sn": "Anthus richardi",
+    "en": "Richard's Pipit",
+    "es": [
+      "RIPI",
+      "ANRI"
+    ]
+  },
+  "田鷚": {
+    "cn": "田鷚",
+    "sn": "Anthus rufulus",
+    "en": "Paddyfield Pipit",
+    "es": [
+      "PAPI",
+      "ANRU"
+    ]
+  },
+  "布萊氏鷚": {
+    "cn": "布萊氏鷚",
+    "sn": "Anthus godlewskii",
+    "en": "Blyth's Pipit",
+    "es": [
+      "BLPI",
+      "ANGO"
+    ]
+  },
+  "草地鷚": {
+    "cn": "草地鷚",
+    "sn": "Anthus pratensis",
+    "en": "Meadow Pipit",
+    "es": [
+      "MEPI",
+      "ANPR"
+    ]
+  },
+  "林鷚": {
+    "cn": "林鷚",
+    "sn": "Anthus trivialis",
+    "en": "Tree Pipit",
+    "es": [
+      "TRPI",
+      "ANTR"
+    ]
+  },
+  "樹鷚": {
+    "cn": "樹鷚",
+    "sn": "Anthus hodgsoni",
+    "en": "Olive-backed Pipit",
+    "es": [
+      "OBPI",
+      "ANHO"
+    ]
+  },
+  "林/樹鷚": {
+    "cn": "林/樹鷚",
+    "sn": "Anthus trivialis/hodgsoni",
+    "en": "Tree/Olive-backed Pipit",
+    "es": []
+  },
+  "白背鷚": {
+    "cn": "白背鷚",
+    "sn": "Anthus gustavi",
+    "en": "Pechora Pipit",
+    "es": [
+      "PEPI",
+      "ANGU"
+    ]
+  },
+  "赤喉鷚": {
+    "cn": "赤喉鷚",
+    "sn": "Anthus cervinus",
+    "en": "Red-throated Pipit",
+    "es": [
+      "RTPI",
+      "ANCE"
+    ]
+  },
+  "水鷚": {
+    "cn": "水鷚",
+    "sn": "Anthus spinoletta",
+    "en": "Water Pipit",
+    "es": [
+      "WAPI",
+      "ANSP"
+    ]
+  },
+  "黃腹鷚": {
+    "cn": "黃腹鷚",
+    "sn": "Anthus rubescens",
+    "en": "American Pipit",
+    "es": [
+      "AMPI",
+      "BBPI",
+      "ANRU"
+    ]
+  },
+  "鷚屬(XX鷚)": {
+    "cn": "鷚屬",
+    "sn": "Anthus sp.",
+    "en": "pipit sp.",
+    "es": []
+  },
+  "花雀": {
+    "cn": "花雀",
+    "sn": "Fringilla montifringilla",
+    "en": "Brambling",
+    "es": [
+      "BRAM",
+      "FRMO"
+    ]
+  },
+  "臘嘴雀": {
+    "cn": "臘嘴雀",
+    "sn": "Coccothraustes coccothraustes",
+    "en": "Hawfinch",
+    "es": [
+      "HAWF",
+      "COCO"
+    ]
+  },
+  "小桑鳲": {
+    "cn": "小桑鳲",
+    "sn": "Eophona migratoria",
+    "en": "Yellow-billed Grosbeak",
+    "es": [
+      "YBGR",
+      "CHGR",
+      "EOMI"
+    ]
+  },
+  "桑鳲": {
+    "cn": "桑鳲",
+    "sn": "Eophona personata",
+    "en": "Japanese Grosbeak",
+    "es": [
+      "JAGR",
+      "EOPE"
+    ]
+  },
+  "普通朱雀": {
+    "cn": "普通朱雀",
+    "sn": "Carpodacus erythrinus",
+    "en": "Common Rosefinch",
+    "es": [
+      "CORO",
+      "CAER"
+    ]
+  },
+  "台灣朱雀": {
+    "cn": "台灣朱雀",
+    "sn": "Carpodacus formosanus",
+    "en": "Taiwan Rosefinch",
+    "es": [
+      "TARO",
+      "CAFO"
+    ]
+  },
+  "褐鷽": {
+    "cn": "褐鷽",
+    "sn": "Pyrrhula nipalensis",
+    "en": "Brown Bullfinch",
+    "es": [
+      "BRBU",
+      "PYNI"
+    ]
+  },
+  "灰鷽": {
+    "cn": "灰鷽",
+    "sn": "Pyrrhula erythaca",
+    "en": "Gray-headed Bullfinch",
+    "es": [
+      "GHBU",
+      "PYER"
+    ]
+  },
+  "褐鷽/灰鷽": {
+    "cn": "褐鷽/灰鷽",
+    "sn": "Pyrrhula nipalensis/erythaca",
+    "en": "Brown/Gray-headed Bullfinch",
+    "es": []
+  },
+  "金翅雀": {
+    "cn": "金翅雀",
+    "sn": "Chloris sinica",
+    "en": "Oriental Greenfinch",
+    "es": [
+      "ORGR",
+      "GCGR",
+      "CHSI"
+    ]
+  },
+  "黃額絲雀": {
+    "cn": "黃額絲雀",
+    "sn": "Crithagra mozambica",
+    "en": "Yellow-fronted Canary",
+    "es": [
+      "YFCA",
+      "CRMO"
+    ]
+  },
+  "普通朱頂雀": {
+    "cn": "普通朱頂雀",
+    "sn": "Acanthis flammea",
+    "en": "Common Redpoll",
+    "es": [
+      "CORE",
+      "ACFL"
+    ]
+  },
+  "黃雀": {
+    "cn": "黃雀",
+    "sn": "Spinus spinus",
+    "en": "Eurasian Siskin",
+    "es": [
+      "EUSI",
+      "SPSP"
+    ]
+  },
+  "雀科": {
+    "cn": "雀科",
+    "sn": "Fringillidae sp.",
+    "en": "finch sp.",
+    "es": []
+  },
+  "鐵爪鵐": {
+    "cn": "鐵爪鵐",
+    "sn": "Calcarius lapponicus",
+    "en": "Lapland Longspur",
+    "es": [
+      "LALO",
+      "LABU",
+      "CALA"
+    ]
+  },
+  "冠鵐": {
+    "cn": "冠鵐",
+    "sn": "Emberiza lathami",
+    "en": "Crested Bunting",
+    "es": [
+      "CRBU",
+      "EMLA"
+    ]
+  },
+  "黑頭鵐": {
+    "cn": "黑頭鵐",
+    "sn": "Emberiza melanocephala",
+    "en": "Black-headed Bunting",
+    "es": [
+      "BHBU",
+      "EMME"
+    ]
+  },
+  "褐頭鵐": {
+    "cn": "褐頭鵐",
+    "sn": "Emberiza bruniceps",
+    "en": "Red-headed Bunting",
+    "es": [
+      "RHBU",
+      "EMBR"
+    ]
+  },
+  "黑頭/褐頭鵐": {
+    "cn": "黑頭/褐頭鵐",
+    "sn": "Emberiza melanocephala/bruniceps",
+    "en": "Black-headed/Red-headed Bunting",
+    "es": []
+  },
+  "赤胸鵐": {
+    "cn": "赤胸鵐",
+    "sn": "Emberiza fucata",
+    "en": "Chestnut-eared Bunting",
+    "es": [
+      "CEBU",
+      "EMFU"
+    ]
+  },
+  "草鵐": {
+    "cn": "草鵐",
+    "sn": "Emberiza cioides",
+    "en": "Meadow Bunting",
+    "es": [
+      "MEBU",
+      "EMCI"
+    ]
+  },
+  "白頭鵐": {
+    "cn": "白頭鵐",
+    "sn": "Emberiza leucocephalos",
+    "en": "Pine Bunting",
+    "es": [
+      "PIBU",
+      "EMLE"
+    ]
+  },
+  "黃喉鵐": {
+    "cn": "黃喉鵐",
+    "sn": "Emberiza elegans",
+    "en": "Yellow-throated Bunting",
+    "es": [
+      "YTBU",
+      "EMEL"
+    ]
+  },
+  "紅頸葦鵐": {
+    "cn": "紅頸葦鵐",
+    "sn": "Emberiza yessoensis",
+    "en": "Ochre-rumped Bunting",
+    "es": [
+      "JRBU",
+      "ORBU",
+      "EMYE"
+    ]
+  },
+  "葦鵐": {
+    "cn": "葦鵐",
+    "sn": "Emberiza pallasi",
+    "en": "Pallas's Bunting",
+    "es": [
+      "PALB",
+      "PRBU",
+      "PABU",
+      "EMPA"
+    ]
+  },
+  "蘆鵐": {
+    "cn": "蘆鵐",
+    "sn": "Emberiza schoeniclus",
+    "en": "Reed Bunting",
+    "es": [
+      "REBU",
+      "CRBU",
+      "EMSC"
+    ]
+  },
+  "金鵐": {
+    "cn": "金鵐",
+    "sn": "Emberiza aureola",
+    "en": "Yellow-breasted Bunting",
+    "es": [
+      "YBSB",
+      "YBBU",
+      "EMAU"
+    ]
+  },
+  "小鵐": {
+    "cn": "小鵐",
+    "sn": "Emberiza pusilla",
+    "en": "Little Bunting",
+    "es": [
+      "LIBU",
+      "EMPU"
+    ]
+  },
+  "田鵐": {
+    "cn": "田鵐",
+    "sn": "Emberiza rustica",
+    "en": "Rustic Bunting",
+    "es": [
+      "RUBU",
+      "EMRU"
+    ]
+  },
+  "野鵐": {
+    "cn": "野鵐",
+    "sn": "Emberiza sulphurata",
+    "en": "Yellow Bunting",
+    "es": [
+      "YEBU",
+      "EMSU"
+    ]
+  },
+  "黑臉鵐": {
+    "cn": "黑臉鵐",
+    "sn": "Emberiza spodocephala",
+    "en": "Black-faced Bunting",
+    "es": [
+      "BFBU",
+      "EMSP"
+    ]
+  },
+  "銹鵐": {
+    "cn": "銹鵐",
+    "sn": "Emberiza rutila",
+    "en": "Chestnut Bunting",
+    "es": [
+      "CHBU",
+      "EMRU"
+    ]
+  },
+  "黃眉鵐": {
+    "cn": "黃眉鵐",
+    "sn": "Emberiza chrysophrys",
+    "en": "Yellow-browed Bunting",
+    "es": [
+      "YBWB",
+      "YBBU",
+      "EMCH"
+    ]
+  },
+  "白眉鵐": {
+    "cn": "白眉鵐",
+    "sn": "Emberiza tristrami",
+    "en": "Tristram's Bunting",
+    "es": [
+      "TRBU",
+      "EMTR"
+    ]
+  },
+  "灰鵐": {
+    "cn": "灰鵐",
+    "sn": "Emberiza variabilis",
+    "en": "Gray Bunting",
+    "es": [
+      "GRBU",
+      "EMVA"
+    ]
+  },
+  "鵐屬(XX鵐)": {
+    "cn": "鵐屬",
+    "sn": "Emberiza sp.",
+    "en": "Emberiza sp.",
+    "es": []
+  },
+  "紅冠唐納雀": {
+    "cn": "紅冠唐納雀",
+    "sn": "Paroaria coronata",
+    "en": "Red-crested Cardinal",
+    "es": [
+      "RCCA",
+      "PACO"
+    ]
+  },
+  "雀形目": {
+    "cn": "雀形目",
+    "sn": "Passeriformes sp.",
+    "en": "passerine sp.",
+    "es": []
+  },
+  "鳥類": {
+    "cn": "鳥類",
+    "sn": "Aves sp.",
+    "en": "bird sp.",
+    "es": [
+      "UNBI"
+    ]
+  },
+  "台灣獼猴": {
+    "cn": "",
+    "sn": "",
+    "en": "",
+    "es": [
+      "MK"
+    ]
+  },
+  "臺灣獼猴": {
+    "cn": "",
+    "sn": "",
+    "en": "",
+    "es": [
+      "MK"
+    ]
+  },
+  "小型鴴類": {
+    "cn": "小型鴴類",
+    "sn": "Charadrius sp.",
+    "en": "small plover sp.",
+    "es": []
+  },
+  "其他": {
+    "cn": "其他",
+    "sn": "",
+    "en": "",
+    "es": [
+      "ETC",
+      "OTHER"
+    ]
+  }
+}
