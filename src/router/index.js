@@ -62,6 +62,11 @@ const routes = [
     name: 'eBird匯入產生器',
     component: () => import('../views/eBirdExport.vue')
   },
+  {
+    path: encodeURI('/更新資料'),
+    name: '更新資料',
+    component: () => import('../views/UpdateData.vue')
+  },
 
   {
     path: '*',

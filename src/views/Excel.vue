@@ -8,7 +8,7 @@ v-app
     v-card.mx-auto(flat)
       v-card-text(v-if="bbs_logs.length==0")
         v-alert(type="success" border="top" colored-border elevation="2") 
-          | 先去野外記錄,季未在來這裡交作業。  
+          | 先去野外記錄,季末再來這裡交作業。  
       v-list(v-if="bbs_logs" two-line)
         v-list-item-group(v-model="selection" multiple)
           template(v-for="(item,index) in bbs_logs")

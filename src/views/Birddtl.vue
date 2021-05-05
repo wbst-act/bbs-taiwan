@@ -355,9 +355,7 @@ export default {
   },
   mounted() {},
   async created() {
-    this.birds = await fetch(
-      this.static_data_path + 'bbs_bird_2021.json'
-    ).then(r => r.json())
+    this.birds = this.$offlineStorage.get('bbs_birds')
     this.log_dtl_id = this.$route.params.logid
     this.$store.dispatch('bbs_log_dtlSelect', { id: this.log_dtl_id })
     this.$store.dispatch('plot_dtlSelect', { id: this.bbs_log_dtl.plot_dtl })

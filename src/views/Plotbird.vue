@@ -55,12 +55,8 @@ export default {
   },
   async created() {
     this.plotid = this.$route.params.plotid
-    this.allbirds = await fetch(
-      this.static_data_path + 'ebird_bird.json'
-    ).then(r => r.json())
-    const res = await fetch(this.static_data_path + 'plot_bird.json').then(r =>
-      r.json()
-    )
+    this.allbirds = this.$offlineStorage.get('tw_birds')
+    const res = this.$offlineStorage.get('plot_birds')
     const datalist = res[this.plotid] ? res[this.plotid] : []
     this.birds = Object.fromEntries(
       Object.entries(this.allbirds).filter(item => datalist.includes(item[1].i))

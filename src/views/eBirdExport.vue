@@ -54,12 +54,8 @@ export default {
     ...mapState(['static_data_path'])
   },
   async mounted() {
-    this.plots = await fetch(this.static_data_path + 'bbs_plot.json').then(r =>
-      r.json()
-    )
-    this.birds = await fetch(
-      this.static_data_path + 'bbs_bird_2021.json'
-    ).then(r => r.json())
+    this.plots = this.$offlineStorage.get('plots')
+    this.birds = this.$offlineStorage.get('bbs_birds')
   },
   methods: {
     changefile(file) {

@@ -100,10 +100,7 @@ export default {
   },
   async mounted() {
     this.$store.dispatch('plotSetFilter', {})
-    console.log('static:', this.static_data_path)
-    this.bbs_taiwan_plots = await fetch(
-      this.static_data_path + 'bbs_plot.json'
-    ).then(r => r.json())
+    this.bbs_taiwan_plots = this.$offlineStorage.get('plots')
   },
   methods: {
     ...mapActions(['plotSelect', 'plot_dtlSetFilter']),

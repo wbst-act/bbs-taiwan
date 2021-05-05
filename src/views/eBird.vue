@@ -61,12 +61,8 @@ export default {
     ...mapState(['static_data_path'])
   },
   async mounted() {
-    this.ebird_family = await fetch(
-      this.static_data_path + 'ebird_family.json'
-    ).then(r => r.json())
-    this.allbirds = await fetch(
-      this.static_data_path + 'ebird_bird.json'
-    ).then(r => r.json())
+    this.ebird_family = this.$offlineStorage.get('tw_familys')
+    this.allbirds = this.$offlineStorage.get('tw_birds')
     this.birds = Object.assign({}, this.allbirds)
   },
   created() {

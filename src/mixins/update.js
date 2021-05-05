@@ -19,7 +19,7 @@ export default {
       // Here the actual reload of the page occurs
       window.location.reload()
       alert('更新成功!')
-      window.location.href = '/'
+      window.location.href = '/bbs-taiwan'
     })
   },
 
